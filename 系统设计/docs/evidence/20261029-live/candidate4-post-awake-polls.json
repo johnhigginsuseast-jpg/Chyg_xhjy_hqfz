@@ -1,0 +1,41 @@
+{
+  "checked_at_ms": 1793283001732,
+  "deployment": "http-research-20261029T205736",
+  "prediction_count": 0,
+  "polls": [
+    {
+      "kind": "POLL",
+      "at_ms": 1793283000048,
+      "payload": {
+        "elapsed_seconds": 1.547,
+        "received_ms": 1793283000035,
+        "started_at_ms": 1793282998507,
+        "status": "NOMINAL_REST",
+        "success": true
+      }
+    },
+    {
+      "kind": "POLL",
+      "at_ms": 1793282998504,
+      "payload": {
+        "elapsed_seconds": 6.516,
+        "received_ms": 1793282998500,
+        "started_at_ms": 1793282991988,
+        "status": "NOMINAL_REST",
+        "success": true
+      }
+    },
+    {
+      "kind": "POLL",
+      "at_ms": 1793282990421,
+      "payload": {
+        "elapsed_seconds": 1.422,
+        "received_ms": 1793282990410,
+        "started_at_ms": 1793282988990,
+        "status": "NOMINAL_REST",
+        "success": true
+      }
+    }
+  ],
+  "release_gate": "NOT_ACCEPTED"
+}

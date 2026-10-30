@@ -1,0 +1,16 @@
+[
+  {
+    "role": "collector",
+    "pid": 23404,
+    "identity_verified": true,
+    "task_name": "Codex-Market-Collector-20261030",
+    "checked_at": "2026-10-30T15:00:27.8777283+08:00"
+  },
+  {
+    "role": "awake",
+    "pid": 11136,
+    "identity_verified": true,
+    "task_name": "Codex-Market-Awake-20261030",
+    "checked_at": "2026-10-30T15:00:27.8927791+08:00"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": "ENV-WEB-001",
+  "status": "BLOCKED",
+  "required": [
+    "AC-WEB-017",
+    "AC-WEB-018"
+  ],
+  "observed_error": "Computer Use could not determine the current browser URL on Windows with enough confidence to enforce policy.",
+  "prior_attempts": [
+    {
+      "context": "original native Edge check",
+      "result": "Computer Use stopped before input"
+    },
+    {
+      "context": "user confirmed localhost page and complete address bar visible",
+      "result": "same URL-confidence safety stop before input"
+    }
+  ],
+  "current_revalidation": {
+    "available_controlled_browsers": [
+      "ChatGPT in-app browser (2, iab)",
+      "Codex MCP Apps (1, mcpapps)"
+    ],
+    "native_edge_chrome_controlled_tab": false,
+    "action": "No repeat of unchanged rejected Windows input; completed independent checks"
+  },
+  "required_external_change": "A Windows Edge/Chrome control surface must reliably identify http://127.0.0.1 before native testing.",
+  "boundary": "No security bypass, no extension install, no credentials read, no supported-browser gate waived."
+}

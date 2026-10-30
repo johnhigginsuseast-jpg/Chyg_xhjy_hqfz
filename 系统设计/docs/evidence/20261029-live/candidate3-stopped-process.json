@@ -1,0 +1,20 @@
+{
+  "previous_pid": 25496,
+  "entry_code": "import runpy,sys; stream=open(r'D:\\mycode\\沧海易购1\\系统设计\\runtime\\http-research\\console-independent-20261029T160309.log','a',encoding='utf-8',buffering=1); sys.stdout=stream; sys.stderr=stream; runpy.run_module('realtime',run_name='__main__',alter_sys=True)",
+  "launcher_start_time_utc": "2026-10-29T08:03:06.0707921Z",
+  "launcher_pid": 3168,
+  "launch_method": "Start-Process Hidden; Python-owned logging, no PowerShell redirect switches",
+  "start_time_utc": "2026-10-29T08:03:09.5736052Z",
+  "working_directory": "D:\\mycode\\沧海易购1\\系统设计",
+  "pid": 6456,
+  "stderr": "D:\\mycode\\沧海易购1\\系统设计\\runtime\\http-research\\console-independent-20261029T160309.log",
+  "previous_worker_stop": "taskkill /T /F after exact PID/start-time/executable check and consistent backup",
+  "deployment": "http-research-20261028T231725",
+  "argv": [
+    "--source",
+    "http-research"
+  ],
+  "stdout": "D:\\mycode\\沧海易购1\\系统设计\\runtime\\http-research\\console-independent-20261029T160309.log",
+  "interpreter": "D:\\mycode\\沧海易购1\\market-direction-ml\\.venv\\Scripts\\python.exe"
+}
+

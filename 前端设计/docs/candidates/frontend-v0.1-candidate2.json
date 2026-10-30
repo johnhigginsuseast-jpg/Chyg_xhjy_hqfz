@@ -1,0 +1,32 @@
+{
+  "candidate": "frontend-v0.1-candidate2",
+  "frozen_at": "2026-10-29T11:23:02.664964+00:00",
+  "status": "S3_TESTING_NOT_ACCEPTED",
+  "files": {
+    "data.py": "97570f55dc3eb20f319966136ef1a8dc95ea67ab77e7851952ceb2b53210f3c4",
+    "demo.py": "1bc75ef71d57b15d2abf76cc6ab7898e0d45a57c3fd331eaa578b743c64797f3",
+    "server.py": "49311a3377b5909314dab1a0ba0f5e8ca2e5c117c8af75f938ee20283ac1f60d",
+    "web\\index.html": "d116569807aa0bd67b75b5328256220b56d4b902c133dc19910b7ae958328f17",
+    "web\\app.js": "0a6091436bd8619dbfb617ce0315c02978c30466f8a3c2ebe93c33ebddcbcca4",
+    "web\\styles.css": "d27786ac57df416d49e116c2f433101106451458e554b205d73573ba4e174cde",
+    "启动监控网页.cmd": "55da864b8510c774c7c63bcfd4e8530c7aaa9febb153834f317b262e6fcbc069",
+    "查看演示网页.cmd": "d0b1993ee86e5f2d56e6a4742642b263136ec05df16b30a79b32245e20c713f8",
+    "tests\\test_dashboard.py": "057b93039d145e1c3a5ccfc4993a0f39608ceaf7dd335f9426e924da1e6a4e16",
+    "tools\\verify_live.py": "0245de3f520b036ab4ce7be9c7feb94258c6578627ec71c1a4f29df23a45dd6c",
+    "tools\\ui_fixture.py": "4b4be8502616985ed95c19964751ced1cefab2978a9378793e8a45692031984b",
+    "tools\\append_ui_sample.py": "9d8d6d4708f544b0d045884740703c8f3597ebe22a9ebcb3264ce7e06fd9b6cb"
+  },
+  "confirmed_baseline": {
+    "status": "USER_CONFIRMED",
+    "version": "v0.1",
+    "recorded_at": "2026-10-29T02:58:14.770366+00:00",
+    "user_reply": "确认 v0.1 推荐范围，进入开发",
+    "question_call": "call_0112f5203b91499abb5923dff0386660",
+    "preconfirmation_sha256": {
+      "requirements.md": "91e4be88fd84f527169e9e1fa1df60a060cc4d96020599d1a856e4ee37fd3054",
+      "acceptance.md": "e407e15e8c97a738be5d596449662cb9464d97c2fe8b4ec9731c631340f05514"
+    },
+    "scope": "Native HTML/CSS/JS and local Python read-only service; existing system unchanged; unknown process status without evidence; approved thresholds and real integration gates"
+  },
+  "notes": "Candidate1 failed p95; candidate2 bounded raw-text parsing cache and exclusive Windows port binding; 14 tests. Reports remain separate."
+}

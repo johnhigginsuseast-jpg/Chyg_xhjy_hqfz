@@ -1,0 +1,28 @@
+{
+  "scope": "ISOLATED_SAME_ENTRY_INIT_NOT_LIVE_PROCESS_INTROSPECTION",
+  "model_sha256": "d79afdbc7936dbd8692f903c37c0948de3c06c9579f671ed8bbb6f1f884b1ba7",
+  "env": {
+    "OMP_NUM_THREADS": "4",
+    "OPENBLAS_NUM_THREADS": "4",
+    "MKL_NUM_THREADS": "4"
+  },
+  "native_numerical_pools": [
+    {
+      "internal_api": "openblas",
+      "num_threads": 4,
+      "prefix": "libscipy_openblas"
+    },
+    {
+      "internal_api": "openmp",
+      "num_threads": 4,
+      "prefix": "vcomp"
+    },
+    {
+      "internal_api": "openblas",
+      "num_threads": 4,
+      "prefix": "libscipy_openblas"
+    }
+  ],
+  "result": "PASS_NUMERICAL_POOL_CONFIGURATION",
+  "live_performance_gate": "NOT_YET_PASSED"
+}

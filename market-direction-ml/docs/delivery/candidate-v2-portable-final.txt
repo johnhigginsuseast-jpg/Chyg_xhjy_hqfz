@@ -1,0 +1,2 @@
+FINAL 60min h=1: 150 eligible forecasts/model
+FINAL COMPLETE: 8 model/period/horizon cases

@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "decision_cases": 256,
+  "model_cases": 112,
+  "max_probability_difference": 0.0,
+  "repeat_test_opened": false
+}

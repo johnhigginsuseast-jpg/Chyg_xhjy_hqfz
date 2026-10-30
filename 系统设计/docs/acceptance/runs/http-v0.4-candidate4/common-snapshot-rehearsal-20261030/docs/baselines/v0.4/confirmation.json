@@ -1,0 +1,12 @@
+{
+  "status": "USER_CONFIRMED",
+  "recorded_at": "2026-10-28T13:08:05.104723+00:00",
+  "user_reply": "批准 HTTP 跨源研究（推荐）",
+  "baseline": "v0.1 + approved CR-RT-003",
+  "source": "HTTP_CROSS_SOURCE_RESEARCH",
+  "domain_shift_acknowledged": true,
+  "research_only": true,
+  "model_unchanged": true,
+  "change_sha256": "995c2d8b0e5e1b2bd830579be412aa1dbf4670bb938867610836ab6288aabb65",
+  "native_same_source_gate": "STILL_NOT_PASSED; not reclassified"
+}

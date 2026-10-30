@@ -1,0 +1,12 @@
+{
+  "status": "USER_CONFIRMED",
+  "version": "v0.1",
+  "recorded_at": "2026-10-29T02:58:14.770366+00:00",
+  "user_reply": "确认 v0.1 推荐范围，进入开发",
+  "question_call": "call_0112f5203b91499abb5923dff0386660",
+  "preconfirmation_sha256": {
+    "requirements.md": "91e4be88fd84f527169e9e1fa1df60a060cc4d96020599d1a856e4ee37fd3054",
+    "acceptance.md": "e407e15e8c97a738be5d596449662cb9464d97c2fe8b4ec9731c631340f05514"
+  },
+  "scope": "Native HTML/CSS/JS and local Python read-only service; existing system unchanged; unknown process status without evidence; approved thresholds and real integration gates"
+}

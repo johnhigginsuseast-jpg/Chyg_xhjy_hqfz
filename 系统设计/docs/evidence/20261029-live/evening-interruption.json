@@ -1,0 +1,89 @@
+{
+  "observed_at": "2026-10-29T11:47:38.198012+00:00",
+  "scope": "Actual evening interruption from 19:30",
+  "poll_gaps": [
+    {
+      "seconds": 366.626,
+      "from_at": "2026-10-29T19:36:38.994000+08:00",
+      "to_at": "2026-10-29T19:42:45.620000+08:00",
+      "previous": {
+        "elapsed_seconds": 1.016,
+        "received_ms": 1793273798922,
+        "started_at_ms": 1793273797976,
+        "status": "WAITING_NEW_COMPLETE_BAR",
+        "success": true
+      },
+      "following": {
+        "elapsed_seconds": 364.625,
+        "received_ms": null,
+        "started_at_ms": 1793273800992,
+        "status": "HTTP_TRANSPORT_ERROR",
+        "success": false
+      }
+    },
+    {
+      "seconds": 26.649,
+      "from_at": "2026-10-29T19:42:45.620000+08:00",
+      "to_at": "2026-10-29T19:43:12.269000+08:00",
+      "previous": {
+        "elapsed_seconds": 364.625,
+        "received_ms": null,
+        "started_at_ms": 1793273800992,
+        "status": "HTTP_TRANSPORT_ERROR",
+        "success": false
+      },
+      "following": {
+        "elapsed_seconds": 23.64,
+        "received_ms": 1793274172202,
+        "started_at_ms": 1793274168629,
+        "status": "STALE_OR_BACKFILL",
+        "success": true
+      }
+    },
+    {
+      "seconds": 41.704,
+      "from_at": "2026-10-29T19:43:12.269000+08:00",
+      "to_at": "2026-10-29T19:43:53.973000+08:00",
+      "previous": {
+        "elapsed_seconds": 23.64,
+        "received_ms": 1793274172202,
+        "started_at_ms": 1793274168629,
+        "status": "STALE_OR_BACKFILL",
+        "success": true
+      },
+      "following": {
+        "elapsed_seconds": 41.625,
+        "received_ms": 1793274192724,
+        "started_at_ms": 1793274192344,
+        "status": "LATE",
+        "success": true
+      }
+    }
+  ],
+  "slow_polls": [
+    {
+      "at": "2026-10-29T19:42:45.620000+08:00",
+      "elapsed_seconds": 364.625,
+      "received_ms": null,
+      "started_at_ms": 1793273800992,
+      "status": "HTTP_TRANSPORT_ERROR",
+      "success": false
+    },
+    {
+      "at": "2026-10-29T19:43:12.269000+08:00",
+      "elapsed_seconds": 23.64,
+      "received_ms": 1793274172202,
+      "started_at_ms": 1793274168629,
+      "status": "STALE_OR_BACKFILL",
+      "success": true
+    },
+    {
+      "at": "2026-10-29T19:43:53.973000+08:00",
+      "elapsed_seconds": 41.625,
+      "received_ms": 1793274192724,
+      "started_at_ms": 1793274192344,
+      "status": "LATE",
+      "success": true
+    }
+  ]
+}

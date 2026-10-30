@@ -1,0 +1,12 @@
+{
+  "received_samples": 8,
+  "successful_samples": 6,
+  "raw_labels_changed_within_label_minute": [
+    1793192040000
+  ],
+  "unique_tail_labels": [
+    1793192040000,
+    1793192100000
+  ],
+  "real_predictions": 0
+}

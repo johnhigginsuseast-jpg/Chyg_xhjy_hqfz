@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "scope": "unpacked portable end-to-end integration smoke, 60min h1 only; all 8 model types and 4 fee scenarios",
+  "training_exit": 0,
+  "final_evaluation_exit": 0,
+  "backtest_exit": 0,
+  "independent_metrics_exit": 0,
+  "code_candidate_unchanged": true,
+  "production_study_untouched": true,
+  "fresh_blind_test_claim": false
+}

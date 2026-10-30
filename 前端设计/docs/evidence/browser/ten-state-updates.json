@@ -1,0 +1,55 @@
+{
+  "mode": "DEMO",
+  "updates": [
+    {
+      "round": 1,
+      "poll_id": 249,
+      "status": "PREDICTED"
+    },
+    {
+      "round": 2,
+      "poll_id": 251,
+      "status": "WAITING_NEW_COMPLETE_BAR"
+    },
+    {
+      "round": 3,
+      "poll_id": 253,
+      "status": "PREDICTED"
+    },
+    {
+      "round": 4,
+      "poll_id": 255,
+      "status": "WAITING_NEW_COMPLETE_BAR"
+    },
+    {
+      "round": 5,
+      "poll_id": 257,
+      "status": "PREDICTED"
+    },
+    {
+      "round": 6,
+      "poll_id": 259,
+      "status": "WAITING_NEW_COMPLETE_BAR"
+    },
+    {
+      "round": 7,
+      "poll_id": 261,
+      "status": "PREDICTED"
+    },
+    {
+      "round": 8,
+      "poll_id": 263,
+      "status": "WAITING_NEW_COMPLETE_BAR"
+    },
+    {
+      "round": 9,
+      "poll_id": 265,
+      "status": "PREDICTED"
+    },
+    {
+      "round": 10,
+      "poll_id": 267,
+      "status": "WAITING_NEW_COMPLETE_BAR"
+    }
+  ]
+}

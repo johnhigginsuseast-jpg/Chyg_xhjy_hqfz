@@ -1,0 +1,72 @@
+[
+  {
+    "chart": "block",
+    "demo": true,
+    "market": "已发布预测",
+    "mode": "DEMO · 演示数据",
+    "probability": "64.00%",
+    "rate": "66.99%",
+    "rows": 50,
+    "trend": "block"
+  },
+  {
+    "chart": "block",
+    "demo": true,
+    "market": "等待新完整K线",
+    "mode": "DEMO · 演示数据",
+    "probability": "—",
+    "rate": "暂无可计分样本",
+    "rows": 0,
+    "trend": "none"
+  },
+  {
+    "chart": "block",
+    "demo": true,
+    "market": "休市（常规时段）",
+    "mode": "DEMO · 演示数据",
+    "probability": "64.00%",
+    "rate": "66.99%",
+    "rows": 50,
+    "trend": "block"
+  },
+  {
+    "chart": "block",
+    "demo": true,
+    "market": "行情滞后",
+    "mode": "DEMO · 演示数据",
+    "probability": "64.00%",
+    "rate": "66.99%",
+    "rows": 50,
+    "trend": "block"
+  },
+  {
+    "chart": "block",
+    "demo": true,
+    "market": "暖机中",
+    "mode": "DEMO · 演示数据",
+    "probability": "64.00%",
+    "rate": "66.99%",
+    "rows": 50,
+    "trend": "block"
+  },
+  {
+    "chart": "block",
+    "demo": true,
+    "market": "行情获取异常 · HTTP_TRANSPORT_ERROR",
+    "mode": "DEMO · 演示数据",
+    "probability": "64.00%",
+    "rate": "66.99%",
+    "rows": 50,
+    "trend": "block"
+  },
+  {
+    "chart": "block",
+    "demo": true,
+    "market": "本锚点规则跳过",
+    "mode": "DEMO · 演示数据",
+    "probability": "—",
+    "rate": "66.99%",
+    "rows": 50,
+    "trend": "block"
+  }
+]

@@ -1,0 +1,6 @@
+TRAIN 60min h=1
+  logistic: candidate=0 val_n=68 threshold=0.65
+  lightgbm: candidate=0 val_n=68 threshold=0.5
+  xgboost: candidate=1 val_n=68 threshold=0.5
+  catboost: candidate=0 val_n=68 threshold=0.5
+FROZEN portable-integration-smoke; final test labels have not been scored

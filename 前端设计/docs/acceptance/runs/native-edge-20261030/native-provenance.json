@@ -1,0 +1,19 @@
+{
+  "browser": {
+    "name": "Edge",
+    "family": "edge",
+    "type": "extension",
+    "id": "3"
+  },
+  "live_tab": "1185788615",
+  "live_url": "http://127.0.0.1:8765/",
+  "qa_tab": "1185788404",
+  "qa_url": "http://127.0.0.1:8767/",
+  "user_reply": "已显示行情研究监控仪表盘",
+  "ui_control": "supported Edge extension; no native App input after URL safety stop",
+  "viewport_overrides": "cleared",
+  "temporary_qa_session": 61695,
+  "qa_session_terminal": "exit_code=1 after Ctrl+C",
+  "delivery_frontend_session": 86515,
+  "automation9": "deleted, management tool reported deleteStatus=deleted"
+}

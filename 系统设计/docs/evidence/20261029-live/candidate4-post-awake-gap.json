@@ -1,0 +1,16 @@
+{
+  "deployment": "http-research-20261029T205736",
+  "from_poll": "2026-10-29T21:05:07.454000+08:00",
+  "to_poll": "2026-10-29T22:07:27.262000+08:00",
+  "gap_seconds": 3739.808,
+  "next_poll": {
+    "elapsed_seconds": 3739.797,
+    "received_ms": null,
+    "started_at_ms": 1793279107454,
+    "status": "HTTP_TRANSPORT_ERROR",
+    "success": false
+  },
+  "cause": "NOT_DETERMINED_BY_THIS_CHECK",
+  "session": "REGULAR_REST",
+  "sixty_contiguous_proven": false
+}

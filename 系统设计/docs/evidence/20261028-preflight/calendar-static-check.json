@@ -1,0 +1,18 @@
+{
+  "at": "2026-10-28T15:17:25.326482+00:00",
+  "scope": "Two previously selected market source files only",
+  "sources": [
+    {
+      "source": "webpack:///./src/assets/js/hq/hqProtocol.js",
+      "sha256": "41c38c1910891d4fceff95dbea510fd6325dbfc6cb36253d731748107168bcd1"
+    },
+    {
+      "source": "webpack:///./src/views/transcc/quotationline/hqchartjs/HQData.js",
+      "sha256": "7426184b5099b7ef40eef223d88ce68849d4819e549926ce5d44144418c748b4"
+    }
+  ],
+  "target_calendar_api_found": false,
+  "other_market_sample_tables_not_used": true,
+  "source_excerpts_not_retained": true,
+  "limit": "Does not prove absence of another client calendar interface; authoritative holiday calendar still unverified"
+}

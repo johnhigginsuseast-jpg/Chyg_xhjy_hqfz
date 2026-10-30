@@ -1,0 +1,17 @@
+{
+  "recorded_at": "2026-10-30T10:46:02.821460+08:00",
+  "candidate": "frontend-v0.1-candidate4",
+  "candidate_changes": [],
+  "latest_real_evidence_changes": [],
+  "missing_deliverables": [],
+  "mandatory_unresolved": [
+    "AC-WEB-017: native Windows Edge/Chrome UI",
+    "AC-WEB-018: native browser first usable time",
+    "AC-WEB-020: all-required-checks release gate"
+  ],
+  "available_native_control_tools": [],
+  "completion": "UNPROVEN_NOT_ACCEPTED",
+  "no_product_code_changed": true,
+  "official_control_setup": "https://learn.chatgpt.com/docs/computer-use",
+  "next_action": "User enables Computer Use server and Skill in desktop app and invokes @Computer in this chat; verify tool availability before testing."
+}

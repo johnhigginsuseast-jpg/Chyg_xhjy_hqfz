@@ -1,0 +1,83 @@
+{
+  "elapsedMs": 12698,
+  "successBeforeOffline": "成功刷新 2026/10/29 19:55:22",
+  "dom": {
+    "message": "页面连接中断，正在重试；上次快照已过期，仅作历史查看。",
+    "mode": "DEMO",
+    "page": "连接异常 / 缓存过期",
+    "rate": "66.99%",
+    "success": "成功刷新 2026/10/29 19:55:22"
+  },
+  "events": [
+    {
+      "sequence": 612,
+      "source": {
+        "tabId": 9
+      },
+      "method": "Network.loadingFailed",
+      "params": {
+        "canceled": false,
+        "errorText": "net::ERR_INTERNET_DISCONNECTED",
+        "requestId": "25316.128",
+        "timestamp": 80251.850334,
+        "type": "Fetch"
+      }
+    },
+    {
+      "sequence": 614,
+      "source": {
+        "tabId": 9
+      },
+      "method": "Network.loadingFailed",
+      "params": {
+        "canceled": false,
+        "errorText": "net::ERR_INTERNET_DISCONNECTED",
+        "requestId": "25316.129",
+        "timestamp": 80254.865333,
+        "type": "Fetch"
+      }
+    },
+    {
+      "sequence": 616,
+      "source": {
+        "tabId": 9
+      },
+      "method": "Network.loadingFailed",
+      "params": {
+        "canceled": false,
+        "errorText": "net::ERR_INTERNET_DISCONNECTED",
+        "requestId": "25316.130",
+        "timestamp": 80257.876625,
+        "type": "Fetch"
+      }
+    },
+    {
+      "sequence": 618,
+      "source": {
+        "tabId": 9
+      },
+      "method": "Network.loadingFailed",
+      "params": {
+        "canceled": false,
+        "errorText": "net::ERR_INTERNET_DISCONNECTED",
+        "requestId": "25316.131",
+        "timestamp": 80260.887768,
+        "type": "Fetch"
+      }
+    },
+    {
+      "sequence": 620,
+      "source": {
+        "tabId": 9
+      },
+      "method": "Network.loadingFailed",
+      "params": {
+        "canceled": false,
+        "errorText": "net::ERR_INTERNET_DISCONNECTED",
+        "requestId": "25316.132",
+        "timestamp": 80263.909671,
+        "type": "Fetch"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "independent_prediction_checks": 344,
+  "metric_groups_checked": 12,
+  "forecast_rows_per_split_all_four_baselines": {
+    "test": 92,
+    "train": 164,
+    "validation": 88
+  },
+  "no_logistic_model_fabricated": true,
+  "freeze_precedes_test_metrics": true,
+  "legacy_regression": "26 passed",
+  "legacy_protected_files": 5317
+}

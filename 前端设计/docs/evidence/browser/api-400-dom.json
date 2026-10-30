@@ -1,0 +1,8 @@
+{
+  "source": "QA fixture explicit HTTP 400 response",
+  "dom": {
+    "message": "接口错误 400 · INVALID_PARAMETERS；保留上次快照，仅作历史查看。",
+    "mode": "DEMO",
+    "rate": "66.99%"
+  }
+}

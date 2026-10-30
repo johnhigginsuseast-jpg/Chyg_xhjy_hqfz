@@ -1,0 +1,488 @@
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:65: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  comparison = pd.read_csv(ROOT / "reports/model_comparison.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+D:\mycode\沧海易购1\market-direction-ml\tests\verify_research.py:96: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  data = pd.read_csv(run / f"predictions/{period_name(period)}-h{h}-{name}.csv", float_precision="round_trip")
+{
+  "status": "PASS",
+  "successful_cases": 240,
+  "insufficient_cases": 16,
+  "scope": "source/independent rule replay/all forecasts/labels/metrics/calibration role reproduction"
+}

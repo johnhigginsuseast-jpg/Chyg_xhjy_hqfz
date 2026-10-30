@@ -1,0 +1,9 @@
+{
+  "child_started_utc": "2026-10-29T07:57:05.1525339Z",
+  "modifies_market_ledger": false,
+  "child_pid": 30404,
+  "launcher_pid": 30372,
+  "no_redirect_switches": true,
+  "marker": "D:\\mycode\\沧海易购1\\系统设计\\runtime\\http-research\\lifecycle-probe-20261029T155704.ok",
+  "mode": "SYNTHETIC_PROCESS_LIFECYCLE_PROBE"
+}

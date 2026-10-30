@@ -1,0 +1,14 @@
+{
+  "checked_at": "2026-10-28T18:32:29.008588+08:00",
+  "requirement_count": 13,
+  "acceptance_count": 15,
+  "uncovered_requirements": [],
+  "acceptance_missing_trace": [],
+  "broken_relative_links": [],
+  "protected_model_files_compared": 15,
+  "protected_model_files_changed": [],
+  "new_runtime_code_files": [],
+  "document_check": "PASS",
+  "functional_acceptance": "NOT_TESTED",
+  "real_time_acceptance": "NOT_TESTED"
+}

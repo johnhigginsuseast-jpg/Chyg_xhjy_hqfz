@@ -1,0 +1,7 @@
+{
+  "action": "startup script occupied-port smoke",
+  "exit_code": 0,
+  "output": "Press any key to continue . . . \r\n无法启动：本地端口不可用；未关闭其他程序。\r\n",
+  "original_service_status": 200,
+  "passed": true
+}

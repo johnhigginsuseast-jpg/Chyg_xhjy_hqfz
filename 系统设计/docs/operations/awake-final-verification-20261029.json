@@ -1,0 +1,18 @@
+{
+  "checked_at": "2026-10-29T22:08:55.2018263+08:00",
+  "approved_deadline": "2026-10-29T21:05:00+08:00",
+  "cleared": [
+    {
+      "kind": "CLEARED",
+      "at": "2026-10-29T21:05:00.018646+08:00",
+      "pid": 30028,
+      "success": true,
+      "returned_state": 2147483649
+    }
+  ],
+  "remaining_helper_pids": [],
+  "ac_timeout_900_preserved": true,
+  "dc_timeout_600_preserved": true,
+  "power_policy_file": "docs/operations/awake-power-policy-final.txt",
+  "status": "CHECKED"
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "reply": "error",
+    "dom": {
+      "message": "接口错误 503 · QA_INTERFACE_ERROR；保留上次快照，仅作历史查看。",
+      "mode": "DEMO",
+      "rate": "66.99%",
+      "success": "成功刷新 2026/10/29 19:53:40"
+    }
+  },
+  {
+    "reply": "malformed",
+    "dom": {
+      "message": "接口返回数据格式异常，正在重试；保留上次快照，仅作历史查看。",
+      "mode": "DEMO",
+      "rate": "66.99%",
+      "success": "成功刷新 2026/10/29 19:53:40"
+    }
+  },
+  {
+    "reply": "missing",
+    "dom": {
+      "message": "接口数据结构异常；保留上次快照，仅作历史查看。",
+      "mode": "DEMO",
+      "rate": "66.99%",
+      "success": "成功刷新 2026/10/29 19:53:40"
+    }
+  }
+]

@@ -1,0 +1,201 @@
+{
+  "candidate": "v1.0-research-20261028-v2",
+  "engineering_acceptance": "PASS",
+  "checked_at": "2026-10-28T03:43:40.920430+08:00",
+  "ac": [
+    {
+      "id": "AC-001",
+      "status": "PASS",
+      "scope": "8源SHA不变，原行与派生/快照隔离",
+      "evidence": "stage1/independent-checks.json; source-manifest.json"
+    },
+    {
+      "id": "AC-002",
+      "status": "PASS",
+      "scope": "Windows独立虚拟环境/锁版本/完整流程及便携包实际运行",
+      "evidence": "dependencies.txt; docs/delivery/portable-integration-smoke.json"
+    },
+    {
+      "id": "AC-003",
+      "status": "PASS",
+      "scope": "CSV/Excel(.xlsx)/Parquet等价与缺列/非法输入拒绝",
+      "evidence": "unit-tests.txt: test_data"
+    },
+    {
+      "id": "AC-004",
+      "status": "PASS",
+      "scope": "全量97135行结构/周期/时间/单位状态审计",
+      "evidence": "reports/data_audit.md; stage1/audit.json"
+    },
+    {
+      "id": "AC-005",
+      "status": "PASS",
+      "scope": "事件/短桶/日线时间、无填充；周日/周六夜盘拒绝，BUG-003修复",
+      "evidence": "unit-tests.txt; calendar-validation-repair.json; canonical equality"
+    },
+    {
+      "id": "AC-006",
+      "status": "PASS",
+      "scope": "未认证品种/代码/时区/单位显式标记，不混其他源",
+      "evidence": "audit.json; docs/decisions.md"
+    },
+    {
+      "id": "AC-007",
+      "status": "PASS",
+      "scope": "三连跳两根/平盘/六连/状态重放",
+      "evidence": "unit-tests.txt; independent-verification.json reference replay"
+    },
+    {
+      "id": "AC-008",
+      "status": "PASS",
+      "scope": "四种有效根h及14:02到14:05基准",
+      "evidence": "test_causality; 413136逐条目标重算"
+    },
+    {
+      "id": "AC-009",
+      "status": "PASS",
+      "scope": "UP/DOWN/FLAT/PENDING与96分段占比/分母",
+      "evidence": "label_distribution.csv; independent research"
+    },
+    {
+      "id": "AC-010",
+      "status": "PASS",
+      "scope": "240已可预测组合全量覆盖413136行；16不足单列不伪造",
+      "evidence": "independent-verification.json; model_comparison.csv"
+    },
+    {
+      "id": "AC-011",
+      "status": "PASS",
+      "scope": "39特征、未来/跳过扰动和16次真实前缀",
+      "evidence": "unit-tests.txt; stage2/real-prefix-checks.json"
+    },
+    {
+      "id": "AC-012",
+      "status": "PASS",
+      "scope": "8种模型实现，112学习模型；16日线不足只证明不足处理",
+      "evidence": "decisions.json; model-parameters.json; models/"
+    },
+    {
+      "id": "AC-013",
+      "status": "PASS",
+      "scope": "70/15/15原时间边界在过滤前固定",
+      "evidence": "feature-info.json; validation tests"
+    },
+    {
+      "id": "AC-014",
+      "status": "PASS",
+      "scope": "1232拟合实际目标结束及内层/校准/阈值purge",
+      "evidence": "fit-index-audit.json; independent-verification.json"
+    },
+    {
+      "id": "AC-015",
+      "status": "PASS",
+      "scope": "2候选/5调度窗口，逐折n/结果/波动；日线空折不可计分",
+      "evidence": "candidate-grid.json; walk-forward.csv/report"
+    },
+    {
+      "id": "AC-016",
+      "status": "PASS",
+      "scope": "112冻结校准器用独立过去角色复现，阈值重新核算",
+      "evidence": "independent-verification.json calibration_checks"
+    },
+    {
+      "id": "AC-017",
+      "status": "PASS",
+      "scope": "七字段/互补概率/方向/信号；BUG-001浮点回归",
+      "evidence": "unit-tests.txt; 240导出独立复核; report-repair.json"
+    },
+    {
+      "id": "AC-018",
+      "status": "PASS",
+      "scope": "原模型选择和阈值冻结、唯一解锁；三次修复不追测试",
+      "evidence": "frozen.json; final-test markers; repairs and original source"
+    },
+    {
+      "id": "AC-019",
+      "status": "PASS",
+      "scope": "全量Accuracy/Balanced/MCC/F1/AUC/Brier/LogLoss/P-R/混淆/覆盖独立重算",
+      "evidence": "independent-research.txt; model_comparison.csv"
+    },
+    {
+      "id": "AC-020",
+      "status": "PASS",
+      "scope": "偏置/过拟合/概率/状态/基线分析，无稳定信号结论",
+      "evidence": "final_test_report.md; state diagnostics; 60 figures"
+    },
+    {
+      "id": "AC-021",
+      "status": "PASS",
+      "scope": "历史暴露披露通过；全新盲测资格仍未验证",
+      "evidence": "final_test_report.md; leakage_audit.md"
+    },
+    {
+      "id": "AC-022",
+      "status": "PASS",
+      "scope": "严格后续开盘、已知信号、只做多",
+      "evidence": "backtest tests; 128详细成交时刻独立核对"
+    },
+    {
+      "id": "AC-023",
+      "status": "PASS",
+      "scope": "费用/价差/权益/胜率/PF/无交易/未平仓手算",
+      "evidence": "5 backtest tests; independent-backtest-verification.json"
+    },
+    {
+      "id": "AC-024",
+      "status": "PASS",
+      "scope": "960费用场景/公平买入持有；假设不冒充平台成本",
+      "evidence": "backtest_comparison.csv; 128账目重算"
+    },
+    {
+      "id": "AC-025",
+      "status": "PASS",
+      "scope": "新进程重载、状态/重放与112模型重复概率差0",
+      "evidence": "unit-tests.txt; reproducibility.json; unpacked prediction"
+    },
+    {
+      "id": "AC-026",
+      "status": "PASS",
+      "scope": "缺字段/未完成/错来源/周期/损坏/重复run拒绝，旧模型SHA不变",
+      "evidence": "test_data/test_delivery/test_models"
+    },
+    {
+      "id": "AC-027",
+      "status": "PASS",
+      "scope": "八报告、逐预测、图表、README及便携完整流程",
+      "evidence": "docs/delivery/*smoke.json; figures integrity; artifacts"
+    },
+    {
+      "id": "AC-028",
+      "status": "PASS",
+      "scope": "六阶段及七类测试材料分开、缺陷首败/修复/复测",
+      "evidence": "docs/phases; docs/testing; old candidate rejected"
+    },
+    {
+      "id": "AC-029",
+      "status": "PASS",
+      "scope": "两次完整独立训练，256选择/标签/覆盖/窗口一致，112模型差0",
+      "evidence": "reproducibility.json; repeat final test not opened"
+    },
+    {
+      "id": "AC-030",
+      "status": "PASS",
+      "scope": "固定v2候选独立重跑26测试/研究/回测/复现，无真实交易模块",
+      "evidence": "candidate.json; four logs; source review"
+    }
+  ],
+  "unit_tests": 26,
+  "unit_failures": 0,
+  "unit_skipped": 0,
+  "prediction_records": 413136,
+  "available_model_cases": 240,
+  "insufficient_model_cases": 16,
+  "research_qualification": {
+    "stable_usable_signal": "NOT_VERIFIED",
+    "fresh_blind_test": "NOT_VERIFIED",
+    "authenticated_symbol_timezone_units": "UNCONFIRMED",
+    "real_time_or_live_trading": "NOT_TESTED_OUT_OF_SCOPE"
+  },
+  "old_candidate": "v1 rejected for BUG-003; original failure retained",
+  "final_archive_startup": "PASS; delivery/delivery-manifest.json"
+}

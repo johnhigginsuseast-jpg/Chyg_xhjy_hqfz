@@ -1,0 +1,82 @@
+[
+  {
+    "background": "rgb(12, 17, 25)",
+    "border": "rgb(227, 234, 244)",
+    "color": "rgb(227, 234, 244)",
+    "fill": "rgb(0, 0, 0)",
+    "selector": "body",
+    "stroke": "none"
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "border": "rgb(164, 179, 198)",
+    "color": "rgb(164, 179, 198)",
+    "fill": "rgb(0, 0, 0)",
+    "selector": ".muted",
+    "stroke": "none"
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "border": "rgb(255, 146, 157)",
+    "color": "rgb(255, 146, 157)",
+    "fill": "rgb(0, 0, 0)",
+    "selector": ".up",
+    "stroke": "none"
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "border": "rgb(121, 223, 180)",
+    "color": "rgb(121, 223, 180)",
+    "fill": "rgb(0, 0, 0)",
+    "selector": ".down",
+    "stroke": "none"
+  },
+  {
+    "background": "rgb(27, 39, 54)",
+    "border": "rgb(96, 117, 142)",
+    "color": "rgb(227, 234, 244)",
+    "fill": "rgb(0, 0, 0)",
+    "selector": "button",
+    "stroke": "none"
+  },
+  {
+    "background": "rgb(27, 39, 54)",
+    "border": "rgb(96, 117, 142)",
+    "color": "rgb(227, 234, 244)",
+    "fill": "rgb(0, 0, 0)",
+    "selector": "input",
+    "stroke": "none"
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "border": "rgb(227, 234, 244)",
+    "color": "rgb(227, 234, 244)",
+    "fill": "rgb(0, 0, 0)",
+    "selector": "#candles",
+    "stroke": "none"
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "border": "rgb(227, 234, 244)",
+    "color": "rgb(227, 234, 244)",
+    "fill": "rgb(255, 146, 157)",
+    "selector": ".candle-up",
+    "stroke": "rgb(255, 146, 157)"
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "border": "rgb(227, 234, 244)",
+    "color": "rgb(227, 234, 244)",
+    "fill": "rgb(121, 223, 180)",
+    "selector": ".candle-down",
+    "stroke": "rgb(121, 223, 180)"
+  },
+  {
+    "background": "rgba(0, 0, 0, 0)",
+    "border": "rgb(227, 234, 244)",
+    "color": "rgb(227, 234, 244)",
+    "fill": "none",
+    "selector": ".trend-line",
+    "stroke": "rgb(125, 219, 208)"
+  }
+]

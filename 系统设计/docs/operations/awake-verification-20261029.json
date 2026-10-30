@@ -1,0 +1,18 @@
+{
+  "permanent_policy_modified": false,
+  "dc_idle_seconds": 600,
+  "original_idle_settings_unchanged": true,
+  "observed_at_utc": "2026-10-29T12:25:38.8731913Z",
+  "helper_pid": 30988,
+  "cleanup_status": "NOT_YET_OBSERVED; verify at 21:05",
+  "ac_idle_seconds": 900,
+  "helper_identity_matches": true,
+  "actual_last_event": {
+    "kind": "ACTIVE",
+    "at": "2026-10-29T20:08:24.851094+08:00",
+    "pid": 30028,
+    "until": "2026-10-29T21:05:00+08:00",
+    "flags": 2147483649,
+    "previous": 2147483648
+  }
+}

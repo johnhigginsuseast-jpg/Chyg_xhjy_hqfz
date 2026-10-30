@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-10-28T23:56:58.635919+08:00",
+  "source_sha256": "118a79c45f5afc0113893bfb7c7bba5d682a298770410e9a30847fd17f560468",
+  "source_copy_identical": true,
+  "minutes_checked": 10080,
+  "complete_bar_label_counts": {
+    "0": 390,
+    "1": 390,
+    "2": 390,
+    "3": 390,
+    "4": 390,
+    "5": 270,
+    "6": 0
+  },
+  "mismatches": [],
+  "regular_schedule_open_now": false,
+  "statutory_holiday_dates_not_inferred": true,
+  "code_changed": false,
+  "live_predictions_added": 0
+}

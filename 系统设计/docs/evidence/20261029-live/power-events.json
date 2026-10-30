@@ -1,0 +1,58 @@
+{
+  "observed_at_utc": "2026-10-29T03:02:33.0336493Z",
+  "scope": "System power events only, bounded time range; no accounts, process memory or client state",
+  "status": "READ_OK",
+  "events": [
+    {
+      "provider": "Microsoft-Windows-Kernel-Power",
+      "sleep_wake_fields": {
+        "EffectiveState": "4",
+        "TargetState": "4"
+      },
+      "utc": "2026-10-28T17:21:09.7854949Z",
+      "id": 107
+    },
+    {
+      "provider": "Microsoft-Windows-Kernel-Power",
+      "sleep_wake_fields": {
+        "EffectiveState": "4",
+        "TargetState": "4",
+        "Reason": "7"
+      },
+      "utc": "2026-10-28T17:21:09.1670264Z",
+      "id": 42
+    },
+    {
+      "provider": "Microsoft-Windows-Power-Troubleshooter",
+      "sleep_wake_fields": {
+        "WakeTime": "2026-10-28T14:06:39.8467094Z",
+        "WakeDuration": "350",
+        "SleepDuration": "720",
+        "SleepTime": "2026-10-28T13:57:27.4750452Z",
+        "TargetState": "4",
+        "EffectiveState": "4"
+      },
+      "utc": "2026-10-28T14:06:41.1782280Z",
+      "id": 1
+    },
+    {
+      "provider": "Microsoft-Windows-Kernel-Power",
+      "sleep_wake_fields": {
+        "EffectiveState": "4",
+        "TargetState": "4"
+      },
+      "utc": "2026-10-28T13:57:28.8148646Z",
+      "id": 107
+    },
+    {
+      "provider": "Microsoft-Windows-Kernel-Power",
+      "sleep_wake_fields": {
+        "EffectiveState": "4",
+        "TargetState": "4",
+        "Reason": "7"
+      },
+      "utc": "2026-10-28T13:57:28.1903806Z",
+      "id": 42
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "candidate_files": 29,
+  "unit_tests": 25,
+  "research_cases": 240,
+  "prediction_records": 413136,
+  "insufficient_cases": 16,
+  "backtest_cases": 960,
+  "detailed_cases": 128,
+  "reproducible_models": 112,
+  "max_probability_difference": 0.0,
+  "packaging_smoke": "PENDING"
+}

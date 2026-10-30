@@ -1,0 +1,42 @@
+{
+  "candidate": "v1.0-research-20261028-v2",
+  "created_at": "2026-10-28T03:34:39.440218+08:00",
+  "code_changes_during_acceptance": false,
+  "files": {
+    "configs/default.json": "0857b81759d8dfdd97ae86ac1bd41b0854424d95ad3c3fa1236d61362085ac37",
+    "configs/portable.json": "42cc3fcb0d32004fa52578e92ec5f33220a52d81284e5bd92e757c4dd464dc41",
+    "docs/acceptance/criteria-v1.0.md": "6480471255eecd2fa0887a79e46a4cff7d56e5e940223095449caebcd022665c",
+    "docs/requirements/requirements-v1.0.md": "3b7473ad33f39c79313501c2fe43550792af3f741c63a865debd806d2a8f7d67",
+    "README.md": "3b3efd0a120212e4c8b3b3d981cc80bde74369b129f01d1a85d9a0a5eb4b1fef",
+    "requirements.txt": "2659f55655fa54ccbc1adfeb4c8ac39de696b3f5820f41474469b20c0230b1c5",
+    "src/__init__.py": "d7493276d09a8f5be78a2ffd1e9f9ea5b31ded0c6314f3383c27d1fd738286de",
+    "src/backtest.py": "6c6d487c6561e8fd44f718115d076bbbbc1b4f0e83ed2715e69145b9e34bc777",
+    "src/common.py": "df817ff623e990612e0654d64ff3a4b1efd16f20e7b5906e916a26ccca8799be",
+    "src/data_audit.py": "e5696a0a93f035912b27cabbfaa5e75d448bad737829a19438e4bf36ca3ac0f2",
+    "src/data_loader.py": "5dc60a338964a3351c8fae880e07fbb77a2e3f3686b56b217ff5f2907ce03cc2",
+    "src/evaluate.py": "5ca28974c0ec78f5b922b7fcf28b787ab3fb6e3d13440a7b85e6067af0ec8ee9",
+    "src/features.py": "9bdefb0d31c72b6dad293d87b5eb92699d292a20098d7f6560868128c3c3ab9e",
+    "src/final_report.py": "8b00e92faaa18f40b2f532c3baf88b4b16fe7e2b78305fcd1b640ce614290882",
+    "src/labels.py": "fa9478e47618856f9c1b1b81dc31fe2caa78aead208486f00073e3b929ef3e22",
+    "src/predict.py": "e2a558961153c9136d443538442147dd1c6d09984b633f8219a81ebd1377f1d7",
+    "src/train.py": "22a06ab67a17f315fc8897718139955f6934b5d91389a2e56becab31e5754063",
+    "src/validation.py": "08b03030683af7540a8eaf68fea90dea84af47b8796976a3be7edbe9dd5ac3d8",
+    "tests/__init__.py": "df88e1c078c0234ef9333f48ad376a39dc41cc0dab63890e2146fcd652ec82db",
+    "tests/repair_figure_labels.py": "78f6d36f3d89d69d977a9fe41f42e75c3a9945b68f3450d51194e94cd9230e08",
+    "tests/repair_probability_exports.py": "f2a2337751a15b9fc337f149f1d1ec94b044050d1d3ddb4e36838faec02cfb1c",
+    "tests/test_backtest.py": "3e7f22969910a6c056a936870dda0ebe5a08f97fa6f79951ec433b44874c49b1",
+    "tests/test_causality.py": "0b1c0b461f5c3fd12024f663bf8b4ac04994ea724e565e868720abae91d87539",
+    "tests/test_data.py": "21e742fae42f0676dff51cc99dcc85185bd6f9f0579428325159a8a742cd6c7b",
+    "tests/test_delivery.py": "c9470e61286fc729542196231ab6cf3ff9a592e63ea16f67d29220fd3dfa9d62",
+    "tests/test_models.py": "53d90ea449c2564f5d8caf830b8e363343d81f5c420a6d46a1a2b267bd1c150c",
+    "tests/verify_backtest.py": "92d39a45f404e9cc8f41774b851cb40c73882daed936333b39caeb68bf2aa515",
+    "tests/verify_reproducibility.py": "3c421374391864678723c937be986b1b11dc11bc8e615e041208ef85ab2efe4e",
+    "tests/verify_research.py": "f584b3b889d7d4a0651585f163a627b7426290b143ff37ad41a2688da5618f81"
+  },
+  "research_experiment": "study-20261028-v1",
+  "repairs": [
+    "report-repair.json",
+    "calendar-validation-repair.json"
+  ],
+  "models_or_selection_changed": false
+}

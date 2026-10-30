@@ -1,0 +1,11 @@
+{
+  "mode": "READ_ONLY_CANDIDATE_IDENTITY_PROBE",
+  "candidate_symbol": "531",
+  "binding_approved": false,
+  "url": "https://yt.scdzscxt.com/qtfront_tq/kline?symbol=531&period=0&count=5",
+  "started_at": "2026-10-28T10:36:05.799777+00:00",
+  "credentials_used": false,
+  "tls_validation": "DEFAULT_ENABLED",
+  "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>",
+  "finished_at": "2026-10-28T10:36:13.884842+00:00"
+}

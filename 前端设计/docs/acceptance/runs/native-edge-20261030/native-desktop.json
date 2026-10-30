@@ -1,0 +1,91 @@
+{
+  "chart": {
+    "bottom": 990.46875,
+    "height": 340,
+    "left": 45,
+    "right": 937.3125,
+    "top": 650.46875,
+    "width": 892.3125,
+    "x": 45,
+    "y": 650.46875
+  },
+  "clientWidth": 1425,
+  "feed": "未知 · 轮询记录过期",
+  "market": "上次：等待新完整K线",
+  "mode": "LIVE",
+  "pageWidth": 1425,
+  "rate": "58.06%",
+  "regions": [
+    {
+      "bounds": {
+        "bottom": 502.46875,
+        "height": 239.578125,
+        "left": 24,
+        "right": 1401,
+        "top": 262.890625,
+        "width": 1377,
+        "x": 24,
+        "y": 262.890625
+      },
+      "id": "system-title"
+    },
+    {
+      "bounds": {
+        "bottom": 1094.859375,
+        "height": 574.390625,
+        "left": 24,
+        "right": 958.3125,
+        "top": 520.46875,
+        "width": 934.3125,
+        "x": 24,
+        "y": 520.46875
+      },
+      "id": "chart-title"
+    },
+    {
+      "bounds": {
+        "bottom": 1094.859375,
+        "height": 574.390625,
+        "left": 976.3125,
+        "right": 1401,
+        "top": 520.46875,
+        "width": 424.6875,
+        "x": 976.3125,
+        "y": 520.46875
+      },
+      "id": "prediction-title"
+    },
+    {
+      "bounds": {
+        "bottom": 1516.859375,
+        "height": 404,
+        "left": 24,
+        "right": 1401,
+        "top": 1112.859375,
+        "width": 1377,
+        "x": 24,
+        "y": 1112.859375
+      },
+      "id": "statistics-title"
+    },
+    {
+      "bounds": {
+        "bottom": 3477.859375,
+        "height": 1943,
+        "left": 24,
+        "right": 1401,
+        "top": 1534.859375,
+        "width": 1377,
+        "x": 24,
+        "y": 1534.859375
+      },
+      "id": "history-title"
+    }
+  ],
+  "scored": "31",
+  "snapshot": "http-research-20261029T205736:26947",
+  "viewport": {
+    "height": 900,
+    "width": 1440
+  }
+}

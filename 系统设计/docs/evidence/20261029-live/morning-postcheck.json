@@ -1,0 +1,15 @@
+{
+  "observed_at": "2026-10-29T03:38:14.344691+00:00",
+  "candidate": "http-v0.4-candidate3",
+  "frozen_manifest_files_unchanged": true,
+  "original_15_files_unchanged": true,
+  "new_qa_tool_matches_executed_snapshot": true,
+  "new_qa_tool_sha256": "5e65397f0d2836ef6e758c994c3a71f8c6f2b3c10d827a8c495b347f589c7297",
+  "documentation_broken_links": [],
+  "real_model_recomputed": 24,
+  "p95_seconds": 11.424,
+  "maximum_seconds": 56.339,
+  "longest_contiguous_attempts": 20,
+  "sixty_contiguous_attempts": false,
+  "release_gate": "NOT_ACCEPTED"
+}

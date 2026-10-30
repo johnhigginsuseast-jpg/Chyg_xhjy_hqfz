@@ -1,0 +1,12 @@
+{
+  "available_native_control_tools": [],
+  "searches": [
+    "Browser Computer Use Edge Chrome",
+    "Computer Use",
+    "Microsoft Edge"
+  ],
+  "suitable_local_edge_chrome_plugin_found": false,
+  "cloud_browser_rejected": "Does not satisfy the confirmed native Windows browser criterion or local-only scope.",
+  "installed_plugins": [],
+  "catalog_search_is_not_exhaustive": true
+}

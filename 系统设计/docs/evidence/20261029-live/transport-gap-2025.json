@@ -1,0 +1,310 @@
+{
+  "observed_at": "2026-10-29T12:38:14.847528+00:00",
+  "scope": "Actual 20:24-20:26 request cadence",
+  "events": [
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:24:08.942000+08:00",
+      "payload": {
+        "elapsed_seconds": 10.047,
+        "received_ms": 1793276646729,
+        "started_at_ms": 1793276638904,
+        "status": "RULE_SKIP",
+        "success": true
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:24:09.361000+08:00",
+      "payload": {
+        "elapsed_seconds": 0.406,
+        "received_ms": 1793276649356,
+        "started_at_ms": 1793276648961,
+        "status": "WAITING_NEW_COMPLETE_BAR",
+        "success": true
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:24:12.935000+08:00",
+      "payload": {
+        "elapsed_seconds": 0.969,
+        "received_ms": 1793276652837,
+        "started_at_ms": 1793276651957,
+        "status": "WAITING_NEW_COMPLETE_BAR",
+        "success": true
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:24:17.002000+08:00",
+      "payload": {
+        "elapsed_seconds": 2.047,
+        "received_ms": 1793276656800,
+        "started_at_ms": 1793276654958,
+        "status": "WAITING_NEW_COMPLETE_BAR",
+        "success": true
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:24:18.804000+08:00",
+      "payload": {
+        "elapsed_seconds": 0.844,
+        "received_ms": 1793276658612,
+        "started_at_ms": 1793276657956,
+        "status": "WAITING_NEW_COMPLETE_BAR",
+        "success": true
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:24:21.790000+08:00",
+      "payload": {
+        "elapsed_seconds": 0.813,
+        "received_ms": 1793276661616,
+        "started_at_ms": 1793276660969,
+        "status": "WAITING_NEW_COMPLETE_BAR",
+        "success": true
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:24:26.095000+08:00",
+      "payload": {
+        "elapsed_seconds": 2.125,
+        "received_ms": 1793276665921,
+        "started_at_ms": 1793276663985,
+        "status": "WAITING_NEW_COMPLETE_BAR",
+        "success": true
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:24:29.032000+08:00",
+      "payload": {
+        "elapsed_seconds": 2.063,
+        "received_ms": 1793276668859,
+        "started_at_ms": 1793276666978,
+        "status": "WAITING_NEW_COMPLETE_BAR",
+        "success": true
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:24:30.493000+08:00",
+      "payload": {
+        "elapsed_seconds": 0.516,
+        "received_ms": 1793276670365,
+        "started_at_ms": 1793276669972,
+        "status": "WAITING_NEW_COMPLETE_BAR",
+        "success": true
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:24:34.045000+08:00",
+      "payload": {
+        "elapsed_seconds": 1.063,
+        "received_ms": 1793276673867,
+        "started_at_ms": 1793276672970,
+        "status": "WAITING_NEW_COMPLETE_BAR",
+        "success": true
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:24:36.710000+08:00",
+      "payload": {
+        "elapsed_seconds": 0.735,
+        "received_ms": 1793276676609,
+        "started_at_ms": 1793276675976,
+        "status": "WAITING_NEW_COMPLETE_BAR",
+        "success": true
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:24:39.450000+08:00",
+      "payload": {
+        "elapsed_seconds": 0.469,
+        "received_ms": 1793276679362,
+        "started_at_ms": 1793276678979,
+        "status": "WAITING_NEW_COMPLETE_BAR",
+        "success": true
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:24:42.967000+08:00",
+      "payload": {
+        "elapsed_seconds": 0.985,
+        "received_ms": 1793276682875,
+        "started_at_ms": 1793276681984,
+        "status": "WAITING_NEW_COMPLETE_BAR",
+        "success": true
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:24:47.098000+08:00",
+      "payload": {
+        "elapsed_seconds": 2.125,
+        "received_ms": 1793276687008,
+        "started_at_ms": 1793276684983,
+        "status": "WAITING_NEW_COMPLETE_BAR",
+        "success": true
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:24:50.492000+08:00",
+      "payload": {
+        "elapsed_seconds": 2.516,
+        "received_ms": 1793276690383,
+        "started_at_ms": 1793276687974,
+        "status": "WAITING_NEW_COMPLETE_BAR",
+        "success": true
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:24:51.800000+08:00",
+      "payload": {
+        "elapsed_seconds": 0.829,
+        "received_ms": 1793276691627,
+        "started_at_ms": 1793276690982,
+        "status": "WAITING_NEW_COMPLETE_BAR",
+        "success": true
+      }
+    },
+    {
+      "kind": "HTTP_ERROR",
+      "at": "2026-10-29T20:25:01.991000+08:00",
+      "payload": {
+        "code": "HTTP_TRANSPORT_ERROR",
+        "retry_after": 3
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:25:01.992000+08:00",
+      "payload": {
+        "elapsed_seconds": 8.016,
+        "received_ms": null,
+        "started_at_ms": 1793276693976,
+        "status": "HTTP_TRANSPORT_ERROR",
+        "success": false
+      }
+    },
+    {
+      "kind": "HTTP_ERROR",
+      "at": "2026-10-29T20:25:12.999000+08:00",
+      "payload": {
+        "code": "HTTP_TRANSPORT_ERROR",
+        "retry_after": 3
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:25:13.010000+08:00",
+      "payload": {
+        "elapsed_seconds": 8.016,
+        "received_ms": null,
+        "started_at_ms": 1793276704994,
+        "status": "HTTP_TRANSPORT_ERROR",
+        "success": false
+      }
+    },
+    {
+      "kind": "HTTP_ERROR",
+      "at": "2026-10-29T20:25:24.017000+08:00",
+      "payload": {
+        "code": "HTTP_TRANSPORT_ERROR",
+        "retry_after": 3
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:25:24.028000+08:00",
+      "payload": {
+        "elapsed_seconds": 8.015,
+        "received_ms": null,
+        "started_at_ms": 1793276716012,
+        "status": "HTTP_TRANSPORT_ERROR",
+        "success": false
+      }
+    },
+    {
+      "kind": "BACKFILL_ONLY",
+      "at": "2026-10-29T20:25:31.224000+08:00",
+      "payload": {
+        "anchor": 1793276700000,
+        "received_ms": 1793276728584
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:25:31.227000+08:00",
+      "payload": {
+        "elapsed_seconds": 4.203,
+        "received_ms": 1793276728584,
+        "started_at_ms": 1793276727031,
+        "status": "STALE_OR_BACKFILL",
+        "success": true
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:25:38.067000+08:00",
+      "payload": {
+        "elapsed_seconds": 6.828,
+        "received_ms": 1793276737887,
+        "started_at_ms": 1793276731247,
+        "status": "WAITING_NEW_COMPLETE_BAR",
+        "success": true
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:25:38.494000+08:00",
+      "payload": {
+        "elapsed_seconds": 0.406,
+        "received_ms": 1793276738490,
+        "started_at_ms": 1793276738090,
+        "status": "WAITING_NEW_COMPLETE_BAR",
+        "success": true
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:25:42.545000+08:00",
+      "payload": {
+        "elapsed_seconds": 1.453,
+        "received_ms": 1793276742420,
+        "started_at_ms": 1793276741093,
+        "status": "WAITING_NEW_COMPLETE_BAR",
+        "success": true
+      }
+    },
+    {
+      "kind": "HTTP_ERROR",
+      "at": "2026-10-29T20:25:52.087000+08:00",
+      "payload": {
+        "code": "HTTP_TRANSPORT_ERROR",
+        "retry_after": 3
+      }
+    },
+    {
+      "kind": "POLL",
+      "at": "2026-10-29T20:25:52.088000+08:00",
+      "payload": {
+        "elapsed_seconds": 8.0,
+        "received_ms": null,
+        "started_at_ms": 1793276744082,
+        "status": "HTTP_TRANSPORT_ERROR",
+        "success": false
+      }
+    }
+  ]
+}

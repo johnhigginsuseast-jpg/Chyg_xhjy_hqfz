@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "scope": "unpacked candidate v2, 26 unit tests, full audit of packaged source snapshots, new-process model inference",
+  "code_files_match_candidate": true,
+  "probability_matches_original": true,
+  "original_client_required": false,
+  "source_root_used": "D:\\mycode\\沧海易购1\\market-direction-ml\\delivery\\candidate-smoke-v2\\market-direction-ml\\data\\source"
+}

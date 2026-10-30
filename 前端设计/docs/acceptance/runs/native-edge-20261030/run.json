@@ -1,0 +1,233 @@
+{
+  "candidate": "frontend-v0.1-candidate4",
+  "recorded_at": "2026-10-30T14:20:02.034536+08:00",
+  "overall": "PASS",
+  "release_allowed": true,
+  "passed": 20,
+  "failed": 0,
+  "blocked": 0,
+  "not_tested": 0,
+  "items": [
+    {
+      "id": "AC-WEB-001",
+      "status": "PASS",
+      "observed": "启动cmd新进程、HTML/JS/CSS/API均200；独占端口冲突报错。网络清单仅本地资源和浏览器内置data图标。",
+      "evidence": [
+        "../frontend-v0.1-candidate4/startup-smoke.json",
+        "../../../evidence/development/launcher-conflict.json",
+        "../../../evidence/browser/local-network-inventory.json"
+      ]
+    },
+    {
+      "id": "AC-WEB-002",
+      "status": "PASS",
+      "observed": "固定URI mode=ro、query_only实际写入拒绝；方法/路径/SQL/Host/Origin负例通过。原受保护源码/配置和15个模型文件无摘要变化。",
+      "evidence": [
+        "../frontend-v0.1-candidate4/regression.log",
+        "../frontend-v0.1-candidate4/supplementary.log",
+        "../../../evidence/live-check-1793274849189969500/report.json"
+      ]
+    },
+    {
+      "id": "AC-WEB-003",
+      "status": "PASS",
+      "observed": "真实531/品名/HTTP跨源研究/模型/部署已对照；错误部署、错误LIVE模型绑定被拒绝。",
+      "evidence": [
+        "../frontend-v0.1-candidate4/regression.log",
+        "../frontend-v0.1-candidate4/supplementary.log",
+        "../../../evidence/browser/live-api-dom.json"
+      ]
+    },
+    {
+      "id": "AC-WEB-004",
+      "status": "PASS",
+      "observed": "7类浏览器矩阵及9类状态边界接口检查；进程始终未知，STOPPED仅作历史记录，未知码保持原码。",
+      "evidence": [
+        "../frontend-v0.1-candidate4/regression.log",
+        "../../../evidence/browser/scenario-matrix-final.json"
+      ]
+    },
+    {
+      "id": "AC-WEB-005",
+      "status": "PASS",
+      "observed": "上海时间、源时间/获取/业务截止/页面成功刷新分列；真实旧截面明确REPLAY，过期缓存不推进成功时间。",
+      "evidence": [
+        "../frontend-v0.1-candidate4/regression.log",
+        "../frontend-v0.1-candidate4/historical-replay-check.json",
+        "../../../evidence/browser/offline-final.json"
+      ]
+    },
+    {
+      "id": "AC-WEB-006",
+      "status": "PASS",
+      "observed": "600根真实OHLCV逐字段相等；240默认/600上限、隔离/形成中/空图、原始单位和无填补已检查。",
+      "evidence": [
+        "../frontend-v0.1-candidate4/regression.log",
+        "../frontend-v0.1-candidate4/supplementary.log",
+        "../../../evidence/live-check-1793274849189969500/report.json",
+        "../../../evidence/browser/hand-counts-dom.json"
+      ]
+    },
+    {
+      "id": "AC-WEB-007",
+      "status": "PASS",
+      "observed": "up/down、0.5/wait、skip、pending、late/旧预测与目标未知已核对；当前和历史标签明确。",
+      "evidence": [
+        "../frontend-v0.1-candidate4/regression.log",
+        "../../../evidence/browser/scenario-matrix-final.json",
+        "../../../evidence/browser/live-detail-api-dom.json"
+      ]
+    },
+    {
+      "id": "AC-WEB-008",
+      "status": "PASS",
+      "observed": "手算13条的页面n=10、6/4/1/1/1、60.00%；wait在主分母；原Ledger统计/Wilson完全一致。",
+      "evidence": [
+        "../frontend-v0.1-candidate4/regression.log",
+        "../../../evidence/browser/hand-counts-dom.json",
+        "../../../evidence/browser/hand-counts-page.jpg"
+      ]
+    },
+    {
+      "id": "AC-WEB-009",
+      "status": "PASS",
+      "observed": "原账本真实0预测截面以REPLAY单独显示，无假0%；午夜、无回执和跨日结算与原summary相等。",
+      "evidence": [
+        "../frontend-v0.1-candidate4/regression.log",
+        "../frontend-v0.1-candidate4/historical-replay-check.json",
+        "../../../evidence/browser/real-zero-replay-dom.json",
+        "../../../evidence/browser/real-zero-replay.jpg"
+      ]
+    },
+    {
+      "id": "AC-WEB-010",
+      "status": "PASS",
+      "observed": "真实历史0/1点不画趋势，当前多点有线；6/10修订7/10，过去统计点未回填；原summary逐点对齐。",
+      "evidence": [
+        "../frontend-v0.1-candidate4/regression.log",
+        "../frontend-v0.1-candidate4/revision-check.json",
+        "../frontend-v0.1-candidate4/historical-replay-check.json",
+        "../../../evidence/browser/revision-before.jpg",
+        "../../../evidence/browser/revision-after.jpg",
+        "../../../evidence/browser/real-one-point-replay-dom.json"
+      ]
+    },
+    {
+      "id": "AC-WEB-011",
+      "status": "PASS",
+      "observed": "120条完整分页ID无漏重，同发布时间稳定排序；日期+状态组合与独立期望相等，筛选不改全局统计。",
+      "evidence": [
+        "../frontend-v0.1-candidate4/regression.log",
+        "../frontend-v0.1-candidate4/supplementary.log",
+        "../../../evidence/browser/filter-pagination.json"
+      ]
+    },
+    {
+      "id": "AC-WEB-012",
+      "status": "PASS",
+      "observed": "真实已计分明细追到原预测/回执/结算；无MODEL_INPUT显示未记录，修订2可见，其他部署ID拒绝404。",
+      "evidence": [
+        "../frontend-v0.1-candidate4/regression.log",
+        "../../../evidence/browser/evidence-recheck.json",
+        "../../../evidence/browser/missing-trace-detail.json",
+        "../../../evidence/browser/revision-after-dom.json"
+      ]
+    },
+    {
+      "id": "AC-WEB-013",
+      "status": "PASS",
+      "observed": "DEMO显著标记且独立写前端runtime；真实数据故障注入时LIVE缓存保留、首次失败无假数据、恢复不转DEMO。",
+      "evidence": [
+        "../frontend-v0.1-candidate4/regression.log",
+        "../../../evidence/browser/scenario-matrix-final.json",
+        "../../../evidence/browser/live-failure-no-demo-final.json",
+        "../../../evidence/browser/live-failure-no-demo.json"
+      ]
+    },
+    {
+      "id": "AC-WEB-014",
+      "status": "PASS",
+      "observed": "400/503、非法JSON/缺字段、实际断网/5秒超时/数据库忙与恢复均留证；旧响应反例未覆盖新请求。",
+      "evidence": [
+        "../frontend-v0.1-candidate4/regression.log",
+        "../../../evidence/browser/api-400-dom.json",
+        "../../../evidence/browser/failure-recovery-final.json",
+        "../../../evidence/browser/offline-final.json",
+        "../../../evidence/browser/offline-recovered-final.json",
+        "../../../evidence/browser/database-busy.json",
+        "../../../evidence/browser/database-recovered.json",
+        "../../../evidence/browser/timeout-after-fix.json",
+        "../../../evidence/browser/response-order.json"
+      ]
+    },
+    {
+      "id": "AC-WEB-015",
+      "status": "PASS",
+      "observed": "未完成POLL前13条、完成后14条；诊断STOPPED可晚于业务截止。真实原汇总/趋势/600 bars/DOM/明细均对齐。",
+      "evidence": [
+        "../frontend-v0.1-candidate4/supplementary.log",
+        "../../../evidence/browser/evidence-recheck.json",
+        "../../../evidence/live-check-1793274849189969500/report.json"
+      ]
+    },
+    {
+      "id": "AC-WEB-016",
+      "status": "PASS",
+      "observed": "十轮独立新状态、11种快照、26次响应；图表/悬停/筛选/第二页/详情/焦点保持，锚点偏移0px、请求重叠0、loaderId仅1。",
+      "evidence": [
+        "../../../evidence/browser/ten-updates-stability-final.json",
+        "../../../evidence/browser/evidence-recheck.json",
+        "../../../evidence/browser/keyboard-escape.json"
+      ]
+    },
+    {
+      "id": "AC-WEB-017",
+      "status": "PASS",
+      "observed": "Windows Edge 1440x900/390x844/360x800无页面横溢、图高340px；文字最低8.0245、边框3.18865；键盘筛选/分页/详情/Esc焦点返回PASS。",
+      "evidence": [
+        "native-measurements.json",
+        "native-desktop.json",
+        "live-desktop.jpg",
+        "live-390.jpg",
+        "live-360.jpg",
+        "demo-keyboard-detail.jpg"
+      ]
+    },
+    {
+      "id": "AC-WEB-018",
+      "status": "PASS",
+      "observed": "同候选独立API50请求p95=1.270355秒；Edge一万条DEMO首屏墙钟上界1.229秒，50行/图表可用，含控制往返开销。",
+      "evidence": [
+        "../../../evidence/development/performance-1793274651556964400.json",
+        "native-measurements.json",
+        "demo-benchmark.jpg",
+        "native-resource-inventory.json"
+      ]
+    },
+    {
+      "id": "AC-WEB-019",
+      "status": "PASS",
+      "observed": "真实当前部署只读联调成立：本次65计分、42HIT/23MISS；当前结果追踪到原始行/回执；另一次DOM54计分截面也逐字段一致。仅为对应时刻证据。",
+      "evidence": [
+        "../../../evidence/live-check-1793274849189969500/report.json",
+        "../../../evidence/browser/evidence-recheck.json",
+        "../../../evidence/browser/final-live-detail.jpg",
+        "startup-and-live-parity.json",
+        "native-live-detail.json",
+        "../observation-20261030T1022/report.json"
+      ]
+    },
+    {
+      "id": "AC-WEB-020",
+      "status": "PASS",
+      "observed": "同候选15项摘要一致；新终端运行README启动cmd，静态/API200；确认基线/七类资料/20项必需验收齐全。",
+      "evidence": [
+        "../../../candidates/frontend-v0.1-candidate4.json",
+        "startup-and-live-parity.json",
+        "material-audit.json"
+      ]
+    }
+  ],
+  "baseline": "v0.1 USER_CONFIRMED",
+  "historical_blocked_run_preserved": true
+}

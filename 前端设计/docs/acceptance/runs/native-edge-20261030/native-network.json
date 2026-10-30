@@ -1,0 +1,1322 @@
+[
+  {
+    "sequence": 1529,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.302",
+    "timestamp": 8215.61403
+  },
+  {
+    "sequence": 1535,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.303",
+    "timestamp": 8218.918412
+  },
+  {
+    "sequence": 1541,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.304",
+    "timestamp": 8222.221444
+  },
+  {
+    "sequence": 1547,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.305",
+    "timestamp": 8225.497781
+  },
+  {
+    "sequence": 1553,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.306",
+    "timestamp": 8228.744479
+  },
+  {
+    "sequence": 1559,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.307",
+    "timestamp": 8231.993366
+  },
+  {
+    "sequence": 1565,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.308",
+    "timestamp": 8235.27723
+  },
+  {
+    "sequence": 1571,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.309",
+    "timestamp": 8238.542188
+  },
+  {
+    "sequence": 1577,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.310",
+    "timestamp": 8241.819779
+  },
+  {
+    "sequence": 1583,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.311",
+    "timestamp": 8245.091285
+  },
+  {
+    "sequence": 1589,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.312",
+    "timestamp": 8248.324866
+  },
+  {
+    "sequence": 1595,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.313",
+    "timestamp": 8251.597578
+  },
+  {
+    "sequence": 1601,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.314",
+    "timestamp": 8254.883177
+  },
+  {
+    "sequence": 1607,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.315",
+    "timestamp": 8258.158811
+  },
+  {
+    "sequence": 1613,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.316",
+    "timestamp": 8261.427411
+  },
+  {
+    "sequence": 1619,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.317",
+    "timestamp": 8264.668441
+  },
+  {
+    "sequence": 1625,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.318",
+    "timestamp": 8267.926422
+  },
+  {
+    "sequence": 1631,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.319",
+    "timestamp": 8271.234597
+  },
+  {
+    "sequence": 1637,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.320",
+    "timestamp": 8274.524193
+  },
+  {
+    "sequence": 1643,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.321",
+    "timestamp": 8277.846313
+  },
+  {
+    "sequence": 1650,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.322",
+    "timestamp": 8281.110536
+  },
+  {
+    "sequence": 1656,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.323",
+    "timestamp": 8284.342993
+  },
+  {
+    "sequence": 1662,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.324",
+    "timestamp": 8287.582148
+  },
+  {
+    "sequence": 1668,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.325",
+    "timestamp": 8290.877324
+  },
+  {
+    "sequence": 1674,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.326",
+    "timestamp": 8294.142717
+  },
+  {
+    "sequence": 1680,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.327",
+    "timestamp": 8297.385445
+  },
+  {
+    "sequence": 1686,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.328",
+    "timestamp": 8300.648374
+  },
+  {
+    "sequence": 1692,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.329",
+    "timestamp": 8303.889491
+  },
+  {
+    "sequence": 1698,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.330",
+    "timestamp": 8307.148385
+  },
+  {
+    "sequence": 1704,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.331",
+    "timestamp": 8310.419074
+  },
+  {
+    "sequence": 1710,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.332",
+    "timestamp": 8313.67428
+  },
+  {
+    "sequence": 1716,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.333",
+    "timestamp": 8316.901786
+  },
+  {
+    "sequence": 1722,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.334",
+    "timestamp": 8320.170318
+  },
+  {
+    "sequence": 1728,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.335",
+    "timestamp": 8323.429507
+  },
+  {
+    "sequence": 1734,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.336",
+    "timestamp": 8326.722201
+  },
+  {
+    "sequence": 1740,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.337",
+    "timestamp": 8330.022837
+  },
+  {
+    "sequence": 1746,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.338",
+    "timestamp": 8333.43658
+  },
+  {
+    "sequence": 1752,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.339",
+    "timestamp": 8336.715575
+  },
+  {
+    "sequence": 1758,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.340",
+    "timestamp": 8339.964404
+  },
+  {
+    "sequence": 1764,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.341",
+    "timestamp": 8343.229111
+  },
+  {
+    "sequence": 1770,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.342",
+    "timestamp": 8346.47558
+  },
+  {
+    "sequence": 1776,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.343",
+    "timestamp": 8349.713852
+  },
+  {
+    "sequence": 1782,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.344",
+    "timestamp": 8352.976067
+  },
+  {
+    "sequence": 1788,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.345",
+    "timestamp": 8356.222579
+  },
+  {
+    "sequence": 1794,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.346",
+    "timestamp": 8359.513489
+  },
+  {
+    "sequence": 1800,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.347",
+    "timestamp": 8362.76585
+  },
+  {
+    "sequence": 1806,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.348",
+    "timestamp": 8366.031403
+  },
+  {
+    "sequence": 1812,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.349",
+    "timestamp": 8369.349834
+  },
+  {
+    "sequence": 1818,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.350",
+    "timestamp": 8372.599178
+  },
+  {
+    "sequence": 1824,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.351",
+    "timestamp": 8375.869684
+  },
+  {
+    "sequence": 1830,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.352",
+    "timestamp": 8379.17462
+  },
+  {
+    "sequence": 1837,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.353",
+    "timestamp": 8382.489179
+  },
+  {
+    "sequence": 1843,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.354",
+    "timestamp": 8385.874664
+  },
+  {
+    "sequence": 1849,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.355",
+    "timestamp": 8389.137119
+  },
+  {
+    "sequence": 1855,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.356",
+    "timestamp": 8392.390726
+  },
+  {
+    "sequence": 1861,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.357",
+    "timestamp": 8395.630993
+  },
+  {
+    "sequence": 1867,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.358",
+    "timestamp": 8398.928246
+  },
+  {
+    "sequence": 1873,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.359",
+    "timestamp": 8402.230985
+  },
+  {
+    "sequence": 1879,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.360",
+    "timestamp": 8405.4771
+  },
+  {
+    "sequence": 1885,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.361",
+    "timestamp": 8408.778967
+  },
+  {
+    "sequence": 1891,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.362",
+    "timestamp": 8412.022129
+  },
+  {
+    "sequence": 1897,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.363",
+    "timestamp": 8415.273358
+  },
+  {
+    "sequence": 1903,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.364",
+    "timestamp": 8418.559155
+  },
+  {
+    "sequence": 1909,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.365",
+    "timestamp": 8421.809184
+  },
+  {
+    "sequence": 1915,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.366",
+    "timestamp": 8425.079201
+  },
+  {
+    "sequence": 1921,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.367",
+    "timestamp": 8428.340488
+  },
+  {
+    "sequence": 1927,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.368",
+    "timestamp": 8431.711454
+  },
+  {
+    "sequence": 1933,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.369",
+    "timestamp": 8435.157623
+  },
+  {
+    "sequence": 1939,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.370",
+    "timestamp": 8438.45234
+  },
+  {
+    "sequence": 1945,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.371",
+    "timestamp": 8442.246651
+  },
+  {
+    "sequence": 1952,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.372",
+    "timestamp": 8445.662678
+  },
+  {
+    "sequence": 1958,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.373",
+    "timestamp": 8448.895578
+  },
+  {
+    "sequence": 1964,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.374",
+    "timestamp": 8452.171041
+  },
+  {
+    "sequence": 1970,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.375",
+    "timestamp": 8455.412582
+  },
+  {
+    "sequence": 1976,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.376",
+    "timestamp": 8458.68672
+  },
+  {
+    "sequence": 1982,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.377",
+    "timestamp": 8461.932451
+  },
+  {
+    "sequence": 1989,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.378",
+    "timestamp": 8465.203736
+  },
+  {
+    "sequence": 1995,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.379",
+    "timestamp": 8468.455192
+  },
+  {
+    "sequence": 2001,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.380",
+    "timestamp": 8471.686879
+  },
+  {
+    "sequence": 2007,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.381",
+    "timestamp": 8474.958234
+  },
+  {
+    "sequence": 2013,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.382",
+    "timestamp": 8478.231946
+  },
+  {
+    "sequence": 2019,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.383",
+    "timestamp": 8481.488701
+  },
+  {
+    "sequence": 2025,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.384",
+    "timestamp": 8484.733839
+  },
+  {
+    "sequence": 2031,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.385",
+    "timestamp": 8487.970327
+  },
+  {
+    "sequence": 2037,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.386",
+    "timestamp": 8491.307253
+  },
+  {
+    "sequence": 2043,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.387",
+    "timestamp": 8494.713537
+  },
+  {
+    "sequence": 2050,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.388",
+    "timestamp": 8497.952225
+  },
+  {
+    "sequence": 2056,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.389",
+    "timestamp": 8501.249596
+  },
+  {
+    "sequence": 2062,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.390",
+    "timestamp": 8504.497662
+  },
+  {
+    "sequence": 2068,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.391",
+    "timestamp": 8507.771751
+  },
+  {
+    "sequence": 2074,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.392",
+    "timestamp": 8511.033566
+  },
+  {
+    "sequence": 2080,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.393",
+    "timestamp": 8514.29447
+  },
+  {
+    "sequence": 2086,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.394",
+    "timestamp": 8517.571733
+  },
+  {
+    "sequence": 2092,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.395",
+    "timestamp": 8520.839197
+  },
+  {
+    "sequence": 2098,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.396",
+    "timestamp": 8524.099644
+  },
+  {
+    "sequence": 2104,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.397",
+    "timestamp": 8527.350052
+  },
+  {
+    "sequence": 2110,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.398",
+    "timestamp": 8530.584115
+  },
+  {
+    "sequence": 2116,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.399",
+    "timestamp": 8533.842262
+  },
+  {
+    "sequence": 2122,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.400",
+    "timestamp": 8537.279667
+  },
+  {
+    "sequence": 2128,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.401",
+    "timestamp": 8540.587576
+  },
+  {
+    "sequence": 2134,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.402",
+    "timestamp": 8543.997289
+  },
+  {
+    "sequence": 2141,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.403",
+    "timestamp": 8547.235407
+  },
+  {
+    "sequence": 2147,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.404",
+    "timestamp": 8550.493417
+  },
+  {
+    "sequence": 2153,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.405",
+    "timestamp": 8553.753637
+  },
+  {
+    "sequence": 2159,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.406",
+    "timestamp": 8557.009773
+  },
+  {
+    "sequence": 2165,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.407",
+    "timestamp": 8560.257868
+  },
+  {
+    "sequence": 2171,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.408",
+    "timestamp": 8563.489608
+  },
+  {
+    "sequence": 2177,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.409",
+    "timestamp": 8566.747394
+  },
+  {
+    "sequence": 2183,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.410",
+    "timestamp": 8569.997351
+  },
+  {
+    "sequence": 2189,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.411",
+    "timestamp": 8573.303472
+  },
+  {
+    "sequence": 2195,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.412",
+    "timestamp": 8576.552533
+  },
+  {
+    "sequence": 2201,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.413",
+    "timestamp": 8579.805532
+  },
+  {
+    "sequence": 2207,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.414",
+    "timestamp": 8583.056263
+  },
+  {
+    "sequence": 2213,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.415",
+    "timestamp": 8586.327174
+  },
+  {
+    "sequence": 2219,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.416",
+    "timestamp": 8589.656962
+  },
+  {
+    "sequence": 2225,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.417",
+    "timestamp": 8593.068285
+  },
+  {
+    "sequence": 2231,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.418",
+    "timestamp": 8596.517818
+  },
+  {
+    "sequence": 2237,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.419",
+    "timestamp": 8599.796416
+  },
+  {
+    "sequence": 2243,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.420",
+    "timestamp": 8603.085478
+  },
+  {
+    "sequence": 2249,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.421",
+    "timestamp": 8606.330568
+  },
+  {
+    "sequence": 2255,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.422",
+    "timestamp": 8609.609267
+  },
+  {
+    "sequence": 2261,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.423",
+    "timestamp": 8612.875757
+  },
+  {
+    "sequence": 2267,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.424",
+    "timestamp": 8616.120806
+  },
+  {
+    "sequence": 2273,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.425",
+    "timestamp": 8619.47298
+  },
+  {
+    "sequence": 2279,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.426",
+    "timestamp": 8622.778018
+  },
+  {
+    "sequence": 2285,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.427",
+    "timestamp": 8626.070235
+  },
+  {
+    "sequence": 2291,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.428",
+    "timestamp": 8629.388777
+  },
+  {
+    "sequence": 2297,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.429",
+    "timestamp": 8632.639975
+  },
+  {
+    "sequence": 2303,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.430",
+    "timestamp": 8635.874997
+  },
+  {
+    "sequence": 2309,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.431",
+    "timestamp": 8639.326664
+  },
+  {
+    "sequence": 2315,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.432",
+    "timestamp": 8642.638416
+  },
+  {
+    "sequence": 2321,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.433",
+    "timestamp": 8645.876903
+  },
+  {
+    "sequence": 2327,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.434",
+    "timestamp": 8649.113136
+  },
+  {
+    "sequence": 2333,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.435",
+    "timestamp": 8652.393119
+  },
+  {
+    "sequence": 2339,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.436",
+    "timestamp": 8655.654437
+  },
+  {
+    "sequence": 2345,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.437",
+    "timestamp": 8658.922034
+  },
+  {
+    "sequence": 2351,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.438",
+    "timestamp": 8662.196311
+  },
+  {
+    "sequence": 2357,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.439",
+    "timestamp": 8665.462265
+  },
+  {
+    "sequence": 2363,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.440",
+    "timestamp": 8668.700503
+  },
+  {
+    "sequence": 2369,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.441",
+    "timestamp": 8671.972521
+  },
+  {
+    "sequence": 2375,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.442",
+    "timestamp": 8675.215811
+  },
+  {
+    "sequence": 2381,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.443",
+    "timestamp": 8678.514646
+  },
+  {
+    "sequence": 2387,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.444",
+    "timestamp": 8681.73966
+  },
+  {
+    "sequence": 2393,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.445",
+    "timestamp": 8685.015912
+  },
+  {
+    "sequence": 2399,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.446",
+    "timestamp": 8688.329757
+  },
+  {
+    "sequence": 2405,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.447",
+    "timestamp": 8691.735768
+  },
+  {
+    "sequence": 2411,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.448",
+    "timestamp": 8695.05559
+  },
+  {
+    "sequence": 2417,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.449",
+    "timestamp": 8698.300286
+  },
+  {
+    "sequence": 2423,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.450",
+    "timestamp": 8701.59268
+  },
+  {
+    "sequence": 2429,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.451",
+    "timestamp": 8704.886781
+  },
+  {
+    "sequence": 2435,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.452",
+    "timestamp": 8708.194272
+  },
+  {
+    "sequence": 2441,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.453",
+    "timestamp": 8711.484355
+  },
+  {
+    "sequence": 2447,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.454",
+    "timestamp": 8715.495588
+  },
+  {
+    "sequence": 2453,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.455",
+    "timestamp": 8721.386355
+  },
+  {
+    "sequence": 2460,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.456",
+    "timestamp": 8724.800217
+  },
+  {
+    "sequence": 2466,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.457",
+    "timestamp": 8728.252029
+  },
+  {
+    "sequence": 2473,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.458",
+    "timestamp": 8736.207468
+  },
+  {
+    "sequence": 2479,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.459",
+    "timestamp": 8746.888719
+  },
+  {
+    "sequence": 2485,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.460",
+    "timestamp": 8750.196862
+  },
+  {
+    "sequence": 2491,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.461",
+    "timestamp": 8753.506082
+  },
+  {
+    "sequence": 2497,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.462",
+    "timestamp": 8756.845421
+  },
+  {
+    "sequence": 2503,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.463",
+    "timestamp": 8760.127655
+  },
+  {
+    "sequence": 2509,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.464",
+    "timestamp": 8763.633355
+  },
+  {
+    "sequence": 2516,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.465",
+    "timestamp": 8766.958646
+  },
+  {
+    "sequence": 2522,
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.466",
+    "timestamp": 8770.692807
+  }
+]

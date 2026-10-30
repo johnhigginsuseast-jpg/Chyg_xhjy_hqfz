@@ -1,0 +1,57 @@
+[
+  {
+    "selector": "body",
+    "kind": "text",
+    "ratio": 15.625215250509019
+  },
+  {
+    "selector": ".muted",
+    "kind": "text",
+    "ratio": 8.024538022456163
+  },
+  {
+    "selector": ".up",
+    "kind": "text",
+    "ratio": 8.031413055394879
+  },
+  {
+    "selector": ".down",
+    "kind": "text",
+    "ratio": 10.621494642207148
+  },
+  {
+    "selector": "button",
+    "kind": "text",
+    "ratio": 12.475295056322565
+  },
+  {
+    "selector": "button",
+    "kind": "border",
+    "ratio": 3.1886506084505566
+  },
+  {
+    "selector": "input",
+    "kind": "text",
+    "ratio": 12.475295056322565
+  },
+  {
+    "selector": "input",
+    "kind": "border",
+    "ratio": 3.1886506084505566
+  },
+  {
+    "selector": ".candle-up",
+    "kind": "graphic",
+    "ratio": 8.031413055394879
+  },
+  {
+    "selector": ".candle-down",
+    "kind": "graphic",
+    "ratio": 10.621494642207148
+  },
+  {
+    "selector": ".trend-line",
+    "kind": "graphic",
+    "ratio": 10.530419582597919
+  }
+]

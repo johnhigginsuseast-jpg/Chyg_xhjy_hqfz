@@ -1,0 +1,30 @@
+{
+  "recorded_at": "2026-10-30T14:25:05.376557+08:00",
+  "status": "PASS",
+  "zip_crc": "PASS",
+  "archive_members_equal_manifest": true,
+  "all_archived_bytes_equal_installed_files": true,
+  "candidate_product_files_unchanged": true,
+  "after_packaging_http": {
+    "/": 200,
+    "/styles.css": 200,
+    "/app.js": 200,
+    "/api/dashboard?bars=600&limit=100": 200
+  },
+  "served_assets_equal_archive": true,
+  "script_startup_proof": "../acceptance/runs/native-edge-20261030/startup-and-live-parity.json",
+  "startup_scope": "New cmd terminal tested installed original project path; archive bytes identical. No clean-machine or arbitrary relocation claim.",
+  "mode": "LIVE",
+  "snapshot": {
+    "id": "http-research-20261029T205736:26947",
+    "observed_at_ms": 1793341505242,
+    "data_as_of_ms": 1793329490703,
+    "timezone": "Asia/Shanghai",
+    "last_completed_poll_id": 26947
+  },
+  "poll_recent": false,
+  "collector_action": "NONE",
+  "package_sha256": "68c35452d2447b1125b0f5002201ee3df8dfe44d3857b24c2f2e451fb5f355c6",
+  "final_document_state": "DELIVERED",
+  "previous_package_sha256": "1de5226c644c89f4b21d56e7a06a00c7ffc20e7fa3707461706a93af748fba86"
+}

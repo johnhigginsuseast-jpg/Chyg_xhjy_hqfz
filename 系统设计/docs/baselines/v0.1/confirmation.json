@@ -1,0 +1,13 @@
+{
+  "confirmed_at": "2026-10-28; Asia/Shanghai; this chat async question reply",
+  "requirements_version": "v0.1",
+  "acceptance_version": "v0.1",
+  "scope_reply": "确认 v0.1 推荐范围",
+  "instrument_reply": "是，印江花果红茶二期",
+  "files": {
+    "realtime-criteria-v0.1.md": "08282dee8dfe7078a3536f5abb0b4037b590c207c92a77103b4ab0c38082d147",
+    "realtime-v0.1.md": "c88bab420a3e8c8a2ab13826aaf21cca469c2c41bfe2e06dce6f75bda6a8ac93"
+  },
+  "source_binding": "NOT_CONFIRMED; needs real comparison/finality evidence",
+  "status": "USER_CONFIRMED_IMPLEMENTATION_SCOPE"
+}

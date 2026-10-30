@@ -1,0 +1,74 @@
+{
+  "recorded_at": "2026-10-30T14:11:33.331273+08:00",
+  "candidate": "frontend-v0.1-candidate4",
+  "startup_command": "cmd.exe /d /c .\\启动监控网页.cmd",
+  "new_terminal_session": 86515,
+  "resources": {
+    "/": {
+      "status": 200,
+      "bytes": 8728
+    },
+    "/app.js": {
+      "status": 200,
+      "bytes": 21636
+    },
+    "/styles.css": {
+      "status": 200,
+      "bytes": 11804
+    },
+    "/api/dashboard?bars=600&limit=100": {
+      "status": 200,
+      "bytes": 161756
+    }
+  },
+  "startup": "PASS",
+  "snapshot": {
+    "id": "http-research-20261029T205736:26947",
+    "observed_at_ms": 1793340692872,
+    "data_as_of_ms": 1793329490703,
+    "timezone": "Asia/Shanghai",
+    "last_completed_poll_id": 26947
+  },
+  "statistics": {
+    "HIT": 18,
+    "MISS": 13,
+    "FLAT": 0,
+    "PENDING": 1,
+    "UNSCORABLE": 0,
+    "total": 32,
+    "scored": 31,
+    "hit_rate": 0.5806451612903226,
+    "wilson95": [
+      0.4076626249536972,
+      0.7358445693268778
+    ],
+    "signal_scored": 16,
+    "signal_hit_rate": 0.5625,
+    "signal_coverage": 0.5161290322580645,
+    "revisions": 0,
+    "late": 0,
+    "signal_total": 16,
+    "signal_coverage_all_predictions": 0.5,
+    "rule_skip_events": 10,
+    "backfill_events": 2,
+    "source_state_events": 4646,
+    "effect_sample_insufficient": true,
+    "mode": "LIVE"
+  },
+  "bars_checked": 600,
+  "trend_points_checked": 31,
+  "real_scored_prediction_checked": "0cdb96fc7ef4cc6de734968e6d2d4aaae57c99ddf249db4dee9e395db55aeb63",
+  "original_ledger_parity": "PASS",
+  "native_dom_api_parity": "PASS",
+  "candidate_changes": [],
+  "original_model_changes": [],
+  "model_files_checked": 15,
+  "cross_site_document_rejection": "PASS; protection retained; normal user address-bar navigation succeeded",
+  "collector_action": "NONE",
+  "temporary_sessions_stopped": [
+    25157,
+    61695
+  ],
+  "delivery_frontend_session_left_running": 86515,
+  "note": "Original Ledger constructed only on frontend evidence copy; current source snapshot is old and UI labels it expired/unknown. Prior live cross-minute chain evidence is separately linked."
+}

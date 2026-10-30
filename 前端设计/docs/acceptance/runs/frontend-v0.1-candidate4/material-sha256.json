@@ -1,0 +1,18 @@
+{
+  "docs\\testing\\test-plan.md": "cfba26da0cc370bd5988ac1d32a65f20d8b06738497b49662e38da1524077e96",
+  "docs\\testing\\test-cases.md": "359c249036aa5f7df19d157f306d77da55621f192c65d957348dc82c4eaa09b5",
+  "docs\\testing\\test-data.md": "47f4874e7a3df3eb95bb7a38aa874badf2d27910e638f405d61368de4d313074",
+  "docs\\testing\\defects.md": "0d7fdf070405ea5583627b2293ca42147f771237d25a0879bd499e5a31a69053",
+  "docs\\testing\\executions\\development-v0.1.md": "c124ad8a1be5572b5498ab2960b5f120a95e20f0b36fc4c3170669d1dc013834",
+  "docs\\testing\\traceability-v0.1.md": "a46dca9b05706b6f7cdb84a9eca5cba564b76e86861735dbbff327b65a4fa75e",
+  "docs\\testing\\test-summary.md": "d49bcc16e81072b62efe9ff507c133b73b1d54cfff7285227df9e07cfd421f99",
+  "README.md": "0c58c007537d67b8b9bdfba632df564be28d12be8f660af72b1cc6f05dbbbd21",
+  "AI_CHANGELOG.md": "0a0b0a4639382771f54d63f56a15248a3051806819a61893831ee85382f075f4",
+  "docs\\project-status.md": "623c4b200f56c93afd3aed865785517e70c783a145865a23cab273ea37d8cd21",
+  "docs\\baselines\\v0.1\\README.md": "d9d9349b6de64083aa6e319c07c0869450b177fff75a7aaad39b176ff0861806",
+  "docs\\acceptance\\runs\\frontend-v0.1-candidate4\\run.md": "7f0a426bf35c48c7415b8a26c1c493309d53d2bcc23abfaa4b4a3feda7eb836e",
+  "docs\\acceptance\\runs\\frontend-v0.1-candidate4\\run.json": "eed96b10652d5b3cffe428b7c96edef0f76e8c5cefdf1943d759748d42a41999",
+  "docs\\acceptance\\runs\\frontend-v0.1-candidate4\\native-browser-blocker.json": "fa4eab1771384b65a76e1b5564a4616c418397285244450b0fe1f23f6bbb4168",
+  "docs\\acceptance\\runs\\frontend-v0.1-candidate4\\material-audit.json": "78b254162f451492dc1ce34c0fb30201fdb031c7df359524fc1dc2c6f9efd11d",
+  "docs\\acceptance\\runs\\frontend-v0.1-candidate4\\capture-review.json": "e675f5eb7e1c04a53634d2ccdb96669011c62b0618b712ad8a7e990a9c86ec63"
+}

@@ -1,0 +1,16 @@
+{
+  "at": "2026-10-28T15:45:14.109962+00:00",
+  "url": "https://yw.scdzscxt.com/apigateway/intraday-trade-query/query/queryServerTime",
+  "anonymous": true,
+  "client_guest_header": {
+    "terminalType": "4"
+  },
+  "cookies_sent": false,
+  "session_values_read": false,
+  "http_status": 200,
+  "server_date": "Wed, 28 Oct 2026 15:45:20 GMT",
+  "code": -3,
+  "message": "非法的地址请求",
+  "value_type": "NoneType",
+  "qualification": "REJECTED; no session or credential retry"
+}

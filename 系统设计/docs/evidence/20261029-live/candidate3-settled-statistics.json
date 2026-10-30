@@ -1,0 +1,26 @@
+{
+  "HIT": 65,
+  "MISS": 40,
+  "FLAT": 0,
+  "PENDING": 0,
+  "UNSCORABLE": 4,
+  "total": 109,
+  "scored": 105,
+  "hit_rate": 0.6190476190476191,
+  "wilson95": [
+    0.5235170112840923,
+    0.7061748751613577
+  ],
+  "signal_scored": 59,
+  "signal_hit_rate": 0.6101694915254238,
+  "signal_coverage": 0.5619047619047619,
+  "revisions": 0,
+  "late": 4,
+  "signal_total": 59,
+  "signal_coverage_all_predictions": 0.5412844036697247,
+  "rule_skip_events": 30,
+  "backfill_events": 10,
+  "source_state_events": 5943,
+  "effect_sample_insufficient": true,
+  "mode": "LIVE"
+}

@@ -1,0 +1,2 @@
+# Preserve frozen source/config bytes; do not normalize line endings.
+* -text

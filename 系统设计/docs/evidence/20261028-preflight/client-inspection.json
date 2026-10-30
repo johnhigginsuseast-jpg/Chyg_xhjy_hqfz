@@ -1,0 +1,118 @@
+{
+  "recorded_at": "2026-10-28T18:25:55.486957+08:00",
+  "stage": "READ_ONLY_DESIGN_PREFLIGHT",
+  "workspace": "D:\\mycode\\沧海易购1\\系统设计",
+  "asar": {
+    "path": "D:\\Download\\DEAL_chyg_Client\\resources\\app.asar",
+    "size": 43893160,
+    "sha256": "e48ce90c5353b12c1497bb9734cc487e13936fc34247706aa3520031dfd9320a",
+    "selected_sources": [
+      {
+        "asar_entry": "js/app.8921ab28.js.map",
+        "source": "webpack:///./src/assets/js/hq/hqProtocol.js",
+        "source_text_sha256": "41c38c1910891d4fceff95dbea510fd6325dbfc6cb36253d731748107168bcd1",
+        "lines": 161
+      },
+      {
+        "asar_entry": "js/app.8921ab28.js.map",
+        "source": "webpack:///./src/assets/js/hq/hqWs.js",
+        "source_text_sha256": "360d1d8f35e12dc948ed4f57d892c36a0c8710e1ea19b56f151799ba3bc7e41b",
+        "lines": 184
+      },
+      {
+        "asar_entry": "js/app.8921ab28.js.map",
+        "source": "webpack:///./src/assets/js/config.js",
+        "source_text_sha256": "9585e1c76c22cc9e1c9ba402a797a3e31e3228518ab3f94528eeb9c24a2dd7c0",
+        "lines": 135
+      },
+      {
+        "asar_entry": "js/chunk-253491e8.0760a4f6.js.map",
+        "source": "webpack:///./src/views/transcc/quotationline/hqchartjs/HQData.js",
+        "source_text_sha256": "7426184b5099b7ef40eef223d88ce68849d4819e549926ce5d44144418c748b4",
+        "lines": 1632
+      }
+    ]
+  },
+  "matching_csv_files": [
+    {
+      "path": "D:\\mycode\\沧海易购1\\2026-10-28\\1分钟K线.csv",
+      "sha256": "4b7627330182b5baa9748f51069d1ea58107cfbdbf2332d6db9a7970d33724f7",
+      "rows": 55386,
+      "first": "2026-04-27 09:31",
+      "last": "2026-10-27 16:00"
+    },
+    {
+      "path": "D:\\Download\\行情分析端\\K线数据导出\\1分钟K线.csv",
+      "sha256": "4b7627330182b5baa9748f51069d1ea58107cfbdbf2332d6db9a7970d33724f7",
+      "rows": 55386,
+      "first": "2026-04-27 09:31",
+      "last": "2026-10-27 16:00"
+    }
+  ],
+  "file_metadata_only": [
+    {
+      "path": "D:\\Download\\行情分析端\\DATA\\DriverRTA\\MIN.DY2",
+      "size": 8281600,
+      "last_write_at": "2026-10-27T23:59:17.296978+08:00"
+    },
+    {
+      "path": "D:\\Download\\行情分析端\\DATA\\DriverRTA\\DETAIL.DY2",
+      "size": 7387648,
+      "last_write_at": "2026-10-28T12:49:56.043363+08:00"
+    }
+  ],
+  "network_observations": [
+    {
+      "mode": "DOTNET_WEBSOCKET_BOUNDED_READ_ONLY",
+      "endpoint": "wss://yt.scdzscxt.com/wsfront_tq",
+      "request_schema": {
+        "fid": "marketdetail-req",
+        "symbol": [],
+        "marketId": 28
+      },
+      "result": "BLOCKED_LOCAL_CONNECT",
+      "error": "安全包中没有可用的凭证",
+      "provider_authentication_requirement": "UNCONFIRMED",
+      "market_data_received": false
+    },
+    {
+      "mode": "PYTHON_HTTPS_GET_NO_SYMBOL",
+      "endpoint": "https://yt.scdzscxt.com/qtfront_tq/kline?period=0&count=2",
+      "http_status": 200,
+      "response_bytes": 18,
+      "response_text": "非法地址请求",
+      "result": "CONNECTIVITY_ONLY_REQUEST_REJECTED",
+      "market_data_received": false
+    }
+  ],
+  "existing_predictor_smoke": {
+    "mode": "HISTORICAL_READ_ONLY_EXISTING_PREDICTOR",
+    "as_of": "2026-10-27 16:00",
+    "source_identity": "supplied-20261028-native-csv",
+    "elapsed_seconds": 7.966,
+    "status": "RULE_SKIP",
+    "latest_complete_bar": "2026-10-27 16:00:00",
+    "scope": "history replay and rule-skip branch only; probability path and live latency NOT_TESTED"
+  },
+  "blocked_read": [
+    {
+      "path": "D:\\Download\\行情分析端\\历史\\2026-10-28\\1分钟K线.csv",
+      "operation": "Get-FileHash",
+      "result": "FILE_IN_USE",
+      "header_read_succeeded": true,
+      "hash_claimed": false
+    }
+  ],
+  "not_performed": [
+    "client_launch_or_modification",
+    "credential_cookie_token_account_collection",
+    "binary_cache_decode",
+    "authenticated_market_subscription",
+    "live_prediction",
+    "live_hit_rate_test",
+    "training",
+    "dependency_installation",
+    "trading"
+  ],
+  "static_endpoint_semantics_status": "INFERRED_FROM_BUNDLED_SOURCE_NOT_LIVE_VERIFIED"
+}

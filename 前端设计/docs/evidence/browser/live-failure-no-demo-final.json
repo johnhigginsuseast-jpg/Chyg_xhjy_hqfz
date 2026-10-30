@@ -1,0 +1,18 @@
+{
+  "normal": {
+    "banner": false,
+    "mode": "LIVE",
+    "rate": "64.38%",
+    "scored": "73"
+  },
+  "cached": {
+    "banner": false,
+    "message": "接口错误 503 · QA_FORCED_UNAVAILABLE；保留上次快照，仅作历史查看。",
+    "mode": "LIVE",
+    "rate": "64.38%",
+    "scored": "73"
+  },
+  "sameCachedRate": true,
+  "sameCachedCount": true,
+  "recovered": "页面已连接 · 真实账本只读快照 · 3秒刷新；采集进程状态仍需独立证据。"
+}

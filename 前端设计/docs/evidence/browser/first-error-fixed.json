@@ -1,0 +1,7 @@
+{
+  "demo": true,
+  "message": "接口错误 503 · QA_INTERFACE_ERROR；演示接口不可用，没有提供真实数据。",
+  "mode": "DEMO · 演示数据",
+  "page": "连接异常",
+  "scored": "—"
+}

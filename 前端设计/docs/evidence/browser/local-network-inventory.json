@@ -1,0 +1,180 @@
+{
+  "urls": [
+    "http://127.0.0.1:8767/styles.css",
+    "http://127.0.0.1:8767/app.js",
+    "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNSIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMjAgM2gtMVYxaC0ydjJIN1YxSDV2Mkg0Yy0xLjEgMC0yIC45LTIgMnYxNmMwIDEuMS45IDIgMiAyaDE2YzEuMSAwIDItLjkgMi0yVjVjMC0xLjEtLjktMi0yLTJ6bTAgMThINFY4aDE2djEzeiIvPjxwYXRoIGZpbGw9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiLz48L3N2Zz4=",
+    "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50"
+  ],
+  "events": [
+    {
+      "sequence": 817,
+      "source": {
+        "tabId": 9
+      },
+      "method": "Network.requestWillBeSent",
+      "params": {
+        "documentURL": "http://127.0.0.1:8767/",
+        "frameId": "CE228B7929D078ACBE72C8490C1D65EC",
+        "hasUserGesture": false,
+        "initiator": {
+          "columnNumber": 199,
+          "lineNumber": 2,
+          "type": "parser",
+          "url": "http://127.0.0.1:8767/"
+        },
+        "loaderId": "45D1566CBEC653DA625C70243A795FC9",
+        "redirectHasExtraInfo": false,
+        "renderBlockingBehavior": "Blocking",
+        "request": {
+          "headers": {
+            "Referer": "http://127.0.0.1:8767/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+          },
+          "initialPriority": "VeryHigh",
+          "isSameSite": true,
+          "method": "GET",
+          "mixedContentType": "none",
+          "referrerPolicy": "strict-origin-when-cross-origin",
+          "url": "http://127.0.0.1:8767/styles.css"
+        },
+        "requestId": "25316.162",
+        "timestamp": 80353.955159,
+        "type": "Stylesheet",
+        "wallTime": 1793275027.479315
+      }
+    },
+    {
+      "sequence": 818,
+      "source": {
+        "tabId": 9
+      },
+      "method": "Network.requestWillBeSent",
+      "params": {
+        "documentURL": "http://127.0.0.1:8767/",
+        "frameId": "CE228B7929D078ACBE72C8490C1D65EC",
+        "hasUserGesture": false,
+        "initiator": {
+          "columnNumber": 227,
+          "lineNumber": 2,
+          "type": "parser",
+          "url": "http://127.0.0.1:8767/"
+        },
+        "loaderId": "45D1566CBEC653DA625C70243A795FC9",
+        "redirectHasExtraInfo": false,
+        "renderBlockingBehavior": "NonBlocking",
+        "request": {
+          "headers": {
+            "Referer": "http://127.0.0.1:8767/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+          },
+          "initialPriority": "Low",
+          "isSameSite": true,
+          "method": "GET",
+          "mixedContentType": "none",
+          "referrerPolicy": "strict-origin-when-cross-origin",
+          "url": "http://127.0.0.1:8767/app.js"
+        },
+        "requestId": "25316.163",
+        "timestamp": 80353.955594,
+        "type": "Script",
+        "wallTime": 1793275027.479744
+      }
+    },
+    {
+      "sequence": 835,
+      "source": {
+        "tabId": 9
+      },
+      "method": "Network.requestWillBeSent",
+      "params": {
+        "documentURL": "http://127.0.0.1:8767/",
+        "frameId": "CE228B7929D078ACBE72C8490C1D65EC",
+        "hasUserGesture": false,
+        "initiator": {
+          "columnNumber": 1,
+          "lineNumber": 29,
+          "type": "parser",
+          "url": "http://127.0.0.1:8767/"
+        },
+        "loaderId": "45D1566CBEC653DA625C70243A795FC9",
+        "redirectHasExtraInfo": false,
+        "request": {
+          "headers": {
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+          },
+          "initialPriority": "Low",
+          "isSameSite": false,
+          "method": "GET",
+          "mixedContentType": "none",
+          "referrerPolicy": "strict-origin-when-cross-origin",
+          "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNSIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMjAgM2gtMVYxaC0ydjJIN1YxSDV2Mkg0Yy0xLjEgMC0yIC45LTIgMnYxNmMwIDEuMS45IDIgMiAyaDE2YzEuMSAwIDItLjkgMi0yVjVjMC0xLjEtLjktMi0yLTJ6bTAgMThINFY4aDE2djEzeiIvPjxwYXRoIGZpbGw9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiLz48L3N2Zz4="
+        },
+        "requestId": "25316.166",
+        "timestamp": 80354.16297,
+        "type": "Image",
+        "wallTime": 1793275027.687133
+      }
+    },
+    {
+      "sequence": 841,
+      "source": {
+        "tabId": 9
+      },
+      "method": "Network.requestWillBeSent",
+      "params": {
+        "documentURL": "http://127.0.0.1:8767/",
+        "frameId": "CE228B7929D078ACBE72C8490C1D65EC",
+        "hasUserGesture": false,
+        "initiator": {
+          "stack": {
+            "callFrames": [
+              {
+                "columnNumber": 25,
+                "functionName": "refresh",
+                "lineNumber": 46,
+                "scriptId": "12",
+                "url": "http://127.0.0.1:8767/app.js"
+              },
+              {
+                "columnNumber": 28,
+                "functionName": "",
+                "lineNumber": 225,
+                "scriptId": "12",
+                "url": "http://127.0.0.1:8767/app.js"
+              }
+            ]
+          },
+          "type": "script"
+        },
+        "loaderId": "45D1566CBEC653DA625C70243A795FC9",
+        "redirectHasExtraInfo": false,
+        "request": {
+          "headers": {
+            "Referer": "http://127.0.0.1:8767/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"156\", \"Google Chrome\";v=\"156\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+          },
+          "initialPriority": "High",
+          "isSameSite": true,
+          "method": "GET",
+          "mixedContentType": "none",
+          "referrerPolicy": "strict-origin-when-cross-origin",
+          "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50"
+        },
+        "requestId": "25316.167",
+        "timestamp": 80354.199841,
+        "type": "Fetch",
+        "wallTime": 1793275027.724026
+      }
+    }
+  ]
+}

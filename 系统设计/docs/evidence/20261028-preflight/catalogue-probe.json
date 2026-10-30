@@ -1,0 +1,16 @@
+{
+  "mode": "READ_ONLY_PUBLIC_MARKET_CATALOGUE",
+  "endpoint": "wss://yt.scdzscxt.com/wsfront_tq",
+  "request": {
+    "fid": "marketdetail-req",
+    "symbol": [],
+    "marketId": 28
+  },
+  "node": "v24.22.1",
+  "started_at": "2026-10-28T10:35:21.599Z",
+  "tls_validation": "DEFAULT_ENABLED",
+  "credentials_used": false,
+  "status": "CONNECT_ERROR",
+  "error": "WebSocket connection failed",
+  "finished_at": "2026-10-28T10:35:21.841Z"
+}

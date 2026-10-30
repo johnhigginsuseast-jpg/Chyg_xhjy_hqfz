@@ -1,0 +1,9 @@
+{
+  "launcher_identity_alive": false,
+  "observed_at_utc": "2026-10-29T08:05:47.1535305Z",
+  "worker_pid": 6456,
+  "scope": "Actual project worker remains after launcher command exited; future liveness still requires process and ledger checks",
+  "worker_identity_matches": true,
+  "launch_command_exit_code": 0,
+  "launch_command_wall_seconds": 4.2570096
+}

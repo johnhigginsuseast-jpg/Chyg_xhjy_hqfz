@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-30",
+  "timezone": "Asia/Shanghai",
+  "stage": "CHECKPOINT_NOT_ACCEPTED",
+  "native_browser": "BLOCKED_017_018_020_USER_CONFIRMED_HISTORY_CONFLICT",
+  "system_tests": {
+    "result": "PASS",
+    "count": 47,
+    "seconds": 73.174,
+    "versioned": 45,
+    "local_only": 2
+  },
+  "frontend_tests": {
+    "result": "PASS",
+    "count": 16,
+    "seconds": 39.358
+  },
+  "syntax": {
+    "json": 215,
+    "python": 104,
+    "javascript": "node --check PASS"
+  },
+  "protected_sha256_unchanged": 474,
+  "frozen_baseline_unchanged": 15,
+  "sensitive_scan": {
+    "result": "PASS",
+    "unresolved_findings": 0,
+    "scope": "staged content; credential, personal identity and non-code structured market payload patterns; keyword contexts reviewed"
+  },
+  "staged_snapshot_files_before_this_report": 477,
+  "index_worktree_differences_preserved": [
+    "系统设计/AI_CHANGELOG.md"
+  ],
+  "whitespace": {
+    "result": "WARN_PREEXISTING_PRESERVED",
+    "exit_code": 2,
+    "warnings": [
+      "market-direction-ml/docs/acceptance/runs/20261028-v1/calendar-gap.txt:4: trailing whitespace.",
+      "系统设计/docs/evidence/20261029-live/candidate3-stopped-process.json:20: new blank line at EOF.",
+      "系统设计/docs/evidence/20261030-live/power-policy-before.txt:13: new blank line at EOF.",
+      "系统设计/docs/operations/awake-power-policy-after.txt:13: new blank line at EOF.",
+      "系统设计/docs/operations/awake-power-policy-final.txt:13: new blank line at EOF.",
+      "系统设计/docs/testing/defects.md:77: new blank line at EOF.",
+      "系统设计/docs/testing/executions/20261028-development.md:145: new blank line at EOF.",
+      "系统设计/docs/testing/test-cases.md:39: new blank line at EOF.",
+      "系统设计/docs/testing/test-data.md:65: new blank line at EOF.",
+      "系统设计/docs/testing/test-plan.md:29: new blank line at EOF.",
+      "系统设计/docs/testing/test-summary.md:47: new blank line at EOF.",
+      "系统设计/docs/testing/traceability-v0.1.md:81: new blank line at EOF."
+    ]
+  },
+  "scope": "local source/scripts/dependency declarations/approved baselines/criteria/selected test materials; excluded artifacts stay on disk",
+  "production_ledger": "NOT_OPERATED",
+  "remote_push": "NOT_PERFORMED",
+  "git_access": "command-scoped safe.directory; no global Git config change",
+  "concurrent_work": "subsequent unreviewed acceptance files and AI_CHANGELOG changes retained outside snapshot"
+}

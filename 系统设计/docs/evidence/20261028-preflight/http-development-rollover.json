@@ -1,0 +1,7 @@
+{
+  "reason": "Add required per-poll timing/error evidence and last-success/empty display before real forward collection",
+  "old_id": "http-research-20261028T222539",
+  "new_id": "http-research-20261028T222738",
+  "old_predictions": 0,
+  "old_rows_preserved": true
+}

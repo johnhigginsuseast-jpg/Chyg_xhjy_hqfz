@@ -1,0 +1,81 @@
+{
+  "mode": "MARKET_STRUCTURE_METADATA_ONLY",
+  "path": "D:\\Download\\行情分析端\\DATA\\DriverRTA\\MIN.DY2",
+  "header": [
+    2,
+    1600085855,
+    65536,
+    41,
+    1024,
+    16,
+    5636608,
+    1,
+    10
+  ],
+  "allocated_index": [
+    61440,
+    512
+  ],
+  "active_index": [
+    55776,
+    512
+  ],
+  "fields": [
+    [
+      1,
+      8,
+      "时间"
+    ],
+    [
+      8,
+      4,
+      "开盘"
+    ],
+    [
+      8,
+      4,
+      "最高"
+    ],
+    [
+      8,
+      4,
+      "最低"
+    ],
+    [
+      8,
+      4,
+      "收盘"
+    ],
+    [
+      8,
+      4,
+      "总量"
+    ],
+    [
+      8,
+      4,
+      "总额"
+    ],
+    [
+      8,
+      4,
+      "持仓"
+    ],
+    [
+      8,
+      4,
+      "买盘量"
+    ],
+    [
+      11,
+      1,
+      "标志"
+    ]
+  ],
+  "size": 8281600,
+  "modified_at": "2026-10-28T18:47:06.677806+08:00",
+  "reserved_bytes_read": false,
+  "ui_inventory_title": "沧海易购行情分析端.132 - [印江花果红茶二期 1分 下]",
+  "ui_screenshot_validated": false,
+  "ui_note": "Native window title matched target. Screenshot capture showed foreground Edge instead; rejected as client evidence."
+}

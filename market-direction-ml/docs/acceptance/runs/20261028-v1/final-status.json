@@ -1,0 +1,6 @@
+{
+  "status": "REJECTED_FOR_DELIVERY",
+  "reason": "Completion audit found BUG-003 missing confirmed weekend-closure rejection; 25 passing tests were insufficient",
+  "next_candidate": "20261028-v2",
+  "original_evidence_preserved": true
+}

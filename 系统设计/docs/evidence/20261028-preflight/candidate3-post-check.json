@@ -1,0 +1,14 @@
+{
+  "at": "2026-10-28T15:26:21.546917+00:00",
+  "candidate": "http-v0.4-candidate3",
+  "candidate_changed": [],
+  "protected_changed": [],
+  "active_links_broken": [],
+  "tests": {
+    "regression": 37,
+    "independent": 7,
+    "supplement": 3
+  },
+  "real_predictions": 0,
+  "release_gate": "NOT_ACCEPTED"
+}

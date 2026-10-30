@@ -1,0 +1,36 @@
+test_both_sides_fee_spread_slippage_hand_calculation (test_backtest.BacktestTests.test_both_sides_fee_spread_slippage_hand_calculation) ... ok
+test_invalid_costs_rejected (test_backtest.BacktestTests.test_invalid_costs_rejected) ... ok
+test_loss_drawdown_and_no_overlapping_capital (test_backtest.BacktestTests.test_loss_drawdown_and_no_overlapping_capital) ... ok
+test_no_same_time_fill_and_hand_profit (test_backtest.BacktestTests.test_no_same_time_fill_and_hand_profit) ... ok
+test_no_trade_and_no_fake_exit (test_backtest.BacktestTests.test_no_trade_and_no_fake_exit) ... ok
+test_flat_resets_run (test_causality.CausalityTests.test_flat_resets_run) ... ok
+test_horizons_flat_and_pending (test_causality.CausalityTests.test_horizons_flat_and_pending) ... ok
+test_prefix_features_are_causal (test_causality.CausalityTests.test_prefix_features_are_causal) ... ok
+test_purge_actual_future_time (test_causality.CausalityTests.test_purge_actual_future_time) ... ok
+test_skip_values_do_not_enter_features (test_causality.CausalityTests.test_skip_values_do_not_enter_features) ... ok
+test_streaming_state_matches_batch (test_causality.CausalityTests.test_streaming_state_matches_batch) ... ok
+test_three_then_two_and_reference (test_causality.CausalityTests.test_three_then_two_and_reference) ... ok
+test_bad_input_is_rejected (test_data.DataTests.test_bad_input_is_rejected) ... D:\mycode\沧海易购1\market-direction-ml\src\data_loader.py:31: UserWarning: Could not infer format, so each element will be parsed individually, falling back to `dateutil`. To ensure parsing is consistent and as-expected, please specify a format.
+  frame["timestamp"] = pd.to_datetime(frame["timestamp"], errors="coerce")
+ok
+test_daily_not_available_at_midnight (test_data.DataTests.test_daily_not_available_at_midnight) ... ok
+test_incomplete_opening_event_stops (test_data.DataTests.test_incomplete_opening_event_stops) ... ok
+test_opening_event_merge_preserves_values (test_data.DataTests.test_opening_event_merge_preserves_values) ... ok
+test_short_bucket_availability (test_data.DataTests.test_short_bucket_availability) ... ok
+test_three_formats_and_aliases (test_data.DataTests.test_three_formats_and_aliases) ... ok
+test_float32_probability_export_round_trip (test_delivery.DeliveryTests.test_float32_probability_export_round_trip) ... ok
+test_paired_blocks_have_valid_interval (test_delivery.DeliveryTests.test_paired_blocks_have_valid_interval) ... ok
+test_saved_model_cli_replay_and_invalid_input (test_delivery.DeliveryTests.test_saved_model_cli_replay_and_invalid_input) ... ok
+test_all_four_real_estimators_inner_stop (test_models.ModelTests.test_all_four_real_estimators_inner_stop) ... ok
+test_existing_run_is_not_overwritten (test_models.ModelTests.test_existing_run_is_not_overwritten) ... ok
+test_metrics_and_probability_validation (test_models.ModelTests.test_metrics_and_probability_validation) ... D:\mycode\沧海易购1\market-direction-ml\.venv\Lib\site-packages\sklearn\metrics\_classification.py:614: UserWarning: A single label was found in 'y_true' and 'y_pred'. For the confusion matrix to have the correct shape, use the 'labels' parameter to pass all known labels.
+  warnings.warn(
+D:\mycode\沧海易购1\market-direction-ml\.venv\Lib\site-packages\sklearn\metrics\_classification.py:614: UserWarning: A single label was found in 'y_true' and 'y_pred'. For the confusion matrix to have the correct shape, use the 'labels' parameter to pass all known labels.
+  warnings.warn(
+ok
+test_threshold_only_uses_supplied_validation (test_models.ModelTests.test_threshold_only_uses_supplied_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 25 tests in 5.332s
+
+OK

@@ -1,0 +1,10 @@
+{
+  "stdout": "D:\\mycode\\沧海易购1\\系统设计\\runtime\\http-research\\console-background-20261029T155118.log",
+  "working_directory": "D:\\mycode\\沧海易购1\\系统设计",
+  "stderr": "D:\\mycode\\沧海易购1\\系统设计\\runtime\\http-research\\console-background-20261029T155118.stderr.log",
+  "pid": 25496,
+  "start_time_utc": "2026-10-29T07:51:18.5041471Z",
+  "launch_method": "Start-Process Hidden; normal child process, no service/task or power-setting changes",
+  "deployment": "http-research-20261028T231725",
+  "interpreter": "D:\\mycode\\沧海易购1\\market-direction-ml\\.venv\\Scripts\\python.exe"
+}

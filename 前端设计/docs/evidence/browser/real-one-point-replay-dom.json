@@ -1,0 +1,9 @@
+{
+  "emptyVisible": true,
+  "explanation": "至少需要两个有定义的统计时点",
+  "mode": "REPLAY",
+  "rate": "100.00%",
+  "scored": "1",
+  "source": "HTTP_CROSS_SOURCE_RESEARCH",
+  "trend": "none"
+}

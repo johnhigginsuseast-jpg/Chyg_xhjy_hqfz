@@ -1,0 +1,14 @@
+{
+  "observed_at": "2026-10-29T02:55:44.079588+00:00",
+  "mode": "OFFLINE_PROFILE_OF_SAVED_REAL_INPUT",
+  "candidate": "http-v0.4-candidate3",
+  "rows": 6067,
+  "model_init_seconds": 9.28312,
+  "prepare_seconds": 8.014538,
+  "prepare_predict_wall_seconds": 8.583987,
+  "cpu_seconds": 3.0,
+  "probability_matches": true,
+  "feature_digest_matches": true,
+  "profile_top": "         1170285 function calls (1119371 primitive calls) in 8.584 seconds\n\n   Ordered by: cumulative time\n   List reduced from 1762 to 12 due to restriction <12>\n\n   ncalls  tottime  percall  cumtime  percall filename:lineno(function)\n        1    0.061    0.061    8.014    8.014 D:\\mycode\\沧海易购1\\系统设计\\realtime\\model.py:32(prepare)\n        1    0.468    0.468    7.037    7.037 D:\\mycode\\沧海易购1\\market-direction-ml\\src\\labels.py:5(filter_bars)\n     6068    0.170    0.000    4.813    0.001 D:\\mycode\\沧海易购1\\market-direction-ml\\.venv\\Lib\\site-packages\\pandas\\core\\frame.py:1318(iterrows)\n     6202    0.655    0.000    4.419    0.001 D:\\mycode\\沧海易购1\\market-direction-ml\\.venv\\Lib\\site-packages\\pandas\\core\\series.py:360(__init__)\n    16975    0.233    0.000    1.626    0.000 D:\\mycode\\沧海易购1\\market-direction-ml\\.venv\\Lib\\site-packages\\pandas\\core\\series.py:1088(__getitem__)\n     6245    0.778    0.000    1.525    0.000 D:\\mycode\\沧海易购1\\market-direction-ml\\.venv\\Lib\\site-packages\\pandas\\core\\construction.py:580(sanitize_array)\n    16975    0.255    0.000    1.022    0.000 D:\\mycode\\沧海易购1\\market-direction-ml\\.venv\\Lib\\site-packages\\pandas\\core\\series.py:1172(_get_value)\n     6203    0.167    0.000    0.724    0.000 D:\\mycode\\沧海易购1\\market-direction-ml\\.venv\\Lib\\site-packages\\pandas\\core\\internals\\managers.py:2087(from_array)\n        1    0.615    0.615    0.708    0.708 D:\\mycode\\沧海易购1\\market-direction-ml\\src\\data_loader.py:54(canonicalize)\n     6304    0.151    0.000    0.604    0.000 D:\\mycode\\沧海易购1\\market-direction-ml\\.venv\\Lib\\site-packages\\pandas\\core\\generic.py:6436(__setattr__)\n102120/52279    0.284    0.000    0.592    0.000 {built-in method builtins.len}\n        1    0.001    0.001    0.569    0.569 D:\\mycode\\沧海易购1\\系统设计\\realtime\\model.py:48(predict)\n\n\n",
+  "qualification": "No LIVE forecast inserted; isolated profile is not end-to-end p95"
+}

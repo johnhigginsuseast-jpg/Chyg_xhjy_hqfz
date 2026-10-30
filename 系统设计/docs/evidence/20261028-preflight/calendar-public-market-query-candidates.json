@@ -1,0 +1,32 @@
+{
+  "candidates": [
+    {
+      "source": "webpack:///./src/assets/js/trans/protocol.js",
+      "source_sha256": "38bc10f57e950e1a5852b8f2488fba79c397d537beb8e4bae3ade82236cd83f6",
+      "line": 105,
+      "name": "param_findCommodityDetail",
+      "url": "/intraday-trade-query/commodity/findCommodityDetail",
+      "parameter_keys": []
+    },
+    {
+      "source": "webpack:///./src/assets/js/trans/protocol.js",
+      "source_sha256": "38bc10f57e950e1a5852b8f2488fba79c397d537beb8e4bae3ade82236cd83f6",
+      "line": 161,
+      "name": "param_findCommodityIsMain",
+      "url": "/intraday-trade-query/commodity/findCommodityIsMain",
+      "parameter_keys": [
+        "commodityIsMain"
+      ]
+    },
+    {
+      "source": "webpack:///./src/assets/js/trans/protocol.js",
+      "source_sha256": "38bc10f57e950e1a5852b8f2488fba79c397d537beb8e4bae3ade82236cd83f6",
+      "line": 973,
+      "name": "param_queryServerTime",
+      "url": "/intraday-trade-query/query/queryServerTime",
+      "parameter_keys": []
+    }
+  ],
+  "non_calendar_and_non_readonly_definitions_omitted": true,
+  "non_readonly_requests_sent": false
+}

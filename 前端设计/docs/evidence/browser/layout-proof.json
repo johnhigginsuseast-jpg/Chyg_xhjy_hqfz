@@ -1,0 +1,32 @@
+[
+  {
+    "axisHeight": 15,
+    "chartHeight": 340,
+    "clientWidth": 1425,
+    "height": 900,
+    "scrollWidth": 1425,
+    "tableContainerWidth": 1335,
+    "tableWidth": 1335,
+    "width": 1440
+  },
+  {
+    "axisHeight": 15,
+    "chartHeight": 340,
+    "clientWidth": 375,
+    "height": 844,
+    "scrollWidth": 375,
+    "tableContainerWidth": 313,
+    "tableWidth": 980,
+    "width": 390
+  },
+  {
+    "axisHeight": 15,
+    "chartHeight": 340,
+    "clientWidth": 345,
+    "height": 800,
+    "scrollWidth": 345,
+    "tableContainerWidth": 283,
+    "tableWidth": 980,
+    "width": 360
+  }
+]

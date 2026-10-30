@@ -1,0 +1,23 @@
+[
+  {
+    "reply": "error",
+    "message": "接口错误 503 · QA_INTERFACE_ERROR；保留上次快照，仅作历史查看。",
+    "mode": "DEMO · 演示数据",
+    "page": "连接异常 / 缓存",
+    "rate": "66.99%"
+  },
+  {
+    "reply": "malformed",
+    "message": "Expected property name or '}' in JSON at position 1 (line 1 column 2)；保留上次快照，仅作历史查看。",
+    "mode": "DEMO · 演示数据",
+    "page": "连接异常 / 缓存",
+    "rate": "66.99%"
+  },
+  {
+    "reply": "missing",
+    "message": "接口数据结构异常；保留上次快照，仅作历史查看。",
+    "mode": "DEMO · 演示数据",
+    "page": "连接异常 / 缓存",
+    "rate": "66.99%"
+  }
+]

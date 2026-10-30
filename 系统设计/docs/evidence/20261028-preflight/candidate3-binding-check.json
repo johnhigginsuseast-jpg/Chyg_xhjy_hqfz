@@ -1,0 +1,29 @@
+{
+  "at": "2026-10-28T15:26:21.506521+00:00",
+  "candidate": "http-v0.4-candidate3",
+  "deployment": "http-research-20261028T231725",
+  "metadata": {
+    "actual_units": "HTTP raw numeric units; physical unit names unconfirmed",
+    "boundary_policy": "QUARANTINE_SINGLE_PRICE_TERMINAL_EVENTS_V1",
+    "domain_shift_acknowledged": true,
+    "fetch_seconds": 1.954,
+    "market_snapshot_sha256": "1bf33b698cfea9c71c97552ede5c4bbe26c4b53f48289b272c91d7ce113edff6",
+    "name": "印江花果红茶二期",
+    "period": 1,
+    "quarantined_boundary_rows": 0,
+    "received_ms": 1793200734306,
+    "request_path": "/qtfront_tq/klinePage?contractId=531&period=0&count=30&first=202610282320",
+    "rows": 31,
+    "server_date": "Wed, 28 Oct 2026 15:18:54 GMT",
+    "source_id": "HTTP_CROSS_SOURCE_RESEARCH",
+    "symbol": "531",
+    "time_policy": "OBSERVED_RAW_OPEN_PLUS_60S_CLOSE_V1",
+    "transport": "persistent_https"
+  },
+  "bootstrap_rows": 5988,
+  "quarantined_rows": 11,
+  "real_predictions": 0,
+  "bootstrap_matches": true,
+  "physical_units": "UNCONFIRMED; HTTP RAW NUMBERS RETAINED",
+  "release_gate": "NOT_ACCEPTED"
+}

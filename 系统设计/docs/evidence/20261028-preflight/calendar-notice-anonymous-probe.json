@@ -1,0 +1,17 @@
+{
+  "at": "2026-10-28T15:34:06.593158+00:00",
+  "url": "https://yw.scdzscxt.com/apigateway/content/content/noticeList?page=0&size=20&sort=createTime%2Cdesc",
+  "authentication_sent": false,
+  "cookies_sent": false,
+  "http_status": 200,
+  "response_bytes": 4622,
+  "server_date": "Wed, 28 Oct 2026 15:34:08 GMT",
+  "top_type": "dict",
+  "top_keys": [
+    "code",
+    "message",
+    "value"
+  ],
+  "code": "0",
+  "message": "成功"
+}

@@ -1,0 +1,9 @@
+{
+  "pid": 5404,
+  "start_time_utc": "2026-10-30T02:24:16.1762206Z",
+  "interpreter": "D:\\mycode\\沧海易购1\\market-direction-ml\\.venv\\Scripts\\python.exe",
+  "script": "D:\\mycode\\沧海易购1\\系统设计\\docs\\evidence\\20261030-live\\awake-request.py",
+  "deadline": "2026-10-30T16:05:00+08:00",
+  "log": "runtime/http-research/awake-20261030.jsonl",
+  "early_stop": "runtime/http-research/awake-20261030.stop"
+}

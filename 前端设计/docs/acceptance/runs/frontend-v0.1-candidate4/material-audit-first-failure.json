@@ -1,0 +1,78 @@
+{
+  "recorded_at": "2026-10-29T12:19:08.874144+00:00",
+  "candidate": "frontend-v0.1-candidate4",
+  "candidate_files": 15,
+  "candidate_hash_differences": [],
+  "original_confirmation_hash_differences": [],
+  "confirmed_requirement_rows_unchanged": true,
+  "confirmed_acceptance_rows_unchanged": true,
+  "seven_materials": [
+    "docs/testing/test-plan.md",
+    "docs/testing/test-cases.md",
+    "docs/testing/test-data.md",
+    "docs/testing/defects.md",
+    "docs/testing/executions/development-v0.1.md",
+    "docs/testing/traceability-v0.1.md",
+    "docs/testing/test-summary.md"
+  ],
+  "missing_materials": [],
+  "missing_acceptance_evidence": [],
+  "broken_markdown_links": [
+    {
+      "file": "docs\\baselines\\v0.1\\acceptance.md",
+      "target": "../requirements/dashboard-v0.1.md"
+    },
+    {
+      "file": "docs\\baselines\\v0.1\\requirements.md",
+      "target": "../acceptance/dashboard-criteria-v0.1.md"
+    },
+    {
+      "file": "docs\\baselines\\v0.1\\requirements.md",
+      "target": "../research/existing-system-20261029.md"
+    },
+    {
+      "file": "docs\\baselines\\v0.1\\requirements.md",
+      "target": "../../../系统设计/docs/calendar-verification.md"
+    },
+    {
+      "file": "docs\\baselines\\v0.1\\requirements.md",
+      "target": "../acceptance/dashboard-criteria-v0.1.md"
+    },
+    {
+      "file": "docs\\baselines\\v0.1\\requirements.md",
+      "target": "../testing/traceability-v0.1.md"
+    }
+  ],
+  "source_inspected_files": 17,
+  "source_code_changes": [],
+  "observed_source_document_changes": [
+    "docs/acceptance/runs/http-v0.4-candidate3/run.md",
+    "README.md"
+  ],
+  "original_protected_model_files": 15,
+  "original_model_changes": [],
+  "status_counts": {
+    "PASS": 17,
+    "FAIL": 0,
+    "BLOCKED": 3,
+    "NOT_TESTED": 0
+  },
+  "owned_test_ports_remaining_listeners": [],
+  "owned_sessions_stopped": [
+    98036,
+    28920,
+    9813,
+    36073,
+    46004,
+    76819
+  ],
+  "startup_probe_processes_absent": [
+    10844,
+    11092,
+    28128
+  ],
+  "gate": "BLOCKED",
+  "release_allowed": false,
+  "note": "No original collector process was stopped. Native Windows Edge/Chrome and its first usable timing are unexecuted subchecks within BLOCKED items.",
+  "material_check_result": "FAIL"
+}

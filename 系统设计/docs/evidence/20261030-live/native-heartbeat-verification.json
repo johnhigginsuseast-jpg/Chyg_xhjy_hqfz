@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "id": "automation",
+  "kind": "heartbeat",
+  "name": "印江花果红茶二期实盘验收跟进",
+  "status": "ACTIVE",
+  "target_thread_id": "01a18203-8084-7c62-a07f-d4bab990638f",
+  "created_at": 1793341925927,
+  "updated_at": 1793341925927,
+  "rrule_contains_interval_5": true,
+  "rrule_contains_today_1605_utc": true,
+  "prompt_contains_frozen_criteria": true
+}

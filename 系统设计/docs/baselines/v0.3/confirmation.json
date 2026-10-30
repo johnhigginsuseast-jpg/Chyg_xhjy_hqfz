@@ -1,0 +1,9 @@
+{
+  "recorded_at": "2026-10-28T12:38:01.874583+00:00",
+  "status": "USER_CONFIRMED",
+  "user_reply": "批准官方只读 DDE/导出路线（推荐）",
+  "baseline": "v0.1 + CR-RT-001 + CR-RT-002",
+  "change_sha256": "45d916b96b86b3cacaacce1857d907386a2bc35d4885ff780d311459a036ddc4",
+  "user_desktop_probe_first_attempt": "User reported command/path error before Python launch; fixed ASCII-only relative launcher",
+  "live_acceptance": "NOT_TESTED"
+}

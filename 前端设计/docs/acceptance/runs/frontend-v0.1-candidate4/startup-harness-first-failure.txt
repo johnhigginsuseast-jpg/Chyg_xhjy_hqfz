@@ -1,0 +1,1 @@
+Initial harness: subprocess.TimeoutExpired waiting 5 seconds for cmd.exe /d /c 启动监控网页.cmd during cleanup. Not a successful teardown. The launched service remained on port 8765; verified and cleaned up separately.

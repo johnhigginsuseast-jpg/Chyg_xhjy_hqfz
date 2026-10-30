@@ -1,0 +1,23 @@
+{
+  "checked_at": "2026-10-30T11:20:17.097143+08:00",
+  "candidate": "http-v0.4-candidate4",
+  "fixed_files": 22,
+  "protected_files": 15,
+  "issues": [],
+  "collector_pid_20752": "MISSING",
+  "awake_pids_5404_14488": "MISSING",
+  "last_poll": {
+    "at_ms": 1793329490703,
+    "payload": {
+      "elapsed_seconds": 0.485,
+      "received_ms": 1793329490594,
+      "started_at_ms": 1793329490210,
+      "status": "WAITING_NEW_COMPLETE_BAR",
+      "success": true
+    }
+  },
+  "backup": "runtime\\http-research\\backups\\before-scheduler-recovery-20261030.sqlite3",
+  "awake_clear_log": "MISSING_AFTER_ABNORMAL_EXIT",
+  "status": "STOPPED_NOT_LIVE",
+  "release_gate": "NOT_ACCEPTED"
+}

@@ -1,0 +1,26 @@
+{
+  "archive_paths": [],
+  "source_paths": [
+    {
+      "entry": "js/app.8921ab28.js.map",
+      "source": "webpack:///./src/assets/js/trans/protocol.js"
+    },
+    {
+      "entry": "js/app.8921ab28.js.map",
+      "source": "webpack:///./src/assets/js/trans/http.js"
+    },
+    {
+      "entry": "js/app.8921ab28.js.map",
+      "source": "webpack:///./src/assets/js/hq/hqProtocol.js"
+    },
+    {
+      "entry": "js/app.8921ab28.js.map",
+      "source": "webpack:///./src/assets/js/trans/protocolTrans.js"
+    },
+    {
+      "entry": "js/app.8921ab28.js.map",
+      "source": "webpack:///./src/assets/js/config.js"
+    }
+  ],
+  "unrelated_source_paths_omitted": true
+}

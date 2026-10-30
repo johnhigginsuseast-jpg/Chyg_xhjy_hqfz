@@ -1,0 +1,61 @@
+{
+  "attempts": [
+    {
+      "attempt": 0,
+      "status": "HTTP_200"
+    }
+  ],
+  "result": {
+    "at": "2026-10-28T15:37:11.906801+00:00",
+    "url": "https://yw.scdzscxt.com/apigateway/content/content/noticeList?page=0&size=20&sort=createTime%2Cdesc",
+    "server_date": "Wed, 28 Oct 2026 15:37:12 GMT",
+    "anonymous": true,
+    "code": "0",
+    "value_type": "dict",
+    "value_keys": [
+      "content",
+      "pageable",
+      "last",
+      "totalPages",
+      "totalElements",
+      "first",
+      "sort",
+      "numberOfElements",
+      "size",
+      "number",
+      "empty"
+    ],
+    "pagination": {
+      "value.totalPages": 1,
+      "value.totalElements": 4,
+      "value.size": 20,
+      "value.number": 0
+    },
+    "public_notice_items": [
+      {
+        "path": "value.content[0]",
+        "id": 804,
+        "title": "关于账户安全与合规交易风险提示公告",
+        "createTime": 1793086442000
+      },
+      {
+        "path": "value.content[1]",
+        "id": 687,
+        "title": "沧海易购提货值公告",
+        "createTime": 1768618907000
+      },
+      {
+        "path": "value.content[2]",
+        "id": 686,
+        "title": "沧海易购提货值通知",
+        "createTime": 1760666312000
+      },
+      {
+        "path": "value.content[3]",
+        "id": 685,
+        "title": "沧海易购交易时间调整通知",
+        "createTime": 1760588198000
+      }
+    ]
+  }
+}

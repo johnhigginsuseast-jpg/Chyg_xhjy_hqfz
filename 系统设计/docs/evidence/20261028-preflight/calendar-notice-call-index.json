@@ -1,0 +1,20 @@
+[
+  {
+    "source": "webpack:///./src/views/notice/tab/NoticeList.vue",
+    "sha256": "753fd87136dd1a758a55c731cefc7fb0b225c130e71e652a7577f2cd20c59211",
+    "call_hints": [],
+    "has_identity_or_session_reference": false
+  },
+  {
+    "source": "webpack:///./src/views/transcc/notice/NoticeCC.vue",
+    "sha256": "744e0fa5efbc03e456b04fd6c42c75eb9a2d1f740d56a19953bdb2cb83522375",
+    "call_hints": [],
+    "has_identity_or_session_reference": false
+  },
+  {
+    "source": "webpack:///./src/views/transcc/notice/transNotice.vue",
+    "sha256": "a1b264e6b9ce5d9c205bd03a32238444a58dd05eaca2e24443e6aea6548eaea1",
+    "call_hints": [],
+    "has_identity_or_session_reference": false
+  }
+]

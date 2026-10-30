@@ -1,0 +1,26 @@
+[
+  {
+    "role": "collector",
+    "name": "Codex-Market-Collector-20261030",
+    "launcher": "D:\\mycode\\沧海易购1\\market-direction-ml\\.venv\\Scripts\\pythonw.exe",
+    "working_directory": "D:\\mycode\\沧海易购1\\系统设计",
+    "entry_code": "import runpy,sys,os,json; open(r'D:\\mycode\\沧海易购1\\系统设计\\runtime\\http-research\\scheduler-collector-start.json','w',encoding='utf-8').write(json.dumps(dict(pid=os.getpid(),launcher=sys.executable,base_executable=sys._base_executable))); stream=open(r'D:\\mycode\\沧海易购1\\系统设计\\runtime\\http-research\\scheduler-collector-20261030.log','a',encoding='utf-8',buffering=1); sys.stdout=stream; sys.stderr=stream; runpy.run_module('realtime',run_name='__main__',alter_sys=True)",
+    "arguments": "-B -X utf8 -c \"import runpy,sys,os,json; open(r'D:\\mycode\\沧海易购1\\系统设计\\runtime\\http-research\\scheduler-collector-start.json','w',encoding='utf-8').write(json.dumps(dict(pid=os.getpid(),launcher=sys.executable,base_executable=sys._base_executable))); stream=open(r'D:\\mycode\\沧海易购1\\系统设计\\runtime\\http-research\\scheduler-collector-20261030.log','a',encoding='utf-8',buffering=1); sys.stdout=stream; sys.stderr=stream; runpy.run_module('realtime',run_name='__main__',alter_sys=True)\" --source http-research",
+    "metadata_path": "D:\\mycode\\沧海易购1\\系统设计\\runtime\\http-research\\scheduler-collector-start.json",
+    "log": "D:\\mycode\\沧海易购1\\系统设计\\runtime\\http-research\\scheduler-collector-20261030.log",
+    "mode": "ON_DEMAND_ONCE_NO_RECURRING_TRIGGER",
+    "ordinary_user": true
+  },
+  {
+    "role": "awake",
+    "name": "Codex-Market-Awake-20261030",
+    "launcher": "D:\\mycode\\沧海易购1\\market-direction-ml\\.venv\\Scripts\\pythonw.exe",
+    "working_directory": "D:\\mycode\\沧海易购1\\系统设计",
+    "entry_code": "import runpy,sys,os,json; open(r'D:\\mycode\\沧海易购1\\系统设计\\runtime\\http-research\\scheduler-awake-start.json','w',encoding='utf-8').write(json.dumps(dict(pid=os.getpid(),launcher=sys.executable,base_executable=sys._base_executable))); stream=open(r'D:\\mycode\\沧海易购1\\系统设计\\runtime\\http-research\\scheduler-awake-20261030.log','a',encoding='utf-8',buffering=1); sys.stdout=stream; sys.stderr=stream; runpy.run_path(r'D:\\mycode\\沧海易购1\\系统设计\\docs\\evidence\\20261030-live\\awake-request.py',run_name='__main__')",
+    "arguments": "-B -X utf8 -c \"import runpy,sys,os,json; open(r'D:\\mycode\\沧海易购1\\系统设计\\runtime\\http-research\\scheduler-awake-start.json','w',encoding='utf-8').write(json.dumps(dict(pid=os.getpid(),launcher=sys.executable,base_executable=sys._base_executable))); stream=open(r'D:\\mycode\\沧海易购1\\系统设计\\runtime\\http-research\\scheduler-awake-20261030.log','a',encoding='utf-8',buffering=1); sys.stdout=stream; sys.stderr=stream; runpy.run_path(r'D:\\mycode\\沧海易购1\\系统设计\\docs\\evidence\\20261030-live\\awake-request.py',run_name='__main__')\"",
+    "metadata_path": "D:\\mycode\\沧海易购1\\系统设计\\runtime\\http-research\\scheduler-awake-start.json",
+    "log": "D:\\mycode\\沧海易购1\\系统设计\\runtime\\http-research\\scheduler-awake-20261030.log",
+    "mode": "ON_DEMAND_ONCE_NO_RECURRING_TRIGGER",
+    "ordinary_user": true
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "recorded_at": "2026-10-28T15:56:58.559261+00:00",
+  "source_type": "USER_PROVIDED_IMAGE",
+  "user_statement": "休市时间可以看这个",
+  "source_image": "docs/evidence/20261028-calendar/user-listing-calendar.jpg",
+  "source_sha256": "118a79c45f5afc0113893bfb7c7bba5d682a298770410e9a30847fd17f560468",
+  "image_product": "印江花果红茶",
+  "image_symbol": "YJHGHC",
+  "source_document_date": null,
+  "current_target": "印江花果红茶二期",
+  "current_http_symbol": "531",
+  "calendar_applied_by_user_direction": true,
+  "adopted_fields": [
+    "交易时间"
+  ],
+  "timezone": "Asia/Shanghai",
+  "regular_sessions": {
+    "mon_fri": [
+      [
+        "09:30",
+        "11:30"
+      ],
+      [
+        "13:30",
+        "16:00"
+      ],
+      [
+        "19:00",
+        "21:00"
+      ]
+    ],
+    "sat": [
+      [
+        "09:30",
+        "11:30"
+      ],
+      [
+        "13:30",
+        "16:00"
+      ]
+    ],
+    "sun": []
+  },
+  "sunday_basis": "Sunday is absent from the stated trading weekdays; consistent with existing confirmed rule",
+  "statutory_holidays": {
+    "excluded": true,
+    "specific_dates_provided": false,
+    "automatic_generic_holiday_or_makeup_workday_import": false
+  },
+  "minute_interval_policy": "start inclusive, end exclusive; complete-bar labels start+1 minute through end inclusive",
+  "no_other_product_fields_adopted": true,
+  "qualification": "User-designated regular weekly schedule; not an independent authentication of phase-2 product specifications or holiday dates"
+}

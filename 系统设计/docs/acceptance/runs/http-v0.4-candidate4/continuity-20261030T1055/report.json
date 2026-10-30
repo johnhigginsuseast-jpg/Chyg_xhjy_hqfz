@@ -1,0 +1,341 @@
+{
+  "observed_at": "2026-10-30T10:57:45.282253+08:00",
+  "evidence_cutoff_ms": 1793329046862,
+  "candidate": "http-v0.4-candidate4",
+  "deployment": "http-research-20261029T205736",
+  "integrity": "ok",
+  "collector_bootstrap_at_ms": 1793326754890,
+  "collector_bootstrap_cursor_ms": 1793326740000,
+  "snapshot": "docs\\acceptance\\runs\\http-v0.4-candidate4\\continuity-20261030T1055\\ledger.sqlite3",
+  "tool_sha256": "c8782c5fe193de1eb738d5ae9dbb04cce3811485e09984fa09396063fff3e378",
+  "calendar_binding_sha256": "48014899eceb77b2c5d222d7a1e7ddb5447658f1a841190224bbb7de42959a4b",
+  "completed_close_context_changed": [],
+  "processed_raw_roots": 37,
+  "sequence_lengths": [
+    7,
+    15,
+    5
+  ],
+  "longest_sequence": [
+    1793327520000,
+    1793327580000,
+    1793327640000,
+    1793327700000,
+    1793327760000,
+    1793327820000,
+    1793328000000,
+    1793328060000,
+    1793328120000,
+    1793328180000,
+    1793328240000,
+    1793328420000,
+    1793328480000,
+    1793328540000,
+    1793328600000
+  ],
+  "latest_sequence": [
+    1793328780000,
+    1793328840000,
+    1793328900000,
+    1793328960000,
+    1793329020000
+  ],
+  "missing_accepted_anchors": [
+    1793327460000,
+    1793328660000,
+    1793328720000
+  ],
+  "backfill_on_rule_skip": [],
+  "timeline": [
+    {
+      "anchor_ms": 1793326800000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793326860000,
+      "accepted": false,
+      "published": false,
+      "eligible": null,
+      "actual_events": [
+        "RULE_SKIP"
+      ]
+    },
+    {
+      "anchor_ms": 1793326920000,
+      "accepted": false,
+      "published": false,
+      "eligible": null,
+      "actual_events": [
+        "RULE_SKIP"
+      ]
+    },
+    {
+      "anchor_ms": 1793326980000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793327040000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793327100000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793327160000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793327220000,
+      "accepted": false,
+      "published": false,
+      "eligible": null,
+      "actual_events": [
+        "RULE_SKIP"
+      ]
+    },
+    {
+      "anchor_ms": 1793327280000,
+      "accepted": false,
+      "published": false,
+      "eligible": null,
+      "actual_events": [
+        "RULE_SKIP"
+      ]
+    },
+    {
+      "anchor_ms": 1793327340000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793327400000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793327460000,
+      "accepted": true,
+      "published": false,
+      "eligible": null,
+      "actual_events": [
+        "BACKFILL_ONLY"
+      ]
+    },
+    {
+      "anchor_ms": 1793327520000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793327580000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793327640000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793327700000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793327760000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793327820000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793327880000,
+      "accepted": false,
+      "published": false,
+      "eligible": null,
+      "actual_events": [
+        "RULE_SKIP"
+      ]
+    },
+    {
+      "anchor_ms": 1793327940000,
+      "accepted": false,
+      "published": false,
+      "eligible": null,
+      "actual_events": [
+        "RULE_SKIP"
+      ]
+    },
+    {
+      "anchor_ms": 1793328000000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793328060000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793328120000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793328180000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793328240000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793328300000,
+      "accepted": false,
+      "published": false,
+      "eligible": null,
+      "actual_events": [
+        "RULE_SKIP"
+      ]
+    },
+    {
+      "anchor_ms": 1793328360000,
+      "accepted": false,
+      "published": false,
+      "eligible": null,
+      "actual_events": [
+        "RULE_SKIP"
+      ]
+    },
+    {
+      "anchor_ms": 1793328420000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793328480000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793328540000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793328600000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793328660000,
+      "accepted": true,
+      "published": false,
+      "eligible": null,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793328720000,
+      "accepted": true,
+      "published": false,
+      "eligible": null,
+      "actual_events": [
+        "BACKFILL_ONLY"
+      ]
+    },
+    {
+      "anchor_ms": 1793328780000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793328840000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793328900000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793328960000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    },
+    {
+      "anchor_ms": 1793329020000,
+      "accepted": true,
+      "published": true,
+      "eligible": true,
+      "actual_events": []
+    }
+  ],
+  "issues": [],
+  "sixty_contiguous_model_attempts_proven": false,
+  "qualification": "Latest collector segment; regular weekly calendar only. Skips do not count as predictions. Recorded late attempts stay included. Changed completed close context requires per-anchor replay. Use the full-candidate latency/outcome audit separately.",
+  "release_gate": "NOT_ACCEPTED"
+}

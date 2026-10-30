@@ -1,0 +1,24 @@
+{
+  "observed_at": "2026-10-29T12:02:53.884005+00:00",
+  "script": "启动监控网页.cmd",
+  "script_sha256": "55da864b8510c774c7c63bcfd4e8530c7aaa9febb153834f317b262e6fcbc069",
+  "startup_log": "startup-script-output.log",
+  "resources": {
+    "/": 200,
+    "/app.js": 200,
+    "/styles.css": 200,
+    "/api/dashboard": 200
+  },
+  "mode": "LIVE",
+  "deployment": "http-research-20261028T231725",
+  "snapshot": "http-research-20261028T231725:14054",
+  "owned_processes": {
+    "cmd": 28128,
+    "redirector": 11092,
+    "service": 10844
+  },
+  "startup": "PASS",
+  "teardown": "PASS",
+  "note": "Initial harness timed out waiting for its cmd child; endpoint and start time rechecked before targeted cleanup. No collector started.",
+  "teardown_method": "Verified exact service/cmd start times, stopped owned PIDs 10844/28128 only; redirector 11092 exited; all three handles and listener absent on post-check."
+}

@@ -1,0 +1,16 @@
+{
+  "real-zero-replay-api.json": {
+    "result": "PASS",
+    "as_of_ms": 1793200729352,
+    "scored": 0,
+    "trend_points": 0,
+    "mode": "REPLAY"
+  },
+  "real-one-point-replay-api.json": {
+    "result": "PASS",
+    "as_of_ms": 1793242623965,
+    "scored": 1,
+    "trend_points": 1,
+    "mode": "REPLAY"
+  }
+}

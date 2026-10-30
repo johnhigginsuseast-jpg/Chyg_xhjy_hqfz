@@ -1,0 +1,16 @@
+[
+  {
+    "role": "collector",
+    "pid": 23404,
+    "alive": true,
+    "identity_matches": true,
+    "checked_at": "2026-10-30T15:04:41.3369308+08:00"
+  },
+  {
+    "role": "awake",
+    "pid": 11136,
+    "alive": true,
+    "identity_matches": true,
+    "checked_at": "2026-10-30T15:04:41.3452083+08:00"
+  }
+]

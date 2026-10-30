@@ -1,0 +1,34 @@
+test_bad_input_is_rejected (test_data.DataTests.test_bad_input_is_rejected) ... D:\mycode\沧海易购1\market-direction-ml\src\data_loader.py:31: UserWarning: Could not infer format, so each element will be parsed individually, falling back to `dateutil`. To ensure parsing is consistent and as-expected, please specify a format.
+  frame["timestamp"] = pd.to_datetime(frame["timestamp"], errors="coerce")
+ok
+test_confirmed_weekend_closures_rejected (test_data.DataTests.test_confirmed_weekend_closures_rejected) ... 
+  test_confirmed_weekend_closures_rejected (test_data.DataTests.test_confirmed_weekend_closures_rejected) (start='2026-10-25 09:31') ... FAIL
+  test_confirmed_weekend_closures_rejected (test_data.DataTests.test_confirmed_weekend_closures_rejected) (start='2026-10-24 19:01') ... FAIL
+test_daily_not_available_at_midnight (test_data.DataTests.test_daily_not_available_at_midnight) ... ok
+test_incomplete_opening_event_stops (test_data.DataTests.test_incomplete_opening_event_stops) ... ok
+test_opening_event_merge_preserves_values (test_data.DataTests.test_opening_event_merge_preserves_values) ... ok
+test_short_bucket_availability (test_data.DataTests.test_short_bucket_availability) ... ok
+test_three_formats_and_aliases (test_data.DataTests.test_three_formats_and_aliases) ... ok
+
+======================================================================
+FAIL: test_confirmed_weekend_closures_rejected (test_data.DataTests.test_confirmed_weekend_closures_rejected) (start='2026-10-25 09:31')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\mycode\沧海易购1\market-direction-ml\tests\test_data.py", line 23, in test_confirmed_weekend_closures_rejected
+    with self.assertRaises(ValueError): canonicalize(frame((100,), start), 1)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: ValueError not raised
+
+======================================================================
+FAIL: test_confirmed_weekend_closures_rejected (test_data.DataTests.test_confirmed_weekend_closures_rejected) (start='2026-10-24 19:01')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\mycode\沧海易购1\market-direction-ml\tests\test_data.py", line 23, in test_confirmed_weekend_closures_rejected
+    with self.assertRaises(ValueError): canonicalize(frame((100,), start), 1)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: ValueError not raised
+
+----------------------------------------------------------------------
+Ran 7 tests in 1.046s
+
+FAILED (failures=2)

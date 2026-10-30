@@ -1,0 +1,10 @@
+{
+  "user_reply": "允许临时防休眠至16:05（推荐）",
+  "recorded_at": "2026-10-30T10:24:16.0122057+08:00",
+  "deadline": "2026-10-30T16:05:00+08:00",
+  "proposal_sha256": "09390b5698187f8f24ef2658c448c867d75836e4bf223c1a9b8215846ccf6552",
+  "script_sha256": "5195fe470d0b0f361ff8765c1e9ee2ce6ffc4f4adb176816a8f5e6fd6618352f",
+  "flags": "ES_CONTINUOUS | ES_SYSTEM_REQUIRED",
+  "early_stop": "runtime/http-research/awake-20261030.stop",
+  "permanent_power_plan_change": false
+}

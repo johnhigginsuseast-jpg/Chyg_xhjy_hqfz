@@ -1,0 +1,107 @@
+[
+  {
+    "scenario": "normal",
+    "dom": {
+      "banner": true,
+      "chart": "block",
+      "kind": "当前有效根预测",
+      "market": "已发布预测",
+      "mode": "DEMO",
+      "probability": "64.00%",
+      "process": "未知",
+      "rate": "66.99%",
+      "rows": 50,
+      "trend": "block"
+    }
+  },
+  {
+    "scenario": "zero",
+    "dom": {
+      "banner": true,
+      "chart": "block",
+      "kind": "无当前预测",
+      "market": "等待新完整K线",
+      "mode": "DEMO",
+      "probability": "—",
+      "process": "未知",
+      "rate": "暂无可计分样本",
+      "rows": 0,
+      "trend": "none"
+    }
+  },
+  {
+    "scenario": "rest",
+    "dom": {
+      "banner": true,
+      "chart": "block",
+      "kind": "最近历史预测",
+      "market": "休市（常规时段）",
+      "mode": "DEMO",
+      "probability": "64.00%",
+      "process": "未知",
+      "rate": "66.99%",
+      "rows": 50,
+      "trend": "block"
+    }
+  },
+  {
+    "scenario": "stale",
+    "dom": {
+      "banner": true,
+      "chart": "block",
+      "kind": "最近历史预测",
+      "market": "行情滞后",
+      "mode": "DEMO",
+      "probability": "64.00%",
+      "process": "未知",
+      "rate": "66.99%",
+      "rows": 50,
+      "trend": "block"
+    }
+  },
+  {
+    "scenario": "warmup",
+    "dom": {
+      "banner": true,
+      "chart": "block",
+      "kind": "最近历史预测",
+      "market": "暖机中",
+      "mode": "DEMO",
+      "probability": "64.00%",
+      "process": "未知",
+      "rate": "66.99%",
+      "rows": 50,
+      "trend": "block"
+    }
+  },
+  {
+    "scenario": "error",
+    "dom": {
+      "banner": true,
+      "chart": "block",
+      "kind": "最近历史预测",
+      "market": "行情获取异常 · HTTP_TRANSPORT_ERROR",
+      "mode": "DEMO",
+      "probability": "64.00%",
+      "process": "未知",
+      "rate": "66.99%",
+      "rows": 50,
+      "trend": "block"
+    }
+  },
+  {
+    "scenario": "skip",
+    "dom": {
+      "banner": true,
+      "chart": "block",
+      "kind": "最近历史预测",
+      "market": "本锚点规则跳过",
+      "mode": "DEMO",
+      "probability": "—",
+      "process": "未知",
+      "rate": "66.99%",
+      "rows": 50,
+      "trend": "block"
+    }
+  }
+]

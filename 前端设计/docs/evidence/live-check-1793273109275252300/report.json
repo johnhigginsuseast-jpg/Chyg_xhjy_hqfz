@@ -1,0 +1,79 @@
+{
+  "mode": "LIVE",
+  "snapshot": {
+    "id": "http-research-20261028T231725:12530",
+    "observed_at_ms": 1793273109127,
+    "data_as_of_ms": 1793273101173,
+    "timezone": "Asia/Shanghai",
+    "last_completed_poll_id": 12530
+  },
+  "deployment": "http-research-20261028T231725",
+  "integrity": "ok",
+  "original_summary": {
+    "HIT": 29,
+    "MISS": 20,
+    "FLAT": 0,
+    "PENDING": 1,
+    "UNSCORABLE": 1,
+    "total": 51,
+    "scored": 49,
+    "hit_rate": 0.5918367346938775,
+    "wilson95": [
+      0.4524731939184714,
+      0.7178476147961312
+    ],
+    "signal_scored": 25,
+    "signal_hit_rate": 0.52,
+    "signal_coverage": 0.5102040816326531,
+    "revisions": 0,
+    "late": 1,
+    "signal_total": 25,
+    "signal_coverage_all_predictions": 0.49019607843137253,
+    "rule_skip_events": 13,
+    "backfill_events": 7,
+    "source_state_events": 4715,
+    "effect_sample_insufficient": true,
+    "mode": "LIVE"
+  },
+  "original_today": {
+    "HIT": 29,
+    "MISS": 20,
+    "FLAT": 0,
+    "PENDING": 1,
+    "UNSCORABLE": 1,
+    "total": 51,
+    "scored": 49,
+    "hit_rate": 0.5918367346938775,
+    "wilson95": [
+      0.4524731939184714,
+      0.7178476147961312
+    ],
+    "signal_scored": 25,
+    "signal_hit_rate": 0.52,
+    "signal_coverage": 0.5102040816326531,
+    "revisions": 0,
+    "late": 1,
+    "signal_total": 25,
+    "signal_coverage_all_predictions": 0.49019607843137253,
+    "rule_skip_events": 13,
+    "backfill_events": 7,
+    "source_state_events": 4036,
+    "effect_sample_insufficient": true,
+    "mode": "LIVE"
+  },
+  "trend_points_checked": 49,
+  "bars_checked": 600,
+  "real_scored_prediction_checked": "e68b8f41acb5c8e51bd7a7a573fbd5b724888e5a0d6917b2a7622d102d953790",
+  "issues": [],
+  "existing_inspected_files_changed": [
+    "docs/acceptance/runs/http-v0.4-candidate3/run.md",
+    "README.md"
+  ],
+  "observed_existing_document_changes": [
+    "docs/acceptance/runs/http-v0.4-candidate3/run.md",
+    "README.md"
+  ],
+  "protected_source_changes": [],
+  "original_model_changes": [],
+  "note": "Original Ledger instantiated only on the frontend evidence copy; source connected mode=ro, no collector started"
+}

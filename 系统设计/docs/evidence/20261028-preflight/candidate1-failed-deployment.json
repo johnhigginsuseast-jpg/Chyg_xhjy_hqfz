@@ -1,0 +1,22 @@
+{
+  "id": "http-research-20261028T222738",
+  "mode": "LIVE",
+  "source": "HTTP_CROSS_SOURCE_RESEARCH",
+  "symbol": "531",
+  "name": "印江花果红茶二期",
+  "model_sha256": "d79afdbc7936dbd8692f903c37c0948de3c06c9579f671ed8bbb6f1f884b1ba7",
+  "bootstrap_sha256": "b84dce89ece54face1f32757da68add8af0307db709c4adcb9161b63702e33fb",
+  "approval_sha256": "033b315492e2c99ed622300ab68b00144f5d12a73d750e135dd7ef2e0e19d076",
+  "code_sha256": "5391e3d9fe61b430df43603cd624d4812042feca4d5ed5a3f1c428af570f650f",
+  "time_policy": "OBSERVED_RAW_OPEN_PLUS_60S_CLOSE_V1",
+  "policy": "realtime-v0.4-http-research-v1",
+  "boundary_policy": "QUARANTINE_SINGLE_PRICE_TERMINAL_EVENTS_V1",
+  "enabled_at_ms": 1793197658514,
+  "research_only": true,
+  "domain_shift_acknowledged": true,
+  "training_source": "supplied-20261028-native-csv",
+  "units": "HTTP raw numeric units; physical unit names unconfirmed",
+  "initial_rule_origin": 1791544320000,
+  "poll_seconds": 3,
+  "cpu_threads": 4
+}

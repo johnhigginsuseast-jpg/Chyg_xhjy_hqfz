@@ -1,0 +1,13 @@
+{
+  "approval": "允许临时防自动休眠到21:05（推荐）",
+  "flags": "ES_CONTINUOUS | ES_SYSTEM_REQUIRED (0x80000001)",
+  "pid": 30988,
+  "deadline": "2026-10-29T21:05:00+08:00",
+  "start_time_utc": "2026-10-29T12:08:24.1927260Z",
+  "restores": "ES_CONTINUOUS (0x80000000)",
+  "script": "D:\\mycode\\沧海易购1\\系统设计\\tools\\acceptance_awake_20261029.py",
+  "script_sha256": "b173484895441c3b01913e554d41c3a9d797a45a274286abc6687ea86e01c532",
+  "proposal_sha256": "b833fa15df3192f9493b45aa0cb1bb5be43f5a9e83e1b5a10d1f3ef29d6be703",
+  "interpreter": "D:\\mycode\\沧海易购1\\market-direction-ml\\.venv\\Scripts\\python.exe",
+  "permanent_power_plan_change": false
+}

@@ -1,0 +1,58 @@
+{
+  "detail": "预测ID8ec543c874b05d4033563cdbeac6607cb1478d86287bbcda3844fb46b068c98a原方向 / 行动↑ 上涨 / up上涨 / 下跌概率70.00% / 30.00%基准收盘100计算时刻2026/10/29 00:03:02实际发布时间2026/10/29 00:03:03发布资格有合格回执锚点2026/10/29 00:03:00目标有效K线2026/10/29 00:04:00目标收盘102实际方向↑ 上涨结果 / 修订命中 / 2原因未记录目标发布时已开盘是输入摘要e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683MODEL_INPUT：未记录",
+  "rate": "70.00%",
+  "rows": [
+    {
+      "id": "241255bfcfa74ec764acb0346edddc00c94a6bacd6ac40b67dde7a2e05e6649b",
+      "result": "无法计分"
+    },
+    {
+      "id": "e79120b0ec81f69d85191ca781273c975dd09d89b9fe5f56aa12cbb23e05e8a8",
+      "result": "待结算"
+    },
+    {
+      "id": "be58a6ea0c4b1d23bf301ff200074344ce7ee5d9eef0e2ef208112739f5adbec",
+      "result": "平盘"
+    },
+    {
+      "id": "1dc6c827003ba8f32c65cd6b11f67f34a0d05150c903c59c2e3affc7fd6b1664",
+      "result": "未命中"
+    },
+    {
+      "id": "16210f6749a2fd95fc2ad671a0318eb3489eae40d90c073401be6d6bd2ea6677",
+      "result": "未命中"
+    },
+    {
+      "id": "ff635a4bb90c7d33720c197f888e5a5121f71217e57b9a1340c9caa31780d213",
+      "result": "未命中"
+    },
+    {
+      "id": "8ec543c874b05d4033563cdbeac6607cb1478d86287bbcda3844fb46b068c98a",
+      "result": "命中 · 修订2"
+    },
+    {
+      "id": "06d17ad20f7da1da765cc0b8afad4a8a9f047106e47481e9d693b7048cf9b925",
+      "result": "命中"
+    },
+    {
+      "id": "8eeffe6534fc649850e85835e9352d3fdfe77152623b65ed119de88a3a0a2a42",
+      "result": "命中"
+    },
+    {
+      "id": "950d8eb894f257f43781e242859a263677cbf1b00dd185c0d54a50e9ec8755ff",
+      "result": "命中"
+    },
+    {
+      "id": "de631773581b15997ce98b63f719053708b9737ba101f53ba46482f3286bdf1f",
+      "result": "命中"
+    },
+    {
+      "id": "2ae11d059d2e68bb6f3de5013703f0b33b18cd49ba039a757ae34c6a047ff96a",
+      "result": "命中"
+    },
+    {
+      "id": "2a927057d773049f48d3b34d63db0db5320064ce310e887dc5b2e5d15ccb791b",
+      "result": "命中"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "task_name": "Codex-Market-Collector-20261030",
+    "state": "Running",
+    "trigger_count": 0,
+    "last_run": "2026-10-30T14:31:31.0000000+08:00",
+    "last_result": 267009,
+    "ordinary_user": true,
+    "wake_to_run": false,
+    "checked_at": "2026-10-30T14:37:10.9945328+08:00"
+  },
+  {
+    "task_name": "Codex-Market-Awake-20261030",
+    "state": "Running",
+    "trigger_count": 0,
+    "last_run": "2026-10-30T14:32:32.0000000+08:00",
+    "last_result": 267009,
+    "ordinary_user": true,
+    "wake_to_run": false,
+    "checked_at": "2026-10-30T14:37:11.9885408+08:00"
+  }
+]

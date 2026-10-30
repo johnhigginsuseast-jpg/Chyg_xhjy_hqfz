@@ -1,0 +1,8 @@
+{
+  "marker_present": true,
+  "launcher_pid_present": false,
+  "child_pid_present": false,
+  "market_ledger_modified": false,
+  "mode": "SYNTHETIC_PROCESS_LIFECYCLE_PROBE",
+  "observed_at_utc": "2026-10-29T07:58:02.8776506Z"
+}

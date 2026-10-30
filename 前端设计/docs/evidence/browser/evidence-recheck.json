@@ -1,0 +1,40 @@
+{
+  "live_dom": {
+    "scored": true,
+    "hits": true,
+    "misses": true,
+    "flats": true,
+    "pending": true,
+    "unscorable": true,
+    "snapshot": true,
+    "rate": true,
+    "records": true
+  },
+  "real_detail": {
+    "id": "8bcabb70dc6d85d0a8fea329c604da2de5afd1098e96b3f3fd7f1f18c526f31a",
+    "prediction_fields": true,
+    "receipt": true,
+    "result": true,
+    "dom_id": true,
+    "status": "MISS"
+  },
+  "candidate3_unchanged": true,
+  "stability": {
+    "checks": {
+      "chart": true,
+      "hover": true,
+      "range": true,
+      "filters": true,
+      "page": true,
+      "rows": true,
+      "anchorDelta": 0,
+      "scroll": true,
+      "dialog": true,
+      "focus": true
+    },
+    "unique_snapshots": 11,
+    "overlapping_requests": 0,
+    "loader_ids": 1,
+    "truncated": false
+  }
+}

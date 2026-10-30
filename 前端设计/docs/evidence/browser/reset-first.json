@@ -1,0 +1,23 @@
+{
+  "draftFixed": {
+    "draft": "MISS",
+    "rows": 50
+  },
+  "applied": {
+    "allMiss": true,
+    "rate": "66.99%",
+    "rows": 34
+  },
+  "dateEmpty": {
+    "rate": "66.99%",
+    "rows": 0
+  },
+  "errors": [
+    {
+      "level": "error",
+      "message": "TypeError: $(...).reset is not a function\n    at HTMLButtonElement.<anonymous> (http://127.0.0.1:8767/app.js:217:55)",
+      "timestamp": "2026-10-29T04:51:55.367Z",
+      "url": "http://127.0.0.1:8767/app.js"
+    }
+  ]
+}

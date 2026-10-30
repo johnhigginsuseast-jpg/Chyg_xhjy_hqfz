@@ -1,0 +1,11 @@
+{
+  "status": "USER_CONFIRMED",
+  "recorded_at": "2026-10-28T11:47:23.158561+00:00",
+  "user_reply": "批准同源缓存路线（推荐）",
+  "source_change": "CR-RT-001",
+  "baseline": "v0.1 + approved source-v0.2 change",
+  "approved_source": "D:\\Download\\行情分析端\\DATA\\DriverRTA\\MIN.DY2",
+  "preserved_model": "study-20261028-v1-1min-h1-logistic",
+  "source_change_sha256": "8ccc5092efcb834340939fab5c6aeda3a73b421e5343f507b768fbe88cbce975",
+  "real_time_acceptance": "NOT_TESTED"
+}

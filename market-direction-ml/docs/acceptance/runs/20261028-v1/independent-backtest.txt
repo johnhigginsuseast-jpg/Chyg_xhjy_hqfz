@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "summary_cases": 960,
+  "detailed_cases": 128,
+  "fee_sensitivity_monotone": true
+}

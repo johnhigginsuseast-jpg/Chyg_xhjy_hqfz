@@ -1,0 +1,56 @@
+[
+  {
+    "width": 1440,
+    "height": 900,
+    "chartHeight": 340,
+    "chartText": "11px",
+    "clientWidth": 1425,
+    "regions": [
+      "system-title",
+      "chart-title",
+      "prediction-title",
+      "statistics-title",
+      "history-title"
+    ],
+    "scrollWidth": 1425,
+    "tableContainer": 1335,
+    "tableWidth": 1335,
+    "viewport": 1440
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "chartHeight": 340,
+    "chartText": "11px",
+    "clientWidth": 375,
+    "regions": [
+      "system-title",
+      "chart-title",
+      "prediction-title",
+      "statistics-title",
+      "history-title"
+    ],
+    "scrollWidth": 375,
+    "tableContainer": 313,
+    "tableWidth": 980,
+    "viewport": 390
+  },
+  {
+    "width": 360,
+    "height": 800,
+    "chartHeight": 340,
+    "chartText": "11px",
+    "clientWidth": 345,
+    "regions": [
+      "system-title",
+      "chart-title",
+      "prediction-title",
+      "statistics-title",
+      "history-title"
+    ],
+    "scrollWidth": 345,
+    "tableContainer": 283,
+    "tableWidth": 980,
+    "viewport": 360
+  }
+]

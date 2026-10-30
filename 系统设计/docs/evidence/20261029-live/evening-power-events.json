@@ -1,0 +1,42 @@
+{
+  "scope": "Last 30 power events, post-filtered UTC >= 11:30; only power fields and first description line",
+  "events": [
+    {
+      "sleep_wake_fields": {
+        "SleepTime": "2026-10-29T11:36:40.5693007Z",
+        "SleepDuration": "705",
+        "TargetState": "4",
+        "WakeTime": "2026-10-29T11:42:38.9110190Z",
+        "WakeDuration": "411",
+        "EffectiveState": "4"
+      },
+      "description_first_line": "系统已从低功耗状态中恢复。",
+      "utc": "2026-10-29T11:42:40.1349018Z",
+      "provider": "Microsoft-Windows-Power-Troubleshooter",
+      "id": 1
+    },
+    {
+      "sleep_wake_fields": {
+        "TargetState": "4",
+        "EffectiveState": "4"
+      },
+      "description_first_line": "系统已从睡眠状态恢复。",
+      "utc": "2026-10-29T11:36:41.8883129Z",
+      "provider": "Microsoft-Windows-Kernel-Power",
+      "id": 107
+    },
+    {
+      "sleep_wake_fields": {
+        "TargetState": "4",
+        "Reason": "7",
+        "EffectiveState": "4"
+      },
+      "description_first_line": "系统正在进入睡眠状态。",
+      "utc": "2026-10-29T11:36:41.2659465Z",
+      "provider": "Microsoft-Windows-Kernel-Power",
+      "id": 42
+    }
+  ],
+  "observed_at_utc": "2026-10-29T11:47:44.9171456Z",
+  "status": "READ_OK"
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "role": "collector",
+    "name": "Codex-Market-Collector-20261030",
+    "state": "Running",
+    "trigger_count": 1,
+    "ordinary_user": "Limited",
+    "action": "D:\\mycode\\沧海易购1\\market-direction-ml\\.venv\\Scripts\\pythonw.exe",
+    "metadata": "D:\\mycode\\沧海易购1\\系统设计\\runtime\\http-research\\scheduler-collector-start.json",
+    "log": "D:\\mycode\\沧海易购1\\系统设计\\runtime\\http-research\\scheduler-collector-20261030.log",
+    "started_at": "2026-10-30T14:31:59.0821689+08:00"
+  },
+  {
+    "role": "awake",
+    "name": "Codex-Market-Awake-20261030",
+    "state": "Running",
+    "trigger_count": 1,
+    "ordinary_user": "Limited",
+    "action": "D:\\mycode\\沧海易购1\\market-direction-ml\\.venv\\Scripts\\pythonw.exe",
+    "metadata": "D:\\mycode\\沧海易购1\\系统设计\\runtime\\http-research\\scheduler-awake-start.json",
+    "log": "D:\\mycode\\沧海易购1\\系统设计\\runtime\\http-research\\scheduler-awake-20261030.log",
+    "started_at": "2026-10-30T14:32:01.2410273+08:00"
+  }
+]

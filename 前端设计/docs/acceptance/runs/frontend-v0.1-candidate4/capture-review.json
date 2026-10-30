@@ -1,0 +1,30 @@
+{
+  "recorded_at": "2026-10-29T12:26:45.281782+00:00",
+  "result": "PASS",
+  "scope": "IAB screenshot verification, not Windows Edge/Chrome",
+  "failed_capture": "docs/evidence/browser/overview-capture-first-failure.jpg",
+  "failure": "Raw CDP capture immediately after a 1440x1800 metrics override produced repeated tiles; not used as valid page evidence.",
+  "verified_images": [
+    "docs/evidence/browser/final-rendered-full.jpg",
+    "docs/evidence/browser/final-rendered-390.jpg",
+    "docs/evidence/browser/final-rendered-360.jpg"
+  ],
+  "visually_inspected": true,
+  "valid_dimensions": {
+    "full_desktop": [
+      1425,
+      4498
+    ],
+    "phone390": [
+      375,
+      5725
+    ],
+    "phone360": [
+      345,
+      5802
+    ]
+  },
+  "viewport_only_capture_note": "final-rendered-desktop.jpg is a physical 1280x720 viewport crop, not a complete 1440x900 image; use the verified full-page file.",
+  "temporary_metrics_reset": true,
+  "tabs_closed": true
+}

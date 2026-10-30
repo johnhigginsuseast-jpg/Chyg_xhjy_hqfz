@@ -1,0 +1,137 @@
+{
+  "oldResponseTotal": 120,
+  "middleRate": "暂无可计分样本",
+  "secondWasStillPending": true,
+  "newResponseTotal": 0,
+  "finalRate": "暂无可计分样本",
+  "responses": [
+    {
+      "sequence": 190,
+      "source": {
+        "tabId": 2
+      },
+      "method": "Network.responseReceived",
+      "params": {
+        "frameId": "E556F6BB555A49BD3DCADE1E62EFF098",
+        "hasExtraInfo": true,
+        "loaderId": "B0EFB77D0EBB3A709DF9391F09F1ABFD",
+        "requestId": "23696.591",
+        "response": {
+          "alternateProtocolUsage": "unspecifiedReason",
+          "charset": "utf-8",
+          "connectionId": 17963,
+          "connectionReused": false,
+          "encodedDataLength": 369,
+          "fromDiskCache": false,
+          "fromPrefetchCache": false,
+          "fromServiceWorker": false,
+          "headers": {
+            "Cache-Control": "no-store",
+            "Content-Length": "71988",
+            "Content-Security-Policy": "default-src 'self'; img-src 'self' data:; style-src 'self'; script-src 'self'; connect-src 'self'; frame-ancestors 'none'",
+            "Content-Type": "application/json; charset=utf-8",
+            "Date": "Thu, 29 Oct 2026 04:50:03 GMT",
+            "Server": "BaseHTTP/0.6 Python/3.12.14",
+            "X-Content-Type-Options": "nosniff"
+          },
+          "mimeType": "application/json",
+          "protocol": "http/1.0",
+          "remoteIPAddress": "127.0.0.1",
+          "remotePort": 8767,
+          "responseTime": 1793249403619.209,
+          "securityState": "secure",
+          "status": 200,
+          "statusText": "OK",
+          "timing": {
+            "connectEnd": 2.033,
+            "connectStart": 0.718,
+            "dnsEnd": 0.718,
+            "dnsStart": 0.385,
+            "proxyEnd": -1,
+            "proxyStart": -1,
+            "pushEnd": 0,
+            "pushStart": 0,
+            "receiveHeadersEnd": 2019.61,
+            "receiveHeadersStart": 2019.555,
+            "requestTime": 54727.781156,
+            "sendEnd": 2.34,
+            "sendStart": 2.135,
+            "sslEnd": -1,
+            "sslStart": -1,
+            "workerFetchStart": -1,
+            "workerReady": -1,
+            "workerRespondWithSettled": -1,
+            "workerStart": -1
+          },
+          "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50"
+        },
+        "timestamp": 54729.802944,
+        "type": "Fetch"
+      }
+    },
+    {
+      "sequence": 196,
+      "source": {
+        "tabId": 2
+      },
+      "method": "Network.responseReceived",
+      "params": {
+        "frameId": "E556F6BB555A49BD3DCADE1E62EFF098",
+        "hasExtraInfo": true,
+        "loaderId": "B0EFB77D0EBB3A709DF9391F09F1ABFD",
+        "requestId": "23696.592",
+        "response": {
+          "alternateProtocolUsage": "unspecifiedReason",
+          "charset": "utf-8",
+          "connectionId": 17979,
+          "connectionReused": false,
+          "encodedDataLength": 369,
+          "fromDiskCache": false,
+          "fromPrefetchCache": false,
+          "fromServiceWorker": false,
+          "headers": {
+            "Cache-Control": "no-store",
+            "Content-Length": "28680",
+            "Content-Security-Policy": "default-src 'self'; img-src 'self' data:; style-src 'self'; script-src 'self'; connect-src 'self'; frame-ancestors 'none'",
+            "Content-Type": "application/json; charset=utf-8",
+            "Date": "Thu, 29 Oct 2026 04:50:05 GMT",
+            "Server": "BaseHTTP/0.6 Python/3.12.14",
+            "X-Content-Type-Options": "nosniff"
+          },
+          "mimeType": "application/json",
+          "protocol": "http/1.0",
+          "remoteIPAddress": "127.0.0.1",
+          "remotePort": 8767,
+          "responseTime": 1793249405635.934,
+          "securityState": "secure",
+          "status": 200,
+          "statusText": "OK",
+          "timing": {
+            "connectEnd": 1.118,
+            "connectStart": 0.623,
+            "dnsEnd": 0.623,
+            "dnsStart": 0.345,
+            "proxyEnd": -1,
+            "proxyStart": -1,
+            "pushEnd": 0,
+            "pushStart": 0,
+            "receiveHeadersEnd": 2009.868,
+            "receiveHeadersStart": 2009.833,
+            "requestTime": 54729.807603,
+            "sendEnd": 1.342,
+            "sendStart": 1.205,
+            "sslEnd": -1,
+            "sslStart": -1,
+            "workerFetchStart": -1,
+            "workerReady": -1,
+            "workerRespondWithSettled": -1,
+            "workerStart": -1
+          },
+          "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50"
+        },
+        "timestamp": 54731.81925,
+        "type": "Fetch"
+      }
+    }
+  ]
+}

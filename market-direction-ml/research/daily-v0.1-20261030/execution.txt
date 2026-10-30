@@ -1,0 +1,154 @@
+{
+  "study": "D:\\mycode\\沧海易购1\\market-direction-ml\\research\\daily-v0.1-20261030",
+  "status": "RESEARCH_COMPLETE_WITH_INSUFFICIENT_DATA",
+  "h1_training_samples": 38,
+  "required_fit": 80,
+  "model_created": false,
+  "baseline_test_metrics": [
+    {
+      "split": "test",
+      "model": "always_up",
+      "forecast_count": 23,
+      "correct": 8,
+      "probability_status": "deterministic_rule_not_calibrated",
+      "n": 22,
+      "status": "OK",
+      "accuracy": 0.36363636363636365,
+      "balanced_accuracy": 0.5,
+      "mcc": 0.0,
+      "f1": 0.5333333333333333,
+      "auc": 0.5,
+      "auc_note": "defined",
+      "log_loss": 11.722251382953935,
+      "brier": 0.6363636363636364,
+      "signal_count": 22,
+      "signal_coverage": 1.0,
+      "signal_accuracy": 0.36363636363636365,
+      "confusion_matrix": [
+        [
+          0,
+          14
+        ],
+        [
+          0,
+          8
+        ]
+      ],
+      "precision_down": 0.0,
+      "recall_down": 0.0,
+      "support_down": 14,
+      "precision_up": 0.36363636363636365,
+      "recall_up": 1.0,
+      "support_up": 8
+    },
+    {
+      "split": "test",
+      "model": "always_down",
+      "forecast_count": 23,
+      "correct": 14,
+      "probability_status": "deterministic_rule_not_calibrated",
+      "n": 22,
+      "status": "OK",
+      "accuracy": 0.6363636363636364,
+      "balanced_accuracy": 0.5,
+      "mcc": 0.0,
+      "f1": 0.0,
+      "auc": 0.5,
+      "auc_note": "defined",
+      "log_loss": 6.6984293678008635,
+      "brier": 0.36363636363636365,
+      "signal_count": 22,
+      "signal_coverage": 1.0,
+      "signal_accuracy": 0.6363636363636364,
+      "confusion_matrix": [
+        [
+          14,
+          0
+        ],
+        [
+          8,
+          0
+        ]
+      ],
+      "precision_down": 0.6363636363636364,
+      "recall_down": 1.0,
+      "support_down": 14,
+      "precision_up": 0.0,
+      "recall_up": 0.0,
+      "support_up": 8
+    },
+    {
+      "split": "test",
+      "model": "previous_direction",
+      "forecast_count": 23,
+      "correct": 11,
+      "probability_status": "deterministic_rule_not_calibrated",
+      "n": 22,
+      "status": "OK",
+      "accuracy": 0.5,
+      "balanced_accuracy": 0.4732142857142857,
+      "mcc": -0.052414241836095915,
+      "f1": 0.35294117647058826,
+      "auc": 0.4732142857142857,
+      "auc_note": "defined",
+      "log_loss": 9.210340375605798,
+      "brier": 0.5,
+      "signal_count": 22,
+      "signal_coverage": 1.0,
+      "signal_accuracy": 0.5,
+      "confusion_matrix": [
+        [
+          8,
+          6
+        ],
+        [
+          5,
+          3
+        ]
+      ],
+      "precision_down": 0.6153846153846154,
+      "recall_down": 0.5714285714285714,
+      "support_down": 14,
+      "precision_up": 0.3333333333333333,
+      "recall_up": 0.375,
+      "support_up": 8
+    },
+    {
+      "split": "test",
+      "model": "momentum",
+      "forecast_count": 23,
+      "correct": 13,
+      "probability_status": "deterministic_rule_not_calibrated",
+      "n": 22,
+      "status": "OK",
+      "accuracy": 0.5909090909090909,
+      "balanced_accuracy": 0.5178571428571428,
+      "mcc": 0.040996003084539386,
+      "f1": 0.3076923076923077,
+      "auc": 0.5178571428571428,
+      "auc_note": "defined",
+      "log_loss": 7.535733036840776,
+      "brier": 0.4090909090909091,
+      "signal_count": 22,
+      "signal_coverage": 1.0,
+      "signal_accuracy": 0.5909090909090909,
+      "confusion_matrix": [
+        [
+          11,
+          3
+        ],
+        [
+          6,
+          2
+        ]
+      ],
+      "precision_down": 0.6470588235294118,
+      "recall_down": 0.7857142857142857,
+      "support_down": 14,
+      "precision_up": 0.4,
+      "recall_up": 0.25,
+      "support_up": 8
+    }
+  ],
+  "protected_files": 5317
+}

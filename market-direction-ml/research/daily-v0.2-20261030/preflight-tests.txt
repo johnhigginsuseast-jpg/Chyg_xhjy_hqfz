@@ -1,0 +1,16 @@
+test_counts_account_for_warmup_flat_purge (__main__.DailyChecks.test_counts_account_for_warmup_flat_purge) ... ok
+test_existing_run_and_invalid_id_are_rejected (__main__.DailyChecks.test_existing_run_and_invalid_id_are_rejected) ... ok
+test_features_use_only_available_prefix (__main__.DailyChecks.test_features_use_only_available_prefix) ... ok
+test_fit_gate_not_lowered (__main__.DailyChecks.test_fit_gate_not_lowered) ... ok
+test_h1_flat_and_pending (__main__.DailyChecks.test_h1_flat_and_pending) ... ok
+test_intervals_are_deterministic (__main__.DailyChecks.test_intervals_are_deterministic) ... ok
+test_temporal_purge_and_holdout_mask (__main__.DailyChecks.test_temporal_purge_and_holdout_mask) ... ok
+test_validation_gate_and_baseline_tie (__main__.DailyChecks.test_validation_gate_and_baseline_tie) ... ok
+test_warmup_is_real_not_imputed (__main__.DailyChecks.test_warmup_is_real_not_imputed) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.240s
+
+OK
+
+exit_code=0

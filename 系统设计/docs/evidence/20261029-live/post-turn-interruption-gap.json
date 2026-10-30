@@ -1,0 +1,24 @@
+{
+  "observed_at": "2026-10-29T11:08:17.692572+00:00",
+  "source_observation": "post-turn-interruption.json",
+  "deployment": "http-research-20261028T231725",
+  "maximum_gap_seconds": 703.066,
+  "from_poll_at": "2026-10-29T18:46:38.049000+08:00",
+  "from_poll": {
+    "elapsed_seconds": 0.86,
+    "received_ms": 1793270798049,
+    "started_at_ms": 1793270797196,
+    "status": "NOMINAL_REST",
+    "success": true
+  },
+  "to_poll_at": "2026-10-29T18:58:21.115000+08:00",
+  "to_poll": {
+    "elapsed_seconds": 8.016,
+    "received_ms": null,
+    "started_at_ms": 1793271493105,
+    "status": "HTTP_TRANSPORT_ERROR",
+    "success": false
+  },
+  "cause": "UNDETERMINED",
+  "qualification": "Same PID survival does not prove uninterrupted polling. Preserve this gap separately from publication p95; do not infer sleep or network as a single cause."
+}

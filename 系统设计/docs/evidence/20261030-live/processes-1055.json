@@ -1,0 +1,8 @@
+{
+  "at": "2026-10-30T10:57:32.9473532+08:00",
+  "collector_pid": 20752,
+  "collector_identity_verified": true,
+  "awake_pid": 5404,
+  "awake_identity_verified": true,
+  "awake_log": "{\"kind\": \"ACTIVE\", \"at\": \"2026-10-30T10:24:16.485217+08:00\", \"pid\": 14488, \"until\": \"2026-10-30T16:05:00+08:00\", \"flags\": 2147483649, \"previous\": 2147483648}"
+}

@@ -1,0 +1,9 @@
+{
+  "frozen_at": "2026-10-30T15:30:06.063206+08:00",
+  "source_workspace": "D:\\mycode\\沧海易购1\\系统设计",
+  "review_root": "docs\\acceptance\\runs\\http-v0.4-candidate4\\common-snapshot-rehearsal-20261030",
+  "source_manifest_sha256": "48cb9d75319a7b9baefc532489df8dc1519fb184ec22def762a0d66c0849eb30",
+  "raw_snapshot_sha256": "daad84e8934a6fdd3ed0ea209c4f5c7e63dc0ceeca0e1b6e71681b7671bf11e1",
+  "model_dependency": "Existing trusted original market-direction-ml; no copied model loaded",
+  "method": "Only independent audit ROOT paths redirected; original code/model/data unchanged"
+}

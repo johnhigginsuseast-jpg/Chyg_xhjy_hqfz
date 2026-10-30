@@ -1,0 +1,12 @@
+{
+  "mode": "DEMO",
+  "count": 10000,
+  "singleTab": true,
+  "firstUsableMs": 1772,
+  "dom": {
+    "mode": "DEMO",
+    "rate": "66.67%",
+    "rows": 50,
+    "scored": "8,686"
+  }
+}

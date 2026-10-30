@@ -1,0 +1,38 @@
+[
+  {
+    "url": "http://127.0.0.1:8767/",
+    "status": 200,
+    "type": "Document",
+    "requestId": "2B89813F737371D82B1984BAE97F7422"
+  },
+  {
+    "url": "http://127.0.0.1:8767/styles.css",
+    "status": 200,
+    "type": "Stylesheet",
+    "requestId": "5408.479"
+  },
+  {
+    "url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTUgOWExIDEgMCAxMDAtMiAxIDEgMCAwMDAgMnpNNiAxMWExIDEgMCAxMS0yIDAgMSAxIDAgMDEyIDB6TTggOWExIDEgMCAxMDAtMiAxIDEgMCAwMDAgMnpNOSAxMWExIDEgMCAxMS0yIDAgMSAxIDAgMDEyIDB6TTExIDlhMSAxIDAgMTAwLTIgMSAxIDAgMDAwIDJ6IiBmaWxsPSIjZmZmIi8+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNSAzLjVBMi41IDIuNSAwIDAwMTIuNSAxaC05QTIuNSAyLjUgMCAwMDEgMy41djlBMi41IDIuNSAwIDAwMy41IDE1aDlhMi41IDIuNSAwIDAwMi41LTIuNXYtOXpNMiA1aDEydjcuNWMwIC44My0uNjcgMS41LTEuNSAxLjVoLTlBMS41IDEuNSAwIDAxMiAxMi41VjV6bTEuNS0zaDljLjgzIDAgMS41LjY3IDEuNSAxLjVWNEgydi0uNUMyIDIuNjcgMi42NyAyIDMuNSAyeiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==",
+    "status": 200,
+    "type": "Image",
+    "requestId": "5408.483"
+  },
+  {
+    "url": "http://127.0.0.1:8767/app.js",
+    "status": 200,
+    "type": "Script",
+    "requestId": "5408.480"
+  },
+  {
+    "url": "chrome-extension://odlomjlbamekndcpllcnffbgeohgkmjh/images/cursor-chat.png",
+    "status": 200,
+    "type": "Image",
+    "requestId": "5408.485"
+  },
+  {
+    "url": "http://127.0.0.1:8767/api/dashboard?bars=600&limit=50",
+    "status": 200,
+    "type": "Fetch",
+    "requestId": "5408.484"
+  }
+]

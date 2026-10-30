@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "candidate_changes": [],
+  "missing_evidence": [],
+  "all_mandatory_items": 20,
+  "protected_model_changes": [],
+  "native_images_visually_reviewed": true,
+  "active_materials": [
+    "README.md",
+    "AI_CHANGELOG.md",
+    "docs/project-status.md",
+    "docs/acceptance/dashboard-criteria-v0.1.md",
+    "docs/testing/test-plan.md",
+    "docs/testing/test-cases.md",
+    "docs/testing/test-data.md",
+    "docs/testing/defects.md",
+    "docs/testing/executions/development-v0.1.md",
+    "docs/testing/traceability-v0.1.md",
+    "docs/testing/test-summary.md",
+    "docs/delivery/frontend-v0.1.md",
+    "docs/acceptance/runs/native-edge-20261030/run.md"
+  ],
+  "broken_active_links": [],
+  "confirmed_snapshots_sha256": "PASS",
+  "all_criteria_ids_covered": true
+}

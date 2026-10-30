@@ -1,0 +1,17 @@
+{
+  "recorded_at": "2026-10-30T15:20:17.576734+08:00",
+  "candidate": "http-v0.4-candidate4",
+  "deployment": "http-research-20261029T205736",
+  "collector_bootstrap_at_ms": 1793341940249,
+  "collector_bootstrap": {
+    "cursor": 1793341920000,
+    "history_only": true
+  },
+  "current_all_candidate_rows": 74,
+  "selection": "Earliest chronological contiguous accepted/published run; first 60 attempts. Skips do not count; gaps break; recorded late attempts retained. No outcome or latency based selection.",
+  "finalization": "Wait for all first 60 to have settlement states. Keep any other not-yet-due predictions visible. Independently audit every published prediction in the frozen evidence cutoff.",
+  "latency": "Retain every delay; evaluate the first-60 window, whole qualifying run, and whole candidate with the existing nearest-rank p95<=20 seconds.",
+  "input_consistency": "Both frozen auditors must use the same raw SQLite copy and evidence cutoff; their logical table digests must match.",
+  "checker_sha256": "3cf3466f88a9b1416e2775eab424ab879964bd05b1ebca97dbe5d1b78a8d82ce",
+  "existing_thresholds_unchanged": true
+}

@@ -1,0 +1,9 @@
+{
+  "api.json": "e52b5c78c4e155055946fb7b2f497a304f1c83d1d3b672dfdec568540494f6ce",
+  "observations.json": "5bae1d6c65e1097d20e470db9faedede7d589838753868790430d84f919d199e",
+  "report.json": "eab6959ad159d5d5c86e08ba6bcbede3a4ded61b3c4117324872327a7b69bd60",
+  "run.md": "d6116cd86a906dc35752e3a2f113cc09621d1f7cda5a76514957f57e1d7b64af",
+  "ledger.sqlite3": "b73535c3ed0b5606d35cf0894173dcdc4050092f5c5ba8ce6d798f5b8c8b1c2d",
+  "plugin-discovery.json": "076de29ace526c6df4c9cb232f88b3729b9cb8475322884fda424d0a123aab59",
+  "cleanup.json": "88d768dc64f2dea340fe27579492427b95d7e60778a92b0aaf4117caa4e909dc"
+}

@@ -1,0 +1,8 @@
+AUDIT 1分钟K线.csv: 55386 raw -> 55361 bars, 25 opening events
+AUDIT 3分钟K线.csv: 18454 raw -> 18454 bars, 0 opening events
+AUDIT 5分钟K线.csv: 11073 raw -> 11073 bars, 0 opening events
+AUDIT 10分钟K线.csv: 5537 raw -> 5537 bars, 0 opening events
+AUDIT 15分钟K线.csv: 3691 raw -> 3691 bars, 0 opening events
+AUDIT 30分钟K线.csv: 1846 raw -> 1846 bars, 0 opening events
+AUDIT 60分钟K线.csv: 998 raw -> 998 bars, 0 opening events
+AUDIT 日线.csv: 150 raw -> 150 bars, 0 opening events

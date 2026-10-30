@@ -1,0 +1,7 @@
+{
+  "result": "NOT_READY",
+  "max_contiguous": 42,
+  "selected_anchors": [],
+  "waiting": [],
+  "evidence_cutoff_ms": 1793345393819
+}

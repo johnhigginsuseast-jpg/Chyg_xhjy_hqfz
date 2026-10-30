@@ -1,0 +1,93 @@
+[
+  {
+    "started_at": "2026-10-28T20:47:24.271475+08:00",
+    "url": "https://yt.scdzscxt.com/qtfront_tq/klinePage?contractId=531&period=0&count=5&first=202610282049",
+    "purpose": "source_freshness_only; not model input",
+    "credentials_used": false,
+    "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>",
+    "received_at": "2026-10-28T20:47:32.444321+08:00"
+  },
+  {
+    "started_at": "2026-10-28T20:47:35.445383+08:00",
+    "url": "https://yt.scdzscxt.com/qtfront_tq/klinePage?contractId=531&period=0&count=5&first=202610282049",
+    "purpose": "source_freshness_only; not model input",
+    "credentials_used": false,
+    "http_status": 200,
+    "server_date": "Wed, 28 Oct 2026 12:47:42 GMT",
+    "identity": {
+      "symbol": "531",
+      "name": "印江花果红茶二期",
+      "code": 0
+    },
+    "public_market_rows": [
+      [
+        1793191320000,
+        1406.0,
+        1434.0,
+        1438.0,
+        1432.0,
+        1436.0,
+        17337.0,
+        24868884.0,
+        3285958.0
+      ],
+      [
+        1793191380000,
+        1406.0,
+        1436.0,
+        1440.0,
+        1434.0,
+        1438.0,
+        13939.0,
+        20022874.0,
+        3271984.0
+      ],
+      [
+        1793191440000,
+        1406.0,
+        1438.0,
+        1442.0,
+        1436.0,
+        1440.0,
+        15525.0,
+        22334076.0,
+        3256478.0
+      ],
+      [
+        1793191500000,
+        1406.0,
+        1440.0,
+        1442.0,
+        1438.0,
+        1442.0,
+        8393.0,
+        12086952.0,
+        3248159.0
+      ],
+      [
+        1793191560000,
+        1406.0,
+        1442.0,
+        1442.0,
+        1438.0,
+        1440.0,
+        6764.0,
+        9740220.0,
+        3241354.0
+      ],
+      [
+        1793191620000,
+        1406.0,
+        1440.0,
+        1444.0,
+        1438.0,
+        1444.0,
+        15574.0,
+        22431470.0,
+        3225806.0
+      ]
+    ],
+    "last_raw_label_local": "2026-10-28T20:47:00+08:00",
+    "received_at": "2026-10-28T20:47:42.354509+08:00"
+  }
+]

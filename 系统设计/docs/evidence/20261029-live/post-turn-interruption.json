@@ -1,0 +1,65 @@
+{
+  "observed_at": "2026-10-29T11:03:53.468305+00:00",
+  "deployment": "http-research-20261028T231725",
+  "expected_native_pid": 6456,
+  "known_start_time_utc": "2026-10-29T08:03:09.5736052Z",
+  "scope": "After user-interrupted goal turn at 16:36; not app exit or machine reboot",
+  "polls_after_interruption": 1982,
+  "maximum_poll_gap_seconds": 703.066,
+  "latest_poll_at": "2026-10-29T19:03:50.777000+08:00",
+  "latest_poll": {
+    "elapsed_seconds": 1.484,
+    "received_ms": 1793271830661,
+    "started_at_ms": 1793271829292,
+    "status": "WAITING_NEW_COMPLETE_BAR",
+    "success": true
+  },
+  "recent_actual_events": [
+    {
+      "kind": "PUBLISHED",
+      "at": "2026-10-29T19:03:06.352000+08:00",
+      "payload": {
+        "eligible": true,
+        "prediction": "5a96bc11c2edeba7f368a8163242e2bf17785aac804f01330356a5445121cd78",
+        "published_at_ms": 1793271786352,
+        "reason": null
+      }
+    },
+    {
+      "kind": "PUBLISHED",
+      "at": "2026-10-29T19:02:06.340000+08:00",
+      "payload": {
+        "eligible": true,
+        "prediction": "2a1a2664056b531962d52b7fdc4d6bf68a8ef9ad17c5a51a0706398cf1e32807",
+        "published_at_ms": 1793271726340,
+        "reason": null
+      }
+    },
+    {
+      "kind": "PUBLISHED",
+      "at": "2026-10-29T19:01:07.159000+08:00",
+      "payload": {
+        "eligible": true,
+        "prediction": "c70249964071cb656db6c8ac2b78651d88fda970d7726953909baf0d9a648103",
+        "published_at_ms": 1793271667159,
+        "reason": null
+      }
+    },
+    {
+      "kind": "BACKFILL_ONLY",
+      "at": "2026-10-29T19:00:18.060000+08:00",
+      "payload": {
+        "anchor": 1793260800000,
+        "received_ms": 1793271615442
+      }
+    },
+    {
+      "kind": "BOOTSTRAP",
+      "at": "2026-10-29T16:03:35.516000+08:00",
+      "payload": {
+        "cursor": 1793260740000,
+        "history_only": true
+      }
+    }
+  ]
+}

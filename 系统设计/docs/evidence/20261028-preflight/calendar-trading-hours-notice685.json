@@ -1,0 +1,56 @@
+{
+  "attempts": [
+    {
+      "attempt": 0,
+      "status": "HTTP_200"
+    }
+  ],
+  "result": {
+    "at": "2026-10-28T15:38:15.606952+00:00",
+    "url": "https://yw.scdzscxt.com/apigateway/content/content/getContent?id=685",
+    "server_date": "Wed, 28 Oct 2026 15:38:16 GMT",
+    "anonymous": true,
+    "code": "0",
+    "value_type": "dict",
+    "value_keys": [
+      "id",
+      "columnId",
+      "title",
+      "titleImg",
+      "subtitle",
+      "source",
+      "content",
+      "sequence",
+      "type",
+      "isHide",
+      "payContent",
+      "isPay",
+      "canComment",
+      "isRecommend",
+      "commentCheck",
+      "stockCode",
+      "isDelete",
+      "createTime",
+      "updateTime",
+      "verifyStatus",
+      "firmId",
+      "showTime",
+      "purchase"
+    ],
+    "public_metadata": {
+      "id": 685,
+      "title": "沧海易购交易时间调整通知",
+      "createTime": 1760588198000,
+      "updateTime": 1789551093000
+    },
+    "content_sha256": "365d29f9b832ce12c48abdb5bc90afa18ce38f898ed592b5afb28a5d5a30e433",
+    "extracted_schedule_facts": {
+      "evening_open": "19:00",
+      "effective_reference_in_notice": "10.16 evening",
+      "closing_time_not_stated": true,
+      "holiday_dates_not_stated": true
+    },
+    "short_excerpt": "统一调整晚上开盘时间为19:00点",
+    "full_notice_text_not_retained": true
+  }
+}

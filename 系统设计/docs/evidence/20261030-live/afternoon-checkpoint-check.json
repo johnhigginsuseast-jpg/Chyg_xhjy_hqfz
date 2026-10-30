@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-10-30T15:04:41.502137+08:00",
+  "fixed_files_unchanged": 22,
+  "link_issues": [],
+  "last_poll": {
+    "at_ms": 1793343877732,
+    "payload": {
+      "elapsed_seconds": 0.39,
+      "received_ms": 1793343877661,
+      "started_at_ms": 1793343877336,
+      "status": "WAITING_NEW_COMPLETE_BAR",
+      "success": true
+    }
+  },
+  "current_prediction_rows": 62,
+  "independently_model_recomputed": 43,
+  "latest_continuity_verified": 26,
+  "release_gate": "NOT_ACCEPTED",
+  "scope": "Current row count is operational only; distinct audit cutoffs preserved"
+}

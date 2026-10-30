@@ -1,0 +1,29 @@
+{
+  "protocol_source": "webpack:///./src/assets/js/trans/protocol.js",
+  "protocol_sha256": "38bc10f57e950e1a5852b8f2488fba79c397d537beb8e4bae3ade82236cd83f6",
+  "method": "GET",
+  "list_path": "/content/content/noticeList",
+  "list_params": {
+    "page": 0,
+    "size": 20,
+    "sort": "createTime,desc"
+  },
+  "detail_path": "/content/content/getContent",
+  "anonymous_transport_branch_exists": true,
+  "session_values_read": false,
+  "non_notice_sections_omitted": true,
+  "config_active_url_lines": [
+    {
+      "line": 6,
+      "text": "APP_URL_PATH: `${ protocol_s ? 'https' : 'http' }://${ yw }/tradefront`,"
+    },
+    {
+      "line": 8,
+      "text": "APP_URL_PATH2: `${ protocol_s ? 'https' : 'http' }://${ yw }/apigateway`,"
+    },
+    {
+      "line": 12,
+      "text": "TradingView_URL_PATH: `${ protocol_s ? 'https' : 'http' }://${ yt }/qtfront_tq`,"
+    }
+  ]
+}

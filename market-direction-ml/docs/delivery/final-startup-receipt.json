@@ -1,0 +1,23 @@
+{
+  "archive": "D:\\mycode\\沧海易购1\\market-direction-ml\\delivery\\market-direction-ml-v1.0-research.zip",
+  "sha256": "6d0f52f2a6523b25bb7c859f662cf0661055561c1779872539300532bcad4a91",
+  "bytes": 49753496,
+  "files": 1312,
+  "crc": "PASS",
+  "candidate_code_match": true,
+  "extraction_safe": true,
+  "final_startup": "PASS",
+  "status": "DELIVERED_RESEARCH_ENGINEERING",
+  "completed_at": "2026-10-28T03:48:09.374380+08:00",
+  "candidate": "v1.0-research-20261028-v2",
+  "candidate_files_verified": 29,
+  "model_files_verified": 224,
+  "source_snapshots_verified": 8,
+  "named_reports_verified": 8,
+  "unit_tests": 26,
+  "engineering_ac_pass": 30,
+  "stable_signal_verified": false,
+  "fresh_blind_test_verified": false,
+  "real_trading": false,
+  "remaining_required_engineering_work": 0
+}

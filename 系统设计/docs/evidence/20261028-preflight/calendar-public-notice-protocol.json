@@ -1,0 +1,16 @@
+[
+  {
+    "source": "webpack:///./src/assets/js/trans/protocol.js",
+    "sha256": "38bc10f57e950e1a5852b8f2488fba79c397d537beb8e4bae3ade82236cd83f6",
+    "transport_uses_session_reference": true,
+    "unrelated_transport_excerpts_omitted": true,
+    "runtime_session_values_read": false
+  },
+  {
+    "source": "webpack:///./src/assets/js/trans/http.js",
+    "sha256": "588c931dccf53ce0a672f44f9e093e02119eb236d2870f6307f4ab23bf90800b",
+    "transport_uses_session_reference": true,
+    "unrelated_transport_excerpts_omitted": true,
+    "runtime_session_values_read": false
+  }
+]
